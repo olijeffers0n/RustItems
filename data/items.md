@@ -546,12 +546,12 @@
 |Photograph|![](https://rustlabs.com/img/items40/photo.png)|62577426|1|5 mins|
 |Pumpkin Bucket|![](https://rustlabs.com/img/items40/pumpkinbasket.png)|1346158228|1|20 mins|
 |Red Keycard|![](https://rustlabs.com/img/items40/keycard_red.png)|-1880870149|1|5 mins|
-|Rustigé Egg - Blue|![](https://rustlabs.com/img/items40/rustige_egg_b.png)|-173268132|1|5 mins|
-|Rustigé Egg - Green|![](https://rustlabs.com/img/items40/rustige_egg_e.png)|-173268125|1|5 mins|
-|Rustigé Egg - Ivory|![](https://rustlabs.com/img/items40/rustige_egg_d.png)|-173268126|1|5 mins|
-|Rustigé Egg - Purple|![](https://rustlabs.com/img/items40/rustige_egg_c.png)|-173268131|1|5 mins|
-|Rustigé Egg - Red|![](https://rustlabs.com/img/items40/rustige_egg_a.png)|-173268129|1|5 mins|
-|Rustigé Egg - White|![](https://rustlabs.com/img/items40/rustige_egg_f.png)|-173268128|1|5 mins|
+|RustigÃ© Egg - Blue|![](https://rustlabs.com/img/items40/rustige_egg_b.png)|-173268132|1|5 mins|
+|RustigÃ© Egg - Green|![](https://rustlabs.com/img/items40/rustige_egg_e.png)|-173268125|1|5 mins|
+|RustigÃ© Egg - Ivory|![](https://rustlabs.com/img/items40/rustige_egg_d.png)|-173268126|1|5 mins|
+|RustigÃ© Egg - Purple|![](https://rustlabs.com/img/items40/rustige_egg_c.png)|-173268131|1|5 mins|
+|RustigÃ© Egg - Red|![](https://rustlabs.com/img/items40/rustige_egg_a.png)|-173268129|1|5 mins|
+|RustigÃ© Egg - White|![](https://rustlabs.com/img/items40/rustige_egg_f.png)|-173268128|1|5 mins|
 |Sickle|![](https://rustlabs.com/img/items40/sickle.png)|-1368584029|1|5 mins|
 |Silver Egg|![](https://rustlabs.com/img/items40/easter.silveregg.png)|1757265204|10|5 mins|
 |Small Candle Set|![](https://rustlabs.com/img/items40/smallcandles.png)|-2058362263|1|5 mins|
