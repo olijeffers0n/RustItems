@@ -53,7 +53,7 @@ def main() -> None:
         quit(1)
 
     output_json = defaultdict(list)
-    output_markdown = "|Name|Image|ID|Stack Size|Despawn Time|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
+    output_markdown = "|Name|Image|ID|Stack Size|Despawn Time|\n|:-:|:-:|:-:|:-:|:-:|\n"
 
     soup = BeautifulSoup(response.content, 'html.parser')
     info_blocks = soup.find_all('div', class_='info-block group')

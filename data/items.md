@@ -1,5 +1,5 @@
 |Name|Image|ID|Stack Size|Despawn Time|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |16x Zoom Scope|![](https://rustlabs.com/img/items40/weapon.mod.8x.scope.png)|174866732|1|40 mins|
 |8x Zoom Scope|![](https://rustlabs.com/img/items40/weapon.mod.small.scope.png)|567235583|1|40 mins|
 |Assault Rifle|![](https://rustlabs.com/img/items40/rifle.ak.png)|1545779598|1|1 hour|
