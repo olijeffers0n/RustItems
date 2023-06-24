@@ -7,5 +7,5 @@ See [Here](https://github.com/olijeffers0n/RustItems/blob/master/data/items.md) 
 
 Or [Here](https://github.com/olijeffers0n/RustItems/blob/master/data/items.json) for the JSON version
 
-PR's are welcome :)
+The Action will update the database every day
 
