@@ -1,6 +1,5 @@
 import json
 from collections import defaultdict
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -29,10 +28,10 @@ def main() -> None:
 
             output_markdown += f"- [{name}]({image})\n"
 
-    with open("Items.md", "w") as md_out:
+    with open("data/items.md", "w") as md_out:
         md_out.write(output_markdown)
 
-    with open("Items.json", "w") as json_out:
+    with open("data/items.json", "w") as json_out:
         json_out.write(json.dumps(output_json, indent=3))
 
 
