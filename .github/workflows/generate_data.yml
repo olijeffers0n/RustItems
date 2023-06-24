@@ -3,7 +3,7 @@ name: Scrape Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+    - cron: '0 1 * * *' # runs at 1 AM every day
 
 jobs:
   build:
