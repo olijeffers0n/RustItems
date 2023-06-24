@@ -7,7 +7,7 @@ See [Here](https://github.com/olijeffers0n/RustItems/blob/master/data/items.md) 
 
 Or [Here](https://github.com/olijeffers0n/RustItems/blob/master/data/items.json) for the JSON version
 
-The Action will update the database every day so that.
+The Action will update the database every day so that the items are always up-to-date.
 
 
 #### To RustLabs:
