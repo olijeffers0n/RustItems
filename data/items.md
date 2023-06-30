@@ -314,7 +314,7 @@
 |Party Hat|![](https://rustlabs.com/img/items40/partyhat.png)|-575744869|1|30 sec|
 |Purple Sunglasses|![](https://rustlabs.com/img/items40/twitchsunglasses.png)|20489901|1|5 mins|
 |Rabbit Mask|![](https://rustlabs.com/img/items40/hat.rabbitmask.png)|-986782031|1|5 mins|
-|Rat Mask|![](https://rustlabs.com/img/items40/hat.ratmask.png)|271048478|1|5 mins|
+|Rat Mask|![](https://rustlabs.com/img/items40/hat.ratmask.png)|N/A|N/A|N/A|
 |Reindeer Antlers|![](https://rustlabs.com/img/items40/attire.reindeer.headband.png)|-324675402|1|5 mins|
 |Riot Helmet|![](https://rustlabs.com/img/items40/riot.helmet.png)|671063303|1|20 mins|
 |Road Sign Jacket|![](https://rustlabs.com/img/items40/roadsign.jacket.png)|-2002277461|1|20 mins|
@@ -435,7 +435,7 @@
 |Hemp Seed|![](https://rustlabs.com/img/items40/seed.hemp.png)|-237809779|50|5 mins|
 |Herring|![](https://rustlabs.com/img/items40/fish.herring.png)|-1698937385|10|5 mins|
 |Minnows|![](https://rustlabs.com/img/items40/fish.minnows.png)|-542577259|10|5 mins|
-|Mushroom|![](https://rustlabs.com/img/items40/mushroom.png)|-1962971928|10|5 mins|
+|Mushroom|![](https://rustlabs.com/img/items40/mushroom.png)|N/A|N/A|N/A|
 |Orange Roughy|![](https://rustlabs.com/img/items40/fish.orangeroughy.png)|-1904821376|5|5 mins|
 |Pickles|![](https://rustlabs.com/img/items40/jar.pickle.png)|286193827|10|5 mins|
 |Potato|![](https://rustlabs.com/img/items40/potato.png)|-2086926071|20|20 mins|

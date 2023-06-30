@@ -2209,9 +2209,9 @@
       {
          "name": "Rat Mask",
          "image": "https://rustlabs.com/img/items40/hat.ratmask.png",
-         "id": "271048478",
-         "stack_size": "1",
-         "despawn_time": "5 mins"
+         "id": "N/A",
+         "stack_size": "N/A",
+         "despawn_time": "N/A"
       },
       {
          "name": "Reindeer Antlers",
@@ -3062,9 +3062,9 @@
       {
          "name": "Mushroom",
          "image": "https://rustlabs.com/img/items40/mushroom.png",
-         "id": "-1962971928",
-         "stack_size": "10",
-         "despawn_time": "5 mins"
+         "id": "N/A",
+         "stack_size": "N/A",
+         "despawn_time": "N/A"
       },
       {
          "name": "Orange Roughy",
