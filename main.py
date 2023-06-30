@@ -20,7 +20,6 @@ try:
             name_to_info[i["name"]] = {"image": i["image"], "id": i["id"], "stack_size": i["stack_size"], "despawn_time": i["despawn_time"]}
 except:
     print("File does not exist or an error occured.")
-print(name_to_info)
 def extract_item_data(href: str, info_block: bs4.Tag) -> dict:
     item_url = "https://rustlabs.com" + href
 
