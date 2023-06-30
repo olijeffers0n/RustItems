@@ -12,16 +12,31 @@ HEADERS = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
     }
 
-
+name_to_info = {}
+try:
+    previousfile = json.load(open("data/items.json", "r"))
+    for type in previousfile:
+        for i in previousfile[type]:
+            name_to_info[i["name"]] = {"image": i["image"], "id": i["id"], "stack_size": i["stack_size"], "despawn_time": i["despawn_time"]}
+except:
+    print("File does not exist or an error occured.")
+print(name_to_info)
 def extract_item_data(href: str, info_block: bs4.Tag) -> dict:
     item_url = "https://rustlabs.com" + href
 
+    id = "N/A"; stack_size = "N/A"; despawn_time = "N/A"
+    item_name = str(info_block.find_all(class_="r-cell")[0].getText())
+    if item_name in name_to_info:
+        id = name_to_info[item_name]["id"]
+        stack_size = name_to_info[item_name]["stack_size"]
+        despawn_time = name_to_info[item_name]["despawn_time"]
+        
     appending = {
         "name": info_block.find_all(class_="r-cell")[0].getText(),
         "image": "https:" + info_block.find_all("img")[0]["src"],
-        "id": "N/A",
-        "stack_size": "N/A",
-        "despawn_time": "N/A"
+        "id": id,
+        "stack_size": stack_size,
+        "despawn_time": despawn_time
     }
 
     try:
@@ -45,7 +60,6 @@ def extract_item_data(href: str, info_block: bs4.Tag) -> dict:
 
 
 def main() -> None:
-
     response = requests.get('https://rustlabs.com/group=itemlist', headers=HEADERS)
 
     if response.status_code != 200:
@@ -53,7 +67,7 @@ def main() -> None:
         quit(1)
 
     output_json = defaultdict(list)
-    output_markdown = "|Name|Image|ID|Stack Size|Despawn Time|\n|:-:|:-:|:-:|:-:|:-:|\n"
+    output_markdown = "|Name|Image|ID|Stack Size|Despawn Time|\n|:-:|:-:|:-:|:-:|:-:|:-:|:-:|\n"
 
     soup = BeautifulSoup(response.content, 'html.parser')
     info_blocks = soup.find_all('div', class_='info-block group')
@@ -77,12 +91,19 @@ def main() -> None:
             time.sleep(0.5)
 
     bar.finish()
+    name_to_info_output = {}
+    for type in output_json:
+        for i in output_json[type]:
+            name_to_info_output[i["name"]] = {"image": i["image"], "id": i["id"], "stack_size": i["stack_size"], "despawn_time": i["despawn_time"]}
 
     with open("data/items.md", "w") as md_out:
         md_out.write(output_markdown)
 
     with open("data/items.json", "w") as json_out:
         json_out.write(json.dumps(output_json, indent=3))
+    
+    with open ("data/name_to_info.json", "w") as name_info_out:
+        name_info_out.write(json.dumps(name_to_info_output, indent=3))
 
 
 if __name__ == '__main__':
