@@ -1,0 +1,302 @@
+{
+   "16x Zoom Scope": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.8x.scope.png",
+      "id": "174866732",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "8x Zoom Scope": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.small.scope.png",
+      "id": "567235583",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Assault Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.ak.png",
+      "id": "1545779598",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Beancan Grenade": {
+      "image": "https://rustlabs.com/img/items40/grenade.beancan.png",
+      "id": "1840822026",
+      "stack_size": "5",
+      "despawn_time": "40 mins"
+   },
+   "Bolt Action Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.bolt.png",
+      "id": "1588298435",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Bone Club": {
+      "image": "https://rustlabs.com/img/items40/bone.club.png",
+      "id": "1711033574",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Bone Knife": {
+      "image": "https://rustlabs.com/img/items40/knife.bone.png",
+      "id": "1814288539",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Butcher Knife": {
+      "image": "https://rustlabs.com/img/items40/knife.butcher.png",
+      "id": "-194509282",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Candy Cane Club": {
+      "image": "https://rustlabs.com/img/items40/candycaneclub.png",
+      "id": "1789825282",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Combat Knife": {
+      "image": "https://rustlabs.com/img/items40/knife.combat.png",
+      "id": "2040726127",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Compound Bow": {
+      "image": "https://rustlabs.com/img/items40/bow.compound.png",
+      "id": "884424049",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Crossbow": {
+      "image": "https://rustlabs.com/img/items40/crossbow.png",
+      "id": "1965232394",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Custom SMG": {
+      "image": "https://rustlabs.com/img/items40/smg.2.png",
+      "id": "1796682209",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Double Barrel Shotgun": {
+      "image": "https://rustlabs.com/img/items40/shotgun.double.png",
+      "id": "-765183617",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Eoka Pistol": {
+      "image": "https://rustlabs.com/img/items40/pistol.eoka.png",
+      "id": "-75944661",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Extended Magazine": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.extendedmags.png",
+      "id": "2005491391",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "F1 Grenade": {
+      "image": "https://rustlabs.com/img/items40/grenade.f1.png",
+      "id": "143803535",
+      "stack_size": "5",
+      "despawn_time": "20 mins"
+   },
+   "Flame Thrower": {
+      "image": "https://rustlabs.com/img/items40/flamethrower.png",
+      "id": "-1215753368",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Flashbang": {
+      "image": "https://rustlabs.com/img/items40/grenade.flashbang.png",
+      "id": "-936921910",
+      "stack_size": "5",
+      "despawn_time": "20 mins"
+   },
+   "HMLMG": {
+      "image": "https://rustlabs.com/img/items40/hmlmg.png",
+      "id": "-1214542497",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Holosight": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.holosight.png",
+      "id": "442289265",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Hunting Bow": {
+      "image": "https://rustlabs.com/img/items40/bow.hunting.png",
+      "id": "1443579727",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "L96 Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.l96.png",
+      "id": "-778367295",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "LR-300 Assault Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.lr300.png",
+      "id": "-1812555177",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Longsword": {
+      "image": "https://rustlabs.com/img/items40/longsword.png",
+      "id": "-1469578201",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "M249": {
+      "image": "https://rustlabs.com/img/items40/lmg.m249.png",
+      "id": "-2069578888",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "M39 Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.m39.png",
+      "id": "28201841",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "M92 Pistol": {
+      "image": "https://rustlabs.com/img/items40/pistol.m92.png",
+      "id": "-852563019",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "MP5A4": {
+      "image": "https://rustlabs.com/img/items40/smg.mp5.png",
+      "id": "1318558775",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Mace": {
+      "image": "https://rustlabs.com/img/items40/mace.png",
+      "id": "-1966748496",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Machete": {
+      "image": "https://rustlabs.com/img/items40/machete.png",
+      "id": "-1137865085",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Molotov Cocktail": {
+      "image": "https://rustlabs.com/img/items40/grenade.molotov.png",
+      "id": "1556365900",
+      "stack_size": "5",
+      "despawn_time": "20 mins"
+   },
+   "Multiple Grenade Launcher": {
+      "image": "https://rustlabs.com/img/items40/multiplegrenadelauncher.png",
+      "id": "-1123473824",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Muzzle Boost": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.muzzleboost.png",
+      "id": "-1405508498",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Muzzle Brake": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.muzzlebrake.png",
+      "id": "1478091698",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Nailgun": {
+      "image": "https://rustlabs.com/img/items40/pistol.nailgun.png",
+      "id": "1953903201",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Paddle": {
+      "image": "https://rustlabs.com/img/items40/paddle.png",
+      "id": "1491189398",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Pitchfork": {
+      "image": "https://rustlabs.com/img/items40/pitchfork.png",
+      "id": "1090916276",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Prototype 17": {
+      "image": "https://rustlabs.com/img/items40/pistol.prototype17.png",
+      "id": "1914691295",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Pump Shotgun": {
+      "image": "https://rustlabs.com/img/items40/shotgun.pump.png",
+      "id": "795371088",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Python Revolver": {
+      "image": "https://rustlabs.com/img/items40/pistol.python.png",
+      "id": "1373971859",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Revolver": {
+      "image": "https://rustlabs.com/img/items40/pistol.revolver.png",
+      "id": "649912614",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Rocket Launcher": {
+      "image": "https://rustlabs.com/img/items40/rocket.launcher.png",
+      "id": "442886268",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
+   "Salvaged Cleaver": {
+      "image": "https://rustlabs.com/img/items40/salvaged.cleaver.png",
+      "id": "-1978999529",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Salvaged Sword": {
+      "image": "https://rustlabs.com/img/items40/salvaged.sword.png",
+      "id": "1326180354",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Semi-Automatic Pistol": {
+      "image": "https://rustlabs.com/img/items40/pistol.semiauto.png",
+      "id": "818877484",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Semi-Automatic Rifle": {
+      "image": "https://rustlabs.com/img/items40/rifle.semiauto.png",
+      "id": "-904863145",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
+   "Silencer": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.silencer.png",
+      "id": "-1850571427",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Simple Handmade Sight": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.simplesight.png",
+      "id": "-855748505",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Snowball": {
+      "image": "https://rustlabs.com/img/items40/snowball.png",
+      "id": "-363689972",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   }
+}
