@@ -18,9 +18,9 @@ def extract_item_data(href: str, info_block: bs4.Tag, name_to_info: dict) -> dic
 
     item_name = str(info_block.find_all(class_="r-cell")[0].getText())
 
-    item_id = name_to_info[item_name].get("id", "N/A")
-    stack_size = name_to_info[item_name].get("stack_size")
-    despawn_time = name_to_info[item_name].get("despawn_time")
+    item_id = name_to_info.get(item_name, {}).get("id", "N/A")
+    stack_size = name_to_info.get(item_name, {}).get("stack_size", "N/A")
+    despawn_time = name_to_info.get(item_name, {}).get("despawn_time", "N/A")
 
     appending = {
         "name": info_block.find_all(class_="r-cell")[0].getText(),
