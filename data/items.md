@@ -122,6 +122,7 @@
 |Christmas Door Wreath|![](https://rustlabs.com/img/items40/xmasdoorwreath.png)|2009734114|1|5 mins|
 |Christmas Lights|![](https://rustlabs.com/img/items40/xmas.lightstring.png)|1058261682|20|5 mins|
 |Christmas Tree|![](https://rustlabs.com/img/items40/xmas.tree.png)|794443127|1|5 mins|
+|Clan Table|![](https://rustlabs.com/img/items40/clantable.png)|486661382|1|5 mins|
 |Composter|![](https://rustlabs.com/img/items40/composter.png)|-1488398114|1|5 mins|
 |Double Sign Post|![](https://rustlabs.com/img/items40/sign.post.double.png)|1521286012|5|20 mins|
 |Dragon Door Knocker|![](https://rustlabs.com/img/items40/dragondoorknocker.png)|-854270928|1|5 mins|

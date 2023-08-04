@@ -859,6 +859,13 @@
          "despawn_time": "5 mins"
       },
       {
+         "name": "Clan Table",
+         "image": "https://rustlabs.com/img/items40/clantable.png",
+         "id": "486661382",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
          "name": "Composter",
          "image": "https://rustlabs.com/img/items40/composter.png",
          "id": "-1488398114",
