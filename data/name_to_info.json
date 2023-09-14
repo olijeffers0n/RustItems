@@ -125,6 +125,12 @@
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
+   "Homing Missile Launcher": {
+      "image": "https://rustlabs.com/img/items40/homingmissile.launcher.png",
+      "id": "-218009552",
+      "stack_size": "1",
+      "despawn_time": "1 hour"
+   },
    "Hunting Bow": {
       "image": "https://rustlabs.com/img/items40/bow.hunting.png",
       "id": "1443579727",
@@ -821,6 +827,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Horizontal Weapon Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack.horizontal.png",
+      "id": "-246672609",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
    "Huge Wooden Sign": {
       "image": "https://rustlabs.com/img/items40/sign.wooden.huge.png",
       "id": "-143132326",
@@ -1109,6 +1121,12 @@
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
+   "Tall Weapon Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack_tall.horizontal.png",
+      "id": "240752557",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
    "Tuna Can Lamp": {
       "image": "https://rustlabs.com/img/items40/tunalight.png",
       "id": "-1478445584",
@@ -1155,6 +1173,18 @@
       "image": "https://rustlabs.com/img/items40/water.purifier.png",
       "id": "2114754781",
       "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Weapon Rack Stand": {
+      "image": "https://rustlabs.com/img/items40/gunrack_stand.png",
+      "id": "1132603396",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
+   "Wide Weapon Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack_wide.horizontal.png",
+      "id": "-96256997",
+      "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Wood Storage Box": {
@@ -1733,6 +1763,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Hot Air Balloon Armor": {
+      "image": "https://rustlabs.com/img/items40/hab.armor.png",
+      "id": "-1989600732",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Improvised Balaclava": {
       "image": "https://rustlabs.com/img/items40/mask.balaclava.png",
       "id": "-2012470695",
@@ -1870,6 +1906,12 @@
       "id": "237239288",
       "stack_size": "1",
       "despawn_time": "20 mins"
+   },
+   "Parachute": {
+      "image": "https://rustlabs.com/img/items40/parachute.png",
+      "id": "602628465",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
    },
    "Party Hat": {
       "image": "https://rustlabs.com/img/items40/partyhat.png",
@@ -2993,6 +3035,12 @@
       "stack_size": "3",
       "despawn_time": "1 hour"
    },
+   "Homing Missile": {
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.seeker.png",
+      "id": "1296788329",
+      "stack_size": "2",
+      "despawn_time": "1 hour"
+   },
    "Incendiary 5.56 Rifle Ammo": {
       "image": "https://rustlabs.com/img/items40/ammo.rifle.incendiary.png",
       "id": "605467368",
@@ -3794,7 +3842,7 @@
    "Fluid Switch & Pump": {
       "image": "https://rustlabs.com/img/items40/fluid.switch.png",
       "id": "443432036",
-      "stack_size": "1",
+      "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Green Industrial Wall Light": {
@@ -3932,7 +3980,7 @@
    "Powered Water Purifier": {
       "image": "https://rustlabs.com/img/items40/powered.water.purifier.png",
       "id": "-365097295",
-      "stack_size": "1",
+      "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Pressure Pad": {
@@ -4082,7 +4130,7 @@
    "Water Pump": {
       "image": "https://rustlabs.com/img/items40/waterpump.png",
       "id": "-1284169891",
-      "stack_size": "1",
+      "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Wind Turbine": {

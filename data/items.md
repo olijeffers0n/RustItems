@@ -21,6 +21,7 @@
 |Flashbang|![](https://rustlabs.com/img/items40/grenade.flashbang.png)|-936921910|5|20 mins|
 |HMLMG|![](https://rustlabs.com/img/items40/hmlmg.png)|-1214542497|1|1 hour|
 |Holosight|![](https://rustlabs.com/img/items40/weapon.mod.holosight.png)|442289265|1|40 mins|
+|Homing Missile Launcher|![](https://rustlabs.com/img/items40/homingmissile.launcher.png)|-218009552|1|1 hour|
 |Hunting Bow|![](https://rustlabs.com/img/items40/bow.hunting.png)|1443579727|1|5 mins|
 |L96 Rifle|![](https://rustlabs.com/img/items40/rifle.l96.png)|-778367295|1|1 hour|
 |LR-300 Assault Rifle|![](https://rustlabs.com/img/items40/rifle.lr300.png)|-1812555177|1|1 hour|
@@ -137,6 +138,7 @@
 |Furnace|![](https://rustlabs.com/img/items40/furnace.png)|-1999722522|1|5 mins|
 |Hitch & Trough|![](https://rustlabs.com/img/items40/hitchtroughcombo.png)|1160881421|1|5 mins|
 |Hobo Barrel|![](https://rustlabs.com/img/items40/hobobarrel.png)|-1442559428|1|5 mins|
+|Horizontal Weapon Rack|![](https://rustlabs.com/img/items40/gunrack.horizontal.png)|-246672609|10|5 mins|
 |Huge Wooden Sign|![](https://rustlabs.com/img/items40/sign.wooden.huge.png)|-143132326|1|20 mins|
 |Jack O Lantern Angry|![](https://rustlabs.com/img/items40/jackolantern.angry.png)|1242482355|1|5 mins|
 |Jack O Lantern Happy|![](https://rustlabs.com/img/items40/jackolantern.happy.png)|-1824943010|1|5 mins|
@@ -185,6 +187,7 @@
 |Survival Fish Trap|![](https://rustlabs.com/img/items40/fishtrap.small.png)|559147458|5|5 mins|
 |Table|![](https://rustlabs.com/img/items40/table.png)|593465182|1|5 mins|
 |Tall Picture Frame|![](https://rustlabs.com/img/items40/sign.pictureframe.tall.png)|121049755|5|20 mins|
+|Tall Weapon Rack|![](https://rustlabs.com/img/items40/gunrack_tall.horizontal.png)|240752557|10|5 mins|
 |Tuna Can Lamp|![](https://rustlabs.com/img/items40/tunalight.png)|-1478445584|1|5 mins|
 |Twitch Rivals Trophy|![](https://rustlabs.com/img/items40/trophy.png)|975983052|1|5 mins|
 |Two Sided Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.png)|1205607945|5|20 mins|
@@ -193,6 +196,8 @@
 |Vending Machine|![](https://rustlabs.com/img/items40/vending.machine.png)|198438816|1|20 mins|
 |Water Barrel|![](https://rustlabs.com/img/items40/water.barrel.png)|-1863559151|1|5 mins|
 |Water Purifier|![](https://rustlabs.com/img/items40/water.purifier.png)|2114754781|1|5 mins|
+|Weapon Rack Stand|![](https://rustlabs.com/img/items40/gunrack_stand.png)|1132603396|10|5 mins|
+|Wide Weapon Rack|![](https://rustlabs.com/img/items40/gunrack_wide.horizontal.png)|-96256997|10|5 mins|
 |Wood Storage Box|![](https://rustlabs.com/img/items40/box.wooden.png)|-180129657|1|5 mins|
 |Workbench Level 1|![](https://rustlabs.com/img/items40/workbench1.png)|1524187186|1|40 mins|
 |Workbench Level 2|![](https://rustlabs.com/img/items40/workbench2.png)|-41896755|1|40 mins|
@@ -289,6 +294,7 @@
 |High Quality Horse Shoes|![](https://rustlabs.com/img/items40/horse.shoes.advanced.png)|1989785143|1|20 mins|
 |Hoodie|![](https://rustlabs.com/img/items40/hoodie.png)|1751045826|1|20 mins|
 |Horse Saddle|![](https://rustlabs.com/img/items40/horse.saddle.png)|-1997543660|1|5 mins|
+|Hot Air Balloon Armor|![](https://rustlabs.com/img/items40/hab.armor.png)|-1989600732|1|20 mins|
 |Improvised Balaclava|![](https://rustlabs.com/img/items40/mask.balaclava.png)|-2012470695|1|5 mins|
 |Jacket|![](https://rustlabs.com/img/items40/jacket.png)|-1163532624|1|5 mins|
 |Jumpsuit|![](https://rustlabs.com/img/items40/jumpsuit.suit.png)|-97459906|1|5 mins|
@@ -312,6 +318,7 @@
 |Ninja Suit|![](https://rustlabs.com/img/items40/attire.ninja.suit.png)|-1506417026|1|5 mins|
 |Ox Mask|![](https://rustlabs.com/img/items40/hat.oxmask.png)|1315082560|1|5 mins|
 |Pants|![](https://rustlabs.com/img/items40/pants.png)|237239288|1|20 mins|
+|Parachute|![](https://rustlabs.com/img/items40/parachute.png)|602628465|1|40 mins|
 |Party Hat|![](https://rustlabs.com/img/items40/partyhat.png)|-575744869|1|30 sec|
 |Purple Sunglasses|![](https://rustlabs.com/img/items40/twitchsunglasses.png)|20489901|1|5 mins|
 |Rabbit Mask|![](https://rustlabs.com/img/items40/hat.rabbitmask.png)|-986782031|1|5 mins|
@@ -499,6 +506,7 @@
 |Handmade Shell|![](https://rustlabs.com/img/items40/ammo.handmade.shell.png)|588596902|64|5 mins|
 |High Velocity Arrow|![](https://rustlabs.com/img/items40/arrow.hv.png)|-1023065463|64|5 mins|
 |High Velocity Rocket|![](https://rustlabs.com/img/items40/ammo.rocket.hv.png)|-1841918730|3|1 hour|
+|Homing Missile|![](https://rustlabs.com/img/items40/ammo.rocket.seeker.png)|1296788329|2|1 hour|
 |Incendiary 5.56 Rifle Ammo|![](https://rustlabs.com/img/items40/ammo.rifle.incendiary.png)|605467368|128|40 mins|
 |Incendiary Pistol Bullet|![](https://rustlabs.com/img/items40/ammo.pistol.fire.png)|51984655|128|40 mins|
 |Incendiary Rocket|![](https://rustlabs.com/img/items40/ammo.rocket.fire.png)|1638322904|3|1 hour|
@@ -632,7 +640,7 @@
 |Flasher Light|![](https://rustlabs.com/img/items40/electric.flasherlight.png)|-939424778|5|5 mins|
 |Fluid Combiner|![](https://rustlabs.com/img/items40/fluid.combiner.png)|-265292885|5|5 mins|
 |Fluid Splitter|![](https://rustlabs.com/img/items40/fluid.splitter.png)|-1166712463|5|5 mins|
-|Fluid Switch & Pump|![](https://rustlabs.com/img/items40/fluid.switch.png)|443432036|1|5 mins|
+|Fluid Switch & Pump|![](https://rustlabs.com/img/items40/fluid.switch.png)|443432036|5|5 mins|
 |Green Industrial Wall Light|![](https://rustlabs.com/img/items40/industrial.wall.light.green.png)|1268178466|10|5 mins|
 |HBHF Sensor|![](https://rustlabs.com/img/items40/electric.hbhfsensor.png)|-1507239837|1|20 mins|
 |Hose Tool|![](https://rustlabs.com/img/items40/hosetool.png)|363163265|1|5 mins|
@@ -655,7 +663,7 @@
 |OR Switch|![](https://rustlabs.com/img/items40/electric.orswitch.png)|-1286302544|5|5 mins|
 |PTZ CCTV Camera|![](https://rustlabs.com/img/items40/ptz.cctv.camera.png)|140006625|5|20 mins|
 |Pipe Tool|![](https://rustlabs.com/img/items40/pipetool.png)|-144513264|1|5 mins|
-|Powered Water Purifier|![](https://rustlabs.com/img/items40/powered.water.purifier.png)|-365097295|1|20 mins|
+|Powered Water Purifier|![](https://rustlabs.com/img/items40/powered.water.purifier.png)|-365097295|3|20 mins|
 |Pressure Pad|![](https://rustlabs.com/img/items40/electric.pressurepad.png)|-2049214035|1|5 mins|
 |RAND Switch|![](https://rustlabs.com/img/items40/electric.random.switch.png)|492357192|5|5 mins|
 |RF Broadcaster|![](https://rustlabs.com/img/items40/electric.rf.broadcaster.png)|-1044468317|1|5 mins|
@@ -680,7 +688,7 @@
 |Tesla Coil|![](https://rustlabs.com/img/items40/electric.teslacoil.png)|1371909803|3|5 mins|
 |Test Generator|![](https://rustlabs.com/img/items40/electric.generator.small.png)|-295829489|1|20 mins|
 |Timer|![](https://rustlabs.com/img/items40/electric.timer.png)|665332906|5|5 mins|
-|Water Pump|![](https://rustlabs.com/img/items40/waterpump.png)|-1284169891|1|20 mins|
+|Water Pump|![](https://rustlabs.com/img/items40/waterpump.png)|-1284169891|3|20 mins|
 |Wind Turbine|![](https://rustlabs.com/img/items40/generator.wind.scrap.png)|-1819763926|1|40 mins|
 |Wire Tool|![](https://rustlabs.com/img/items40/wiretool.png)|-144417939|1|5 mins|
 |XOR Switch|![](https://rustlabs.com/img/items40/electric.xorswitch.png)|1293102274|5|5 mins|
