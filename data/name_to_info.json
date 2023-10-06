@@ -2891,7 +2891,7 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
-   "Water Jug": {
+   "Water Jug - Charitable Rust 2023": {
       "image": "https://rustlabs.com/img/items40/waterjug.png",
       "id": "-119235651",
       "stack_size": "1",
@@ -3038,7 +3038,7 @@
    "Homing Missile": {
       "image": "https://rustlabs.com/img/items40/ammo.rocket.seeker.png",
       "id": "1296788329",
-      "stack_size": "2",
+      "stack_size": "4",
       "despawn_time": "1 hour"
    },
    "Incendiary 5.56 Rifle Ammo": {

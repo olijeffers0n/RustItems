@@ -482,7 +482,7 @@
 |Spoiled Wolf Meat|![](https://rustlabs.com/img/items40/wolfmeat.spoiled.png)|-1167031859|20|5 mins|
 |Super Serum|![](https://rustlabs.com/img/items40/supertea.png)|-1003665711|1|5 mins|
 |Vodka Bottle|![](https://rustlabs.com/img/items40/bottle.vodka.png)|755224797|1|5 mins|
-|Water Jug|![](https://rustlabs.com/img/items40/waterjug.png)|-119235651|1|20 mins|
+|Water Jug - Charitable Rust 2023|![](https://rustlabs.com/img/items40/waterjug.png)|-119235651|1|20 mins|
 |White Berry|![](https://rustlabs.com/img/items40/white.berry.png)|854447607|20|20 mins|
 |White Berry Clone|![](https://rustlabs.com/img/items40/clone.white.berry.png)|1533551194|50|5 mins|
 |White Berry Seed|![](https://rustlabs.com/img/items40/seed.white.berry.png)|-992286106|50|5 mins|
@@ -506,7 +506,7 @@
 |Handmade Shell|![](https://rustlabs.com/img/items40/ammo.handmade.shell.png)|588596902|64|5 mins|
 |High Velocity Arrow|![](https://rustlabs.com/img/items40/arrow.hv.png)|-1023065463|64|5 mins|
 |High Velocity Rocket|![](https://rustlabs.com/img/items40/ammo.rocket.hv.png)|-1841918730|3|1 hour|
-|Homing Missile|![](https://rustlabs.com/img/items40/ammo.rocket.seeker.png)|1296788329|2|1 hour|
+|Homing Missile|![](https://rustlabs.com/img/items40/ammo.rocket.seeker.png)|1296788329|4|1 hour|
 |Incendiary 5.56 Rifle Ammo|![](https://rustlabs.com/img/items40/ammo.rifle.incendiary.png)|605467368|128|40 mins|
 |Incendiary Pistol Bullet|![](https://rustlabs.com/img/items40/ammo.pistol.fire.png)|51984655|128|40 mins|
 |Incendiary Rocket|![](https://rustlabs.com/img/items40/ammo.rocket.fire.png)|1638322904|3|1 hour|

@@ -3389,7 +3389,7 @@
          "despawn_time": "5 mins"
       },
       {
-         "name": "Water Jug",
+         "name": "Water Jug - Charitable Rust 2023",
          "image": "https://rustlabs.com/img/items40/waterjug.png",
          "id": "-119235651",
          "stack_size": "1",
@@ -3562,7 +3562,7 @@
          "name": "Homing Missile",
          "image": "https://rustlabs.com/img/items40/ammo.rocket.seeker.png",
          "id": "1296788329",
-         "stack_size": "2",
+         "stack_size": "4",
          "despawn_time": "1 hour"
       },
       {
