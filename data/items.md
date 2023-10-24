@@ -56,6 +56,7 @@
 |Speargun|![](https://rustlabs.com/img/items40/speargun.png)|-1517740219|1|5 mins|
 |Stone Spear|![](https://rustlabs.com/img/items40/spear.stone.png)|1602646136|1|5 mins|
 |Thompson|![](https://rustlabs.com/img/items40/smg.thompson.png)|-1758372725|1|40 mins|
+|Vampire Stake|![](https://rustlabs.com/img/items40/vampire.stake.png)|-885833256|1|5 mins|
 |Water Gun|![](https://rustlabs.com/img/items40/gun.water.png)|722955039|1|5 mins|
 |Water Pistol|![](https://rustlabs.com/img/items40/pistol.water.png)|-1815301988|1|5 mins|
 |Waterpipe Shotgun|![](https://rustlabs.com/img/items40/shotgun.waterpipe.png)|-1367281941|1|20 mins|
@@ -269,6 +270,8 @@
 |Diving Mask|![](https://rustlabs.com/img/items40/diving.mask.png)|-113413047|1|20 mins|
 |Diving Tank|![](https://rustlabs.com/img/items40/diving.tank.png)|-2022172587|1|20 mins|
 |Double Horse Saddle|![](https://rustlabs.com/img/items40/horse.saddle.double.png)|-1323101799|1|5 mins|
+|Dracula Cape|![](https://rustlabs.com/img/items40/draculacape.png)|-258574361|1|40 mins|
+|Dracula Mask|![](https://rustlabs.com/img/items40/draculamask.png)|1865253052|1|40 mins|
 |Dragon Mask|![](https://rustlabs.com/img/items40/hat.dragonmask.png)|-22883916|1|5 mins|
 |Egg Suit|![](https://rustlabs.com/img/items40/attire.egg.suit.png)|-747743875|1|40 mins|
 |Frog Boots|![](https://rustlabs.com/img/items40/boots.frog.png)|-1000573653|1|5 mins|

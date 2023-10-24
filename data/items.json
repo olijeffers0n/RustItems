@@ -393,6 +393,13 @@
          "despawn_time": "40 mins"
       },
       {
+         "name": "Vampire Stake",
+         "image": "https://rustlabs.com/img/items40/vampire.stake.png",
+         "id": "-885833256",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
          "name": "Water Gun",
          "image": "https://rustlabs.com/img/items40/gun.water.png",
          "id": "722955039",
@@ -1890,6 +1897,20 @@
          "id": "-1323101799",
          "stack_size": "1",
          "despawn_time": "5 mins"
+      },
+      {
+         "name": "Dracula Cape",
+         "image": "https://rustlabs.com/img/items40/draculacape.png",
+         "id": "-258574361",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
+      },
+      {
+         "name": "Dracula Mask",
+         "image": "https://rustlabs.com/img/items40/draculamask.png",
+         "id": "1865253052",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
       },
       {
          "name": "Dragon Mask",
