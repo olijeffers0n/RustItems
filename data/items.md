@@ -50,6 +50,7 @@
 |Semi-Automatic Rifle|![](https://rustlabs.com/img/items40/rifle.semiauto.png)|-904863145|1|40 mins|
 |Silencer|![](https://rustlabs.com/img/items40/weapon.mod.silencer.png)|-1850571427|1|20 mins|
 |Simple Handmade Sight|![](https://rustlabs.com/img/items40/weapon.mod.simplesight.png)|-855748505|1|20 mins|
+|Skinning Knife|![](https://rustlabs.com/img/items40/knife.skinning.png)|-2073432256|1|5 mins|
 |Snowball|![](https://rustlabs.com/img/items40/snowball.png)|-363689972|1|5 mins|
 |Snowball Gun|![](https://rustlabs.com/img/items40/snowballgun.png)|1103488722|1|5 mins|
 |Spas-12 Shotgun|![](https://rustlabs.com/img/items40/shotgun.spas12.png)|-41440462|1|5 mins|
@@ -110,10 +111,12 @@
 |Wooden Barricade|![](https://rustlabs.com/img/items40/barricade.wood.png)|866889860|10|5 mins|
 |Wooden Barricade Cover|![](https://rustlabs.com/img/items40/barricade.wood.cover.png)|1373240771|10|5 mins|
 |Wooden Door|![](https://rustlabs.com/img/items40/door.hinged.wood.png)|1729120840|1|5 mins|
+|Wooden Frontier Bar Doors|![](https://rustlabs.com/img/items40/door.double.hinged.bardoors.png)|-1151332840|1|40 mins|
 |Wooden Ladder|![](https://rustlabs.com/img/items40/ladder.wooden.wall.png)|-316250604|5|40 mins|
 |Wooden Window Bars|![](https://rustlabs.com/img/items40/wall.window.bars.wood.png)|-1183726687|10|5 mins|
 |Advent Calendar|![](https://rustlabs.com/img/items40/xmas.advent.png)|-2027793839|1|5 mins|
 |Barbeque|![](https://rustlabs.com/img/items40/bbq.png)|1099314009|1|5 mins|
+|Bath Tub Planter|![](https://rustlabs.com/img/items40/bathtub.planter.png)|-1274093662|10|5 mins|
 |Bed|![](https://rustlabs.com/img/items40/bed.png)|-1273339005|1|20 mins|
 |Bota Bag|![](https://rustlabs.com/img/items40/botabag.png)|613961768|1|5 mins|
 |Camp Fire|![](https://rustlabs.com/img/items40/campfire.png)|1946219319|1|5 mins|
@@ -134,8 +137,12 @@
 |Festive Doorway Garland|![](https://rustlabs.com/img/items40/xmas.door.garland.png)|674734128|10|5 mins|
 |Festive Double Doorway Garland|![](https://rustlabs.com/img/items40/xmas.double.door.garland.png)|-1230433643|10|5 mins|
 |Festive Window Garland|![](https://rustlabs.com/img/items40/xmas.window.garland.png)|-1379835144|10|5 mins|
+|Fish Trophy|![](https://rustlabs.com/img/items40/fishtrophy.png)|-1913996738|1|5 mins|
 |Frankenstein Table|![](https://rustlabs.com/img/items40/frankensteintable.png)|1575635062|1|20 mins|
 |Fridge|![](https://rustlabs.com/img/items40/fridge.png)|1413014235|1|5 mins|
+|Frontier Bolts Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.1.horizontal.png)|1973949960|10|5 mins|
+|Frontier Horns Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.3.horizontal.png)|-52398594|10|5 mins|
+|Frontier Horseshoe Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.2.horizontal.png)|-849373693|10|5 mins|
 |Furnace|![](https://rustlabs.com/img/items40/furnace.png)|-1999722522|1|5 mins|
 |Hitch & Trough|![](https://rustlabs.com/img/items40/hitchtroughcombo.png)|1160881421|1|5 mins|
 |Hobo Barrel|![](https://rustlabs.com/img/items40/hobobarrel.png)|-1442559428|1|5 mins|
@@ -150,6 +157,7 @@
 |Large Banner Hanging|![](https://rustlabs.com/img/items40/sign.hanging.banner.large.png)|23352662|5|40 mins|
 |Large Banner on pole|![](https://rustlabs.com/img/items40/sign.pole.banner.large.png)|2070189026|5|40 mins|
 |Large Furnace|![](https://rustlabs.com/img/items40/furnace.large.png)|-1992717673|1|40 mins|
+|Large Hunting Trophy|![](https://rustlabs.com/img/items40/huntingtrophylarge.png)|960673498|1|5 mins|
 |Large Photo Frame|![](https://rustlabs.com/img/items40/photoframe.large.png)|1205084994|1|40 mins|
 |Large Planter Box|![](https://rustlabs.com/img/items40/planter.large.png)|1581210395|10|5 mins|
 |Large Wood Box|![](https://rustlabs.com/img/items40/box.wooden.large.png)|833533164|1|5 mins|
@@ -157,14 +165,17 @@
 |Locker|![](https://rustlabs.com/img/items40/locker.png)|-110921842|1|20 mins|
 |Mail Box|![](https://rustlabs.com/img/items40/mailbox.png)|-586784898|1|5 mins|
 |Medium Wooden Sign|![](https://rustlabs.com/img/items40/sign.wooden.medium.png)|-1819233322|1|5 mins|
+|Minecart Planter|![](https://rustlabs.com/img/items40/minecart.planter.png)|1361520181|10|5 mins|
 |Mixing Table|![](https://rustlabs.com/img/items40/mixingtable.png)|1259919256|1|20 mins|
 |One Sided Town Sign Post|![](https://rustlabs.com/img/items40/sign.post.town.png)|-1832422579|5|20 mins|
 |Paper Map|![](https://rustlabs.com/img/items40/map.png)|696029452|1|30 sec|
 |Pookie Bear|![](https://rustlabs.com/img/items40/pookie.bear.png)|-1651220691|1|5 mins|
 |Portrait Photo Frame|![](https://rustlabs.com/img/items40/photoframe.portrait.png)|1729712564|1|20 mins|
 |Portrait Picture Frame|![](https://rustlabs.com/img/items40/sign.pictureframe.portrait.png)|-1370759135|5|20 mins|
+|Rail Road Planter|![](https://rustlabs.com/img/items40/rail.road.planter.png)|615112838|10|5 mins|
 |Repair Bench|![](https://rustlabs.com/img/items40/box.repair.bench.png)|803222026|1|5 mins|
 |Research Table|![](https://rustlabs.com/img/items40/research.table.png)|-1861522751|1|40 mins|
+|Rocking Chair|![](https://rustlabs.com/img/items40/rockingchair.png)|-1863063690|5|5 mins|
 |Rug|![](https://rustlabs.com/img/items40/rug.png)|-1985799200|1|5 mins|
 |Rug Bear Skin|![](https://rustlabs.com/img/items40/rug.bear.png)|-1104881824|1|5 mins|
 |SUPER Stocking|![](https://rustlabs.com/img/items40/stocking.large.png)|-465682601|1|5 mins|
@@ -175,6 +186,7 @@
 |Skull Door Knocker|![](https://rustlabs.com/img/items40/skulldoorknocker.png)|-216116642|1|5 mins|
 |Skull Fire Pit|![](https://rustlabs.com/img/items40/skull_fire_pit.png)|553887414|1|5 mins|
 |Sleeping Bag|![](https://rustlabs.com/img/items40/sleepingbag.png)|-1754948969|1|20 mins|
+|Small Hunting Trophy|![](https://rustlabs.com/img/items40/huntingtrophysmall.png)|-869598982|1|5 mins|
 |Small Oil Refinery|![](https://rustlabs.com/img/items40/small.oil.refinery.png)|-1293296287|1|20 mins|
 |Small Planter Box|![](https://rustlabs.com/img/items40/planter.small.png)|1903654061|10|5 mins|
 |Small Stash|![](https://rustlabs.com/img/items40/stash.small.png)|-369760990|5|5 mins|
@@ -185,16 +197,20 @@
 |Sofa - Pattern|![](https://rustlabs.com/img/items40/sofa.pattern.png)|782422285|2|5 mins|
 |Spinning wheel|![](https://rustlabs.com/img/items40/spinner.wheel.png)|-1100422738|1|5 mins|
 |Stone Fireplace|![](https://rustlabs.com/img/items40/fireplace.stone.png)|-1535621066|1|5 mins|
+|Storage Barrel Horizontal|![](https://rustlabs.com/img/items40/storage_barrel_c.png)|-1421257350|1|5 mins|
+|Storage Barrel Vertical|![](https://rustlabs.com/img/items40/storage_barrel_b.png)|1307626005|1|5 mins|
 |Survival Fish Trap|![](https://rustlabs.com/img/items40/fishtrap.small.png)|559147458|5|5 mins|
 |Table|![](https://rustlabs.com/img/items40/table.png)|593465182|1|5 mins|
 |Tall Picture Frame|![](https://rustlabs.com/img/items40/sign.pictureframe.tall.png)|121049755|5|20 mins|
 |Tall Weapon Rack|![](https://rustlabs.com/img/items40/gunrack_tall.horizontal.png)|240752557|10|5 mins|
+|Torch Holder|![](https://rustlabs.com/img/items40/torchholder.png)|446206234|1|5 mins|
 |Tuna Can Lamp|![](https://rustlabs.com/img/items40/tunalight.png)|-1478445584|1|5 mins|
 |Twitch Rivals Trophy|![](https://rustlabs.com/img/items40/trophy.png)|975983052|1|5 mins|
 |Two Sided Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.png)|1205607945|5|20 mins|
 |Two Sided Ornate Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.ornate.png)|-1647846966|5|40 mins|
 |Two Sided Town Sign Post|![](https://rustlabs.com/img/items40/sign.post.town.roof.png)|826309791|5|40 mins|
 |Vending Machine|![](https://rustlabs.com/img/items40/vending.machine.png)|198438816|1|20 mins|
+|Wanted Poster|![](https://rustlabs.com/img/items40/wantedposter.png)|-1344017968|1|5 mins|
 |Water Barrel|![](https://rustlabs.com/img/items40/water.barrel.png)|-1863559151|1|5 mins|
 |Water Purifier|![](https://rustlabs.com/img/items40/water.purifier.png)|2114754781|1|5 mins|
 |Weapon Rack Stand|![](https://rustlabs.com/img/items40/gunrack_stand.png)|1132603396|10|5 mins|
@@ -271,7 +287,7 @@
 |Diving Tank|![](https://rustlabs.com/img/items40/diving.tank.png)|-2022172587|1|20 mins|
 |Double Horse Saddle|![](https://rustlabs.com/img/items40/horse.saddle.double.png)|-1323101799|1|5 mins|
 |Dracula Cape|![](https://rustlabs.com/img/items40/draculacape.png)|-258574361|1|40 mins|
-|Dracula Mask|![](https://rustlabs.com/img/items40/draculamask.png)|1865253052|1|40 mins|
+|Dracula Mask|![](https://rustlabs.com/img/items40/draculamask.png)|1865253052|1|5 mins|
 |Dragon Mask|![](https://rustlabs.com/img/items40/hat.dragonmask.png)|-22883916|1|5 mins|
 |Egg Suit|![](https://rustlabs.com/img/items40/attire.egg.suit.png)|-747743875|1|40 mins|
 |Frog Boots|![](https://rustlabs.com/img/items40/boots.frog.png)|-1000573653|1|5 mins|
@@ -485,7 +501,7 @@
 |Spoiled Wolf Meat|![](https://rustlabs.com/img/items40/wolfmeat.spoiled.png)|-1167031859|20|5 mins|
 |Super Serum|![](https://rustlabs.com/img/items40/supertea.png)|-1003665711|1|5 mins|
 |Vodka Bottle|![](https://rustlabs.com/img/items40/bottle.vodka.png)|755224797|1|5 mins|
-|Water Jug - Charitable Rust 2023|![](https://rustlabs.com/img/items40/waterjug.png)|-119235651|1|20 mins|
+|Water Jug|![](https://rustlabs.com/img/items40/waterjug.png)|-119235651|1|20 mins|
 |White Berry|![](https://rustlabs.com/img/items40/white.berry.png)|854447607|20|20 mins|
 |White Berry Clone|![](https://rustlabs.com/img/items40/clone.white.berry.png)|1533551194|50|5 mins|
 |White Berry Seed|![](https://rustlabs.com/img/items40/seed.white.berry.png)|-992286106|50|5 mins|
@@ -548,6 +564,7 @@
 |Graveyard Fence|![](https://rustlabs.com/img/items40/wall.graveyard.fence.png)|-1679267738|10|5 mins|
 |Green Keycard|![](https://rustlabs.com/img/items40/keycard_green.png)|37122747|1|5 mins|
 |Halloween Candy|![](https://rustlabs.com/img/items40/halloween.candy.png)|-888153050|1,000|5 mins|
+|Head Bag|![](https://rustlabs.com/img/items40/head.bag.png)|209218760|1|5 mins|
 |Large Candle Set|![](https://rustlabs.com/img/items40/largecandles.png)|-489848205|1|5 mins|
 |Large Loot Bag|![](https://rustlabs.com/img/items40/halloween.lootbag.large.png)|479292118|10|5 mins|
 |Large Present|![](https://rustlabs.com/img/items40/xmas.present.large.png)|-1622660759|1|5 mins|

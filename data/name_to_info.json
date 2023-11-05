@@ -299,6 +299,12 @@
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
+   "Skinning Knife": {
+      "image": "https://rustlabs.com/img/items40/knife.skinning.png",
+      "id": "-2073432256",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Snowball": {
       "image": "https://rustlabs.com/img/items40/snowball.png",
       "id": "-363689972",
@@ -659,6 +665,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Wooden Frontier Bar Doors": {
+      "image": "https://rustlabs.com/img/items40/door.double.hinged.bardoors.png",
+      "id": "-1151332840",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
    "Wooden Ladder": {
       "image": "https://rustlabs.com/img/items40/ladder.wooden.wall.png",
       "id": "-316250604",
@@ -681,6 +693,12 @@
       "image": "https://rustlabs.com/img/items40/bbq.png",
       "id": "1099314009",
       "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Bath Tub Planter": {
+      "image": "https://rustlabs.com/img/items40/bathtub.planter.png",
+      "id": "-1274093662",
+      "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Bed": {
@@ -803,6 +821,12 @@
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
+   "Fish Trophy": {
+      "image": "https://rustlabs.com/img/items40/fishtrophy.png",
+      "id": "-1913996738",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Frankenstein Table": {
       "image": "https://rustlabs.com/img/items40/frankensteintable.png",
       "id": "1575635062",
@@ -813,6 +837,24 @@
       "image": "https://rustlabs.com/img/items40/fridge.png",
       "id": "1413014235",
       "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Frontier Bolts Single Item Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack.single.1.horizontal.png",
+      "id": "1973949960",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
+   "Frontier Horns Single Item Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack.single.3.horizontal.png",
+      "id": "-52398594",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
+   "Frontier Horseshoe Single Item Rack": {
+      "image": "https://rustlabs.com/img/items40/gunrack.single.2.horizontal.png",
+      "id": "-849373693",
+      "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Furnace": {
@@ -899,6 +941,12 @@
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
+   "Large Hunting Trophy": {
+      "image": "https://rustlabs.com/img/items40/huntingtrophylarge.png",
+      "id": "960673498",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Large Photo Frame": {
       "image": "https://rustlabs.com/img/items40/photoframe.large.png",
       "id": "1205084994",
@@ -941,6 +989,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Minecart Planter": {
+      "image": "https://rustlabs.com/img/items40/minecart.planter.png",
+      "id": "1361520181",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
    "Mixing Table": {
       "image": "https://rustlabs.com/img/items40/mixingtable.png",
       "id": "1259919256",
@@ -977,6 +1031,12 @@
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
+   "Rail Road Planter": {
+      "image": "https://rustlabs.com/img/items40/rail.road.planter.png",
+      "id": "615112838",
+      "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
    "Repair Bench": {
       "image": "https://rustlabs.com/img/items40/box.repair.bench.png",
       "id": "803222026",
@@ -988,6 +1048,12 @@
       "id": "-1861522751",
       "stack_size": "1",
       "despawn_time": "40 mins"
+   },
+   "Rocking Chair": {
+      "image": "https://rustlabs.com/img/items40/rockingchair.png",
+      "id": "-1863063690",
+      "stack_size": "5",
+      "despawn_time": "5 mins"
    },
    "Rug": {
       "image": "https://rustlabs.com/img/items40/rug.png",
@@ -1049,6 +1115,12 @@
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
+   "Small Hunting Trophy": {
+      "image": "https://rustlabs.com/img/items40/huntingtrophysmall.png",
+      "id": "-869598982",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Small Oil Refinery": {
       "image": "https://rustlabs.com/img/items40/small.oil.refinery.png",
       "id": "-1293296287",
@@ -1109,6 +1181,18 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Storage Barrel Horizontal": {
+      "image": "https://rustlabs.com/img/items40/storage_barrel_c.png",
+      "id": "-1421257350",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Storage Barrel Vertical": {
+      "image": "https://rustlabs.com/img/items40/storage_barrel_b.png",
+      "id": "1307626005",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Survival Fish Trap": {
       "image": "https://rustlabs.com/img/items40/fishtrap.small.png",
       "id": "559147458",
@@ -1131,6 +1215,12 @@
       "image": "https://rustlabs.com/img/items40/gunrack_tall.horizontal.png",
       "id": "240752557",
       "stack_size": "10",
+      "despawn_time": "5 mins"
+   },
+   "Torch Holder": {
+      "image": "https://rustlabs.com/img/items40/torchholder.png",
+      "id": "446206234",
+      "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tuna Can Lamp": {
@@ -1168,6 +1258,12 @@
       "id": "198438816",
       "stack_size": "1",
       "despawn_time": "20 mins"
+   },
+   "Wanted Poster": {
+      "image": "https://rustlabs.com/img/items40/wantedposter.png",
+      "id": "-1344017968",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
    },
    "Water Barrel": {
       "image": "https://rustlabs.com/img/items40/water.barrel.png",
@@ -1629,7 +1725,7 @@
       "image": "https://rustlabs.com/img/items40/draculamask.png",
       "id": "1865253052",
       "stack_size": "1",
-      "despawn_time": "40 mins"
+      "despawn_time": "5 mins"
    },
    "Dragon Mask": {
       "image": "https://rustlabs.com/img/items40/hat.dragonmask.png",
@@ -2909,7 +3005,7 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
-   "Water Jug - Charitable Rust 2023": {
+   "Water Jug": {
       "image": "https://rustlabs.com/img/items40/waterjug.png",
       "id": "-119235651",
       "stack_size": "1",
@@ -3285,6 +3381,12 @@
       "image": "https://rustlabs.com/img/items40/halloween.candy.png",
       "id": "-888153050",
       "stack_size": "1,000",
+      "despawn_time": "5 mins"
+   },
+   "Head Bag": {
+      "image": "https://rustlabs.com/img/items40/head.bag.png",
+      "id": "209218760",
+      "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Candle Set": {
