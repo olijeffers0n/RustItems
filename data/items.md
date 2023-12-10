@@ -28,6 +28,7 @@
 |Longsword|![](https://rustlabs.com/img/items40/longsword.png)|-1469578201|1|20 mins|
 |M249|![](https://rustlabs.com/img/items40/lmg.m249.png)|-2069578888|1|1 hour|
 |M39 Rifle|![](https://rustlabs.com/img/items40/rifle.m39.png)|28201841|1|40 mins|
+|M4 Shotgun|![](https://rustlabs.com/img/items40/shotgun.m4.png)|678698219|1|1 hour|
 |M92 Pistol|![](https://rustlabs.com/img/items40/pistol.m92.png)|-852563019|1|40 mins|
 |MP5A4|![](https://rustlabs.com/img/items40/smg.mp5.png)|1318558775|1|1 hour|
 |Mace|![](https://rustlabs.com/img/items40/mace.png)|-1966748496|1|20 mins|
@@ -53,7 +54,7 @@
 |Skinning Knife|![](https://rustlabs.com/img/items40/knife.skinning.png)|-2073432256|1|5 mins|
 |Snowball|![](https://rustlabs.com/img/items40/snowball.png)|-363689972|1|5 mins|
 |Snowball Gun|![](https://rustlabs.com/img/items40/snowballgun.png)|1103488722|1|5 mins|
-|Spas-12 Shotgun|![](https://rustlabs.com/img/items40/shotgun.spas12.png)|-41440462|1|5 mins|
+|Spas-12 Shotgun|![](https://rustlabs.com/img/items40/shotgun.spas12.png)|-41440462|1|1 hour|
 |Speargun|![](https://rustlabs.com/img/items40/speargun.png)|-1517740219|1|5 mins|
 |Stone Spear|![](https://rustlabs.com/img/items40/spear.stone.png)|1602646136|1|5 mins|
 |Thompson|![](https://rustlabs.com/img/items40/smg.thompson.png)|-1758372725|1|40 mins|
@@ -84,6 +85,7 @@
 |Key Lock|![](https://rustlabs.com/img/items40/lock.key.png)|-850982208|10|5 mins|
 |Ladder Hatch|![](https://rustlabs.com/img/items40/floor.ladder.hatch.png)|1948067030|1|40 mins|
 |Large Water Catcher|![](https://rustlabs.com/img/items40/water.catcher.large.png)|-1100168350|1|20 mins|
+|Legacy Wood Shelter|![](https://rustlabs.com/img/items40/legacy.shelter.wood.png)|607400343|1|20 mins|
 |Metal Barricade|![](https://rustlabs.com/img/items40/barricade.metal.png)|1655650836|10|40 mins|
 |Metal Shop Front|![](https://rustlabs.com/img/items40/wall.frame.shopfront.metal.png)|-148229307|1|40 mins|
 |Metal Vertical embrasure|![](https://rustlabs.com/img/items40/shutter.metal.embrasure.b.png)|-1199897172|20|5 mins|
@@ -206,6 +208,7 @@
 |Torch Holder|![](https://rustlabs.com/img/items40/torchholder.png)|446206234|1|5 mins|
 |Tuna Can Lamp|![](https://rustlabs.com/img/items40/tunalight.png)|-1478445584|1|5 mins|
 |Twitch Rivals Trophy|![](https://rustlabs.com/img/items40/trophy.png)|975983052|1|5 mins|
+|Twitch Rivals Trophy 2023|![](https://rustlabs.com/img/items40/trophy2023.png)|-901370585|1|5 mins|
 |Two Sided Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.png)|1205607945|5|20 mins|
 |Two Sided Ornate Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.ornate.png)|-1647846966|5|40 mins|
 |Two Sided Town Sign Post|![](https://rustlabs.com/img/items40/sign.post.town.roof.png)|826309791|5|40 mins|
@@ -229,7 +232,7 @@
 |Cloth|![](https://rustlabs.com/img/items40/cloth.png)|-858312878|1,000|20 mins|
 |Coal :(|![](https://rustlabs.com/img/items40/coal.png)|204391461|1|5 mins|
 |Crude Oil|![](https://rustlabs.com/img/items40/crude.oil.png)|-321733511|500|5 mins|
-|Diesel Fuel|![](https://rustlabs.com/img/items40/diesel_barrel.png)|1568388703|20|5 mins|
+|Diesel Fuel|![](https://rustlabs.com/img/items40/diesel_barrel.png)|1568388703|20|1 hour|
 |Empty Can Of Beans|![](https://rustlabs.com/img/items40/can.beans.empty.png)|1655979682|10|5 mins|
 |Empty Tuna Can|![](https://rustlabs.com/img/items40/can.tuna.empty.png)|-1557377697|10|5 mins|
 |Explosives|![](https://rustlabs.com/img/items40/explosives.png)|-592016202|100|1 hour|
@@ -317,7 +320,7 @@
 |Improvised Balaclava|![](https://rustlabs.com/img/items40/mask.balaclava.png)|-2012470695|1|5 mins|
 |Jacket|![](https://rustlabs.com/img/items40/jacket.png)|-1163532624|1|5 mins|
 |Jumpsuit|![](https://rustlabs.com/img/items40/jumpsuit.suit.png)|-97459906|1|5 mins|
-|Leather Gloves|![](https://rustlabs.com/img/items40/burlap.gloves.png)|1366282552|1|5 mins|
+|Leather Gloves|![](https://rustlabs.com/img/items40/burlap.gloves.png)|1366282552|1|20 mins|
 |Light Frankenstein Head|![](https://rustlabs.com/img/items40/frankensteins.monster.01.head.png)|-134959124|1|5 mins|
 |Light Frankenstein Legs|![](https://rustlabs.com/img/items40/frankensteins.monster.01.legs.png)|106959911|1|5 mins|
 |Light Frankenstein Torso|![](https://rustlabs.com/img/items40/frankensteins.monster.01.torso.png)|-1624770297|1|5 mins|
@@ -346,7 +349,7 @@
 |Riot Helmet|![](https://rustlabs.com/img/items40/riot.helmet.png)|671063303|1|20 mins|
 |Road Sign Jacket|![](https://rustlabs.com/img/items40/roadsign.jacket.png)|-2002277461|1|20 mins|
 |Road Sign Kilt|![](https://rustlabs.com/img/items40/roadsign.kilt.png)|1850456855|1|20 mins|
-|Roadsign Gloves|![](https://rustlabs.com/img/items40/roadsign.gloves.png)|-699558439|1|5 mins|
+|Roadsign Gloves|![](https://rustlabs.com/img/items40/roadsign.gloves.png)|-699558439|1|40 mins|
 |Roadsign Horse Armor|![](https://rustlabs.com/img/items40/horse.armor.roadsign.png)|60528587|1|40 mins|
 |Saddle bag|![](https://rustlabs.com/img/items40/horse.saddlebag.png)|1400460850|1|5 mins|
 |Santa Beard|![](https://rustlabs.com/img/items40/santabeard.png)|2126889441|1|5 mins|
@@ -362,7 +365,7 @@
 |Sunglasses|![](https://rustlabs.com/img/items40/sunglasses.png)|352321488|1|20 mins|
 |Surgeon Scrubs|![](https://rustlabs.com/img/items40/halloween.surgeonsuit.png)|-1785231475|1|40 mins|
 |T-Shirt|![](https://rustlabs.com/img/items40/tshirt.png)|223891266|1|5 mins|
-|Tactical Gloves|![](https://rustlabs.com/img/items40/tactical.gloves.png)|-1108136649|1|5 mins|
+|Tactical Gloves|![](https://rustlabs.com/img/items40/tactical.gloves.png)|-1108136649|1|40 mins|
 |Tank Top|![](https://rustlabs.com/img/items40/shirt.tanktop.png)|1608640313|1|5 mins|
 |Tiger Mask|![](https://rustlabs.com/img/items40/hat.tigermask.png)|709206314|1|5 mins|
 |Wetsuit|![](https://rustlabs.com/img/items40/diving.wetsuit.png)|-1101924344|1|40 mins|
@@ -406,21 +409,21 @@
 |Blood|![](https://rustlabs.com/img/items40/blood.png)|1776460938|1,000|5 mins|
 |Large Medkit|![](https://rustlabs.com/img/items40/largemedkit.png)|254522515|1|20 mins|
 |Medical Syringe|![](https://rustlabs.com/img/items40/syringe.medical.png)|1079279582|2|20 mins|
-|Adv. Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.advanced.png)|-1729415579|10|5 mins|
-|Advanced Healing Tea|![](https://rustlabs.com/img/items40/healingtea.advanced.png)|-2123125470|10|5 mins|
-|Advanced Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.advanced.png)|603811464|10|5 mins|
-|Advanced Ore Tea|![](https://rustlabs.com/img/items40/oretea.advanced.png)|2063916636|10|5 mins|
-|Advanced Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.advanced.png)|2021351233|10|5 mins|
-|Advanced Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.advanced.png)|524678627|10|5 mins|
-|Advanced Wood Tea|![](https://rustlabs.com/img/items40/woodtea.advanced.png)|-541206665|10|5 mins|
+|Adv. Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.advanced.png)|-1729415579|10|40 mins|
+|Advanced Healing Tea|![](https://rustlabs.com/img/items40/healingtea.advanced.png)|-2123125470|10|40 mins|
+|Advanced Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.advanced.png)|603811464|10|40 mins|
+|Advanced Ore Tea|![](https://rustlabs.com/img/items40/oretea.advanced.png)|2063916636|10|40 mins|
+|Advanced Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.advanced.png)|2021351233|10|40 mins|
+|Advanced Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.advanced.png)|524678627|10|40 mins|
+|Advanced Wood Tea|![](https://rustlabs.com/img/items40/woodtea.advanced.png)|-541206665|10|40 mins|
 |Anchovy|![](https://rustlabs.com/img/items40/fish.anchovy.png)|342438846|10|5 mins|
-|Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.png)|-487356515|10|5 mins|
+|Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.png)|-487356515|10|20 mins|
 |Apple|![](https://rustlabs.com/img/items40/apple.png)|1548091822|10|5 mins|
-|Basic Healing Tea|![](https://rustlabs.com/img/items40/healingtea.png)|-929092070|10|5 mins|
-|Basic Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.png)|-1184406448|10|5 mins|
-|Basic Ore Tea|![](https://rustlabs.com/img/items40/oretea.png)|1480022580|10|5 mins|
-|Basic Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.png)|263834859|10|5 mins|
-|Basic Wood Tea|![](https://rustlabs.com/img/items40/woodtea.png)|-649128577|10|5 mins|
+|Basic Healing Tea|![](https://rustlabs.com/img/items40/healingtea.png)|-929092070|10|20 mins|
+|Basic Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.png)|-1184406448|10|20 mins|
+|Basic Ore Tea|![](https://rustlabs.com/img/items40/oretea.png)|1480022580|10|20 mins|
+|Basic Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.png)|263834859|10|20 mins|
+|Basic Wood Tea|![](https://rustlabs.com/img/items40/woodtea.png)|-649128577|10|20 mins|
 |Black Berry|![](https://rustlabs.com/img/items40/black.berry.png)|1771755747|20|20 mins|
 |Black Berry Clone|![](https://rustlabs.com/img/items40/clone.black.berry.png)|122783240|50|5 mins|
 |Black Berry Seed|![](https://rustlabs.com/img/items40/seed.black.berry.png)|1911552868|50|5 mins|
@@ -471,14 +474,14 @@
 |Pumpkin|![](https://rustlabs.com/img/items40/pumpkin.png)|-567909622|20|20 mins|
 |Pumpkin Plant Clone|![](https://rustlabs.com/img/items40/clone.pumpkin.png)|1898094925|50|5 mins|
 |Pumpkin Seed|![](https://rustlabs.com/img/items40/seed.pumpkin.png)|-1511285251|50|5 mins|
-|Pure Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.pure.png)|-33009419|10|5 mins|
-|Pure Healing Tea|![](https://rustlabs.com/img/items40/healingtea.pure.png)|-1677315902|10|5 mins|
-|Pure Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.pure.png)|1712261904|10|5 mins|
-|Pure Ore Tea|![](https://rustlabs.com/img/items40/oretea.pure.png)|1729374708|10|5 mins|
-|Pure Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.pure.png)|1905387657|10|5 mins|
-|Pure Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.pure.png)|2024467711|10|5 mins|
-|Pure Wood Tea|![](https://rustlabs.com/img/items40/woodtea.pure.png)|-557539629|10|5 mins|
-|Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.png)|-496584751|10|5 mins|
+|Pure Anti-Rad Tea|![](https://rustlabs.com/img/items40/radiationresisttea.pure.png)|-33009419|10|1 hour|
+|Pure Healing Tea|![](https://rustlabs.com/img/items40/healingtea.pure.png)|-1677315902|10|1 hour|
+|Pure Max Health Tea|![](https://rustlabs.com/img/items40/maxhealthtea.pure.png)|1712261904|10|1 hour|
+|Pure Ore Tea|![](https://rustlabs.com/img/items40/oretea.pure.png)|1729374708|10|1 hour|
+|Pure Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.pure.png)|1905387657|10|1 hour|
+|Pure Scrap Tea|![](https://rustlabs.com/img/items40/scraptea.pure.png)|2024467711|10|1 hour|
+|Pure Wood Tea|![](https://rustlabs.com/img/items40/woodtea.pure.png)|-557539629|10|1 hour|
+|Rad. Removal Tea|![](https://rustlabs.com/img/items40/radiationremovetea.png)|-496584751|10|20 mins|
 |Raw Bear Meat|![](https://rustlabs.com/img/items40/bearmeat.png)|-1520560807|20|20 mins|
 |Raw Chicken Breast|![](https://rustlabs.com/img/items40/chicken.raw.png)|-1440987069|20|20 mins|
 |Raw Deer Meat|![](https://rustlabs.com/img/items40/deermeat.raw.png)|1422530437|20|20 mins|
@@ -544,7 +547,7 @@
 |Shotgun Trap|![](https://rustlabs.com/img/items40/guntrap.png)|352499047|1|40 mins|
 |Snap Trap|![](https://rustlabs.com/img/items40/trap.bear.png)|-582782051|3|20 mins|
 |Wooden Floor Spikes|![](https://rustlabs.com/img/items40/spikes.floor.png)|-92759291|10|5 mins|
-|Blue Keycard|![](https://rustlabs.com/img/items40/keycard_blue.png)|-484206264|1|5 mins|
+|Blue Keycard|![](https://rustlabs.com/img/items40/keycard_blue.png)|-484206264|1|40 mins|
 |Bronze Egg|![](https://rustlabs.com/img/items40/easter.bronzeegg.png)|844440409|10|5 mins|
 |Captain's Log|![](https://rustlabs.com/img/items40/captainslog.png)|1230691307|1|5 mins|
 |Coffin|![](https://rustlabs.com/img/items40/coffin.storage.png)|573676040|1|5 mins|
@@ -562,7 +565,7 @@
 |Gold Egg|![](https://rustlabs.com/img/items40/easter.goldegg.png)|-1002156085|10|5 mins|
 |Gravestone|![](https://rustlabs.com/img/items40/gravestone.png)|809199956|1|5 mins|
 |Graveyard Fence|![](https://rustlabs.com/img/items40/wall.graveyard.fence.png)|-1679267738|10|5 mins|
-|Green Keycard|![](https://rustlabs.com/img/items40/keycard_green.png)|37122747|1|5 mins|
+|Green Keycard|![](https://rustlabs.com/img/items40/keycard_green.png)|37122747|1|20 mins|
 |Halloween Candy|![](https://rustlabs.com/img/items40/halloween.candy.png)|-888153050|1,000|5 mins|
 |Head Bag|![](https://rustlabs.com/img/items40/head.bag.png)|209218760|1|5 mins|
 |Large Candle Set|![](https://rustlabs.com/img/items40/largecandles.png)|-489848205|1|5 mins|
@@ -574,7 +577,7 @@
 |Painted Egg|![](https://rustlabs.com/img/items40/easter.paintedeggs.png)|-126305173|1,000|5 mins|
 |Photograph|![](https://rustlabs.com/img/items40/photo.png)|62577426|1|5 mins|
 |Pumpkin Bucket|![](https://rustlabs.com/img/items40/pumpkinbasket.png)|1346158228|1|20 mins|
-|Red Keycard|![](https://rustlabs.com/img/items40/keycard_red.png)|-1880870149|1|5 mins|
+|Red Keycard|![](https://rustlabs.com/img/items40/keycard_red.png)|-1880870149|1|1 hour|
 |Rustigé Egg - Blue|![](https://rustlabs.com/img/items40/rustige_egg_b.png)|-173268132|1|5 mins|
 |Rustigé Egg - Green|![](https://rustlabs.com/img/items40/rustige_egg_e.png)|-173268125|1|5 mins|
 |Rustigé Egg - Ivory|![](https://rustlabs.com/img/items40/rustige_egg_d.png)|-173268126|1|5 mins|
@@ -662,7 +665,7 @@
 |Fluid Splitter|![](https://rustlabs.com/img/items40/fluid.splitter.png)|-1166712463|5|5 mins|
 |Fluid Switch & Pump|![](https://rustlabs.com/img/items40/fluid.switch.png)|443432036|5|5 mins|
 |Green Industrial Wall Light|![](https://rustlabs.com/img/items40/industrial.wall.light.green.png)|1268178466|10|5 mins|
-|HBHF Sensor|![](https://rustlabs.com/img/items40/electric.hbhfsensor.png)|-1507239837|1|20 mins|
+|HBHF Sensor|![](https://rustlabs.com/img/items40/electric.hbhfsensor.png)|-1507239837|5|20 mins|
 |Hose Tool|![](https://rustlabs.com/img/items40/hosetool.png)|363163265|1|5 mins|
 |Igniter|![](https://rustlabs.com/img/items40/electric.igniter.png)|-44876289|3|5 mins|
 |Industrial Combiner|![](https://rustlabs.com/img/items40/industrial.combiner.png)|1538126328|5|5 mins|
@@ -728,6 +731,7 @@
 |Cassette - Short|![](https://rustlabs.com/img/items40/cassette.short.png)|1523403414|1|5 mins|
 |Cassette Recorder|![](https://rustlabs.com/img/items40/fun.casetterecorder.png)|-1530414568|1|5 mins|
 |Champagne Boomer|![](https://rustlabs.com/img/items40/firework.boomer.champagne.png)|1324203999|20|5 mins|
+|Confetti Cannon|![](https://rustlabs.com/img/items40/confetticannon.png)|1603174987|1|5 mins|
 |Connected Speaker|![](https://rustlabs.com/img/items40/connected.speaker.png)|968421290|5|5 mins|
 |Cowbell|![](https://rustlabs.com/img/items40/fun.cowbell.png)|-1049881973|1|5 mins|
 |Disco Ball|![](https://rustlabs.com/img/items40/discoball.png)|1895235349|5|5 mins|
@@ -747,6 +751,7 @@
 |Paddling Pool|![](https://rustlabs.com/img/items40/paddlingpool.png)|-733625651|1|5 mins|
 |Pan Flute|![](https://rustlabs.com/img/items40/fun.flute.png)|-2040817543|1|5 mins|
 |Pattern Boomer|![](https://rustlabs.com/img/items40/firework.boomer.pattern.png)|-379734527|20|5 mins|
+|Pinata|![](https://rustlabs.com/img/items40/pinata.png)|-1442496789|5|5 mins|
 |Plumber's Trumpet|![](https://rustlabs.com/img/items40/fun.trumpet.png)|273172220|1|5 mins|
 |Portable Boom Box|![](https://rustlabs.com/img/items40/fun.boomboxportable.png)|576509618|1|5 mins|
 |Red Boomer|![](https://rustlabs.com/img/items40/firework.boomer.red.png)|-1553999294|20|5 mins|

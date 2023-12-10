@@ -197,6 +197,13 @@
          "despawn_time": "40 mins"
       },
       {
+         "name": "M4 Shotgun",
+         "image": "https://rustlabs.com/img/items40/shotgun.m4.png",
+         "id": "678698219",
+         "stack_size": "1",
+         "despawn_time": "1 hour"
+      },
+      {
          "name": "M92 Pistol",
          "image": "https://rustlabs.com/img/items40/pistol.m92.png",
          "id": "-852563019",
@@ -376,7 +383,7 @@
          "image": "https://rustlabs.com/img/items40/shotgun.spas12.png",
          "id": "-41440462",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Speargun",
@@ -587,6 +594,13 @@
          "name": "Large Water Catcher",
          "image": "https://rustlabs.com/img/items40/water.catcher.large.png",
          "id": "-1100168350",
+         "stack_size": "1",
+         "despawn_time": "20 mins"
+      },
+      {
+         "name": "Legacy Wood Shelter",
+         "image": "https://rustlabs.com/img/items40/legacy.shelter.wood.png",
+         "id": "607400343",
          "stack_size": "1",
          "despawn_time": "20 mins"
       },
@@ -1447,6 +1461,13 @@
          "despawn_time": "5 mins"
       },
       {
+         "name": "Twitch Rivals Trophy 2023",
+         "image": "https://rustlabs.com/img/items40/trophy2023.png",
+         "id": "-901370585",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
          "name": "Two Sided Hanging Sign",
          "image": "https://rustlabs.com/img/items40/sign.hanging.png",
          "id": "1205607945",
@@ -1614,7 +1635,7 @@
          "image": "https://rustlabs.com/img/items40/diesel_barrel.png",
          "id": "1568388703",
          "stack_size": "20",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Empty Can Of Beans",
@@ -2232,7 +2253,7 @@
          "image": "https://rustlabs.com/img/items40/burlap.gloves.png",
          "id": "1366282552",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Light Frankenstein Head",
@@ -2435,7 +2456,7 @@
          "image": "https://rustlabs.com/img/items40/roadsign.gloves.png",
          "id": "-699558439",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Roadsign Horse Armor",
@@ -2547,7 +2568,7 @@
          "image": "https://rustlabs.com/img/items40/tactical.gloves.png",
          "id": "-1108136649",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Tank Top",
@@ -2861,49 +2882,49 @@
          "image": "https://rustlabs.com/img/items40/radiationresisttea.advanced.png",
          "id": "-1729415579",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Healing Tea",
          "image": "https://rustlabs.com/img/items40/healingtea.advanced.png",
          "id": "-2123125470",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Max Health Tea",
          "image": "https://rustlabs.com/img/items40/maxhealthtea.advanced.png",
          "id": "603811464",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Ore Tea",
          "image": "https://rustlabs.com/img/items40/oretea.advanced.png",
          "id": "2063916636",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Rad. Removal Tea",
          "image": "https://rustlabs.com/img/items40/radiationremovetea.advanced.png",
          "id": "2021351233",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Scrap Tea",
          "image": "https://rustlabs.com/img/items40/scraptea.advanced.png",
          "id": "524678627",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Advanced Wood Tea",
          "image": "https://rustlabs.com/img/items40/woodtea.advanced.png",
          "id": "-541206665",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Anchovy",
@@ -2917,7 +2938,7 @@
          "image": "https://rustlabs.com/img/items40/radiationresisttea.png",
          "id": "-487356515",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Apple",
@@ -2931,35 +2952,35 @@
          "image": "https://rustlabs.com/img/items40/healingtea.png",
          "id": "-929092070",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Basic Max Health Tea",
          "image": "https://rustlabs.com/img/items40/maxhealthtea.png",
          "id": "-1184406448",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Basic Ore Tea",
          "image": "https://rustlabs.com/img/items40/oretea.png",
          "id": "1480022580",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Basic Scrap Tea",
          "image": "https://rustlabs.com/img/items40/scraptea.png",
          "id": "263834859",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Basic Wood Tea",
          "image": "https://rustlabs.com/img/items40/woodtea.png",
          "id": "-649128577",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Black Berry",
@@ -3316,56 +3337,56 @@
          "image": "https://rustlabs.com/img/items40/radiationresisttea.pure.png",
          "id": "-33009419",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Healing Tea",
          "image": "https://rustlabs.com/img/items40/healingtea.pure.png",
          "id": "-1677315902",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Max Health Tea",
          "image": "https://rustlabs.com/img/items40/maxhealthtea.pure.png",
          "id": "1712261904",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Ore Tea",
          "image": "https://rustlabs.com/img/items40/oretea.pure.png",
          "id": "1729374708",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Rad. Removal Tea",
          "image": "https://rustlabs.com/img/items40/radiationremovetea.pure.png",
          "id": "1905387657",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Scrap Tea",
          "image": "https://rustlabs.com/img/items40/scraptea.pure.png",
          "id": "2024467711",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Pure Wood Tea",
          "image": "https://rustlabs.com/img/items40/woodtea.pure.png",
          "id": "-557539629",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Rad. Removal Tea",
          "image": "https://rustlabs.com/img/items40/radiationremovetea.png",
          "id": "-496584751",
          "stack_size": "10",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Raw Bear Meat",
@@ -3833,7 +3854,7 @@
          "image": "https://rustlabs.com/img/items40/keycard_blue.png",
          "id": "-484206264",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Bronze Egg",
@@ -3959,7 +3980,7 @@
          "image": "https://rustlabs.com/img/items40/keycard_green.png",
          "id": "37122747",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "20 mins"
       },
       {
          "name": "Halloween Candy",
@@ -4043,7 +4064,7 @@
          "image": "https://rustlabs.com/img/items40/keycard_red.png",
          "id": "-1880870149",
          "stack_size": "1",
-         "despawn_time": "5 mins"
+         "despawn_time": "1 hour"
       },
       {
          "name": "Rustig\u00e9 Egg - Blue",
@@ -4662,7 +4683,7 @@
          "name": "HBHF Sensor",
          "image": "https://rustlabs.com/img/items40/electric.hbhfsensor.png",
          "id": "-1507239837",
-         "stack_size": "1",
+         "stack_size": "5",
          "despawn_time": "20 mins"
       },
       {
@@ -5123,6 +5144,13 @@
          "despawn_time": "5 mins"
       },
       {
+         "name": "Confetti Cannon",
+         "image": "https://rustlabs.com/img/items40/confetticannon.png",
+         "id": "1603174987",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
          "name": "Connected Speaker",
          "image": "https://rustlabs.com/img/items40/connected.speaker.png",
          "id": "968421290",
@@ -5253,6 +5281,13 @@
          "image": "https://rustlabs.com/img/items40/firework.boomer.pattern.png",
          "id": "-379734527",
          "stack_size": "20",
+         "despawn_time": "5 mins"
+      },
+      {
+         "name": "Pinata",
+         "image": "https://rustlabs.com/img/items40/pinata.png",
+         "id": "-1442496789",
+         "stack_size": "5",
          "despawn_time": "5 mins"
       },
       {
