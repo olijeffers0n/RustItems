@@ -875,6 +875,18 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Hazmat Youtooz": {
+      "image": "https://rustlabs.com/img/items40/hazmatyoutooz.png",
+      "id": "-1696379844",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Heavy Scientist Youtooz": {
+      "image": "https://rustlabs.com/img/items40/heavyscientistyoutooz.png",
+      "id": "-722629980",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Hitch & Trough": {
       "image": "https://rustlabs.com/img/items40/hitchtroughcombo.png",
       "id": "1160881421",

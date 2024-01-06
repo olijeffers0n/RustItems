@@ -146,6 +146,8 @@
 |Frontier Horns Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.3.horizontal.png)|-52398594|10|5 mins|
 |Frontier Horseshoe Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.2.horizontal.png)|-849373693|10|5 mins|
 |Furnace|![](https://rustlabs.com/img/items40/furnace.png)|-1999722522|1|5 mins|
+|Hazmat Youtooz|![](https://rustlabs.com/img/items40/hazmatyoutooz.png)|-1696379844|1|5 mins|
+|Heavy Scientist Youtooz|![](https://rustlabs.com/img/items40/heavyscientistyoutooz.png)|-722629980|1|5 mins|
 |Hitch & Trough|![](https://rustlabs.com/img/items40/hitchtroughcombo.png)|1160881421|1|5 mins|
 |Hobo Barrel|![](https://rustlabs.com/img/items40/hobobarrel.png)|-1442559428|1|5 mins|
 |Horizontal Weapon Rack|![](https://rustlabs.com/img/items40/gunrack.horizontal.png)|-246672609|10|5 mins|
