@@ -749,6 +749,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Chinese Lantern White": {
+      "image": "https://rustlabs.com/img/items40/chineselanternwhite.png",
+      "id": "-770304148",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Chippy Arcade Game": {
       "image": "https://rustlabs.com/img/items40/arcade.machine.chippy.png",
       "id": "359723196",
@@ -1931,6 +1937,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Large Backpack": {
+      "image": "https://rustlabs.com/img/items40/largebackpack.png",
+      "id": "-907422733",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
    "Leather Gloves": {
       "image": "https://rustlabs.com/img/items40/burlap.gloves.png",
       "id": "1366282552",
@@ -2171,6 +2183,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Small Backpack": {
+      "image": "https://rustlabs.com/img/items40/smallbackpack.png",
+      "id": "2068884361",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Snow Jacket": {
       "image": "https://rustlabs.com/img/items40/jacket.snow.png",
       "id": "-48090175",
@@ -2339,6 +2357,12 @@
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
+   "Metal Detector": {
+      "image": "https://rustlabs.com/img/items40/metal.detector.png",
+      "id": "1168856825",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Pickaxe": {
       "image": "https://rustlabs.com/img/items40/pickaxe.png",
       "id": "-1302129395",
@@ -2380,6 +2404,12 @@
       "id": "-1878475007",
       "stack_size": "10",
       "despawn_time": "40 mins"
+   },
+   "Shovel": {
+      "image": "https://rustlabs.com/img/items40/shovel.png",
+      "id": "-1536855921",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
    },
    "Smoke Grenade": {
       "image": "https://rustlabs.com/img/items40/grenade.smoke.png",
@@ -4058,7 +4088,7 @@
    "Large Neon Sign": {
       "image": "https://rustlabs.com/img/items40/sign.neon.xl.png",
       "id": "866332017",
-      "stack_size": "1",
+      "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Large Rechargeable Battery": {
@@ -4082,7 +4112,7 @@
    "Medium Animated Neon Sign": {
       "image": "https://rustlabs.com/img/items40/sign.neon.125x215.animated.png",
       "id": "42535890",
-      "stack_size": "1",
+      "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Medium Neon Sign": {

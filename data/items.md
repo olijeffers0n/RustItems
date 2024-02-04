@@ -125,6 +125,7 @@
 |Carvable Pumpkin|![](https://rustlabs.com/img/items40/carvable.pumpkin.png)|1524980732|1|5 mins|
 |Chair|![](https://rustlabs.com/img/items40/chair.png)|1534542921|5|5 mins|
 |Chinese Lantern|![](https://rustlabs.com/img/items40/chineselantern.png)|-1916473915|1|5 mins|
+|Chinese Lantern White|![](https://rustlabs.com/img/items40/chineselanternwhite.png)|-770304148|1|5 mins|
 |Chippy Arcade Game|![](https://rustlabs.com/img/items40/arcade.machine.chippy.png)|359723196|1|5 mins|
 |Christmas Door Wreath|![](https://rustlabs.com/img/items40/xmasdoorwreath.png)|2009734114|1|5 mins|
 |Christmas Lights|![](https://rustlabs.com/img/items40/xmas.lightstring.png)|1058261682|20|5 mins|
@@ -322,6 +323,7 @@
 |Improvised Balaclava|![](https://rustlabs.com/img/items40/mask.balaclava.png)|-2012470695|1|5 mins|
 |Jacket|![](https://rustlabs.com/img/items40/jacket.png)|-1163532624|1|5 mins|
 |Jumpsuit|![](https://rustlabs.com/img/items40/jumpsuit.suit.png)|-97459906|1|5 mins|
+|Large Backpack|![](https://rustlabs.com/img/items40/largebackpack.png)|-907422733|1|40 mins|
 |Leather Gloves|![](https://rustlabs.com/img/items40/burlap.gloves.png)|1366282552|1|20 mins|
 |Light Frankenstein Head|![](https://rustlabs.com/img/items40/frankensteins.monster.01.head.png)|-134959124|1|5 mins|
 |Light Frankenstein Legs|![](https://rustlabs.com/img/items40/frankensteins.monster.01.legs.png)|106959911|1|5 mins|
@@ -362,6 +364,7 @@
 |Shirt|![](https://rustlabs.com/img/items40/shirt.collared.png)|-2025184684|1|20 mins|
 |Shorts|![](https://rustlabs.com/img/items40/pants.shorts.png)|-1695367501|1|5 mins|
 |Single Horse Saddle|![](https://rustlabs.com/img/items40/horse.saddle.single.png)|1559915778|1|5 mins|
+|Small Backpack|![](https://rustlabs.com/img/items40/smallbackpack.png)|2068884361|1|20 mins|
 |Snow Jacket|![](https://rustlabs.com/img/items40/jacket.snow.png)|-48090175|1|5 mins|
 |Snowman Helmet|![](https://rustlabs.com/img/items40/attire.snowman.helmet.png)|-842267147|1|5 mins|
 |Sunglasses|![](https://rustlabs.com/img/items40/sunglasses.png)|352321488|1|20 mins|
@@ -390,6 +393,7 @@
 |Hatchet|![](https://rustlabs.com/img/items40/hatchet.png)|-1252059217|1|20 mins|
 |Instant Camera|![](https://rustlabs.com/img/items40/tool.instant_camera.png)|-2001260025|1|1 hour|
 |Jackhammer|![](https://rustlabs.com/img/items40/jackhammer.png)|1488979457|1|40 mins|
+|Metal Detector|![](https://rustlabs.com/img/items40/metal.detector.png)|1168856825|1|20 mins|
 |Pickaxe|![](https://rustlabs.com/img/items40/pickaxe.png)|-1302129395|1|20 mins|
 |RF Transmitter|![](https://rustlabs.com/img/items40/rf.detonator.png)|596469572|1|5 mins|
 |Rock|![](https://rustlabs.com/img/items40/rock.png)|963906841|1|5 mins|
@@ -397,6 +401,7 @@
 |Salvaged Hammer|![](https://rustlabs.com/img/items40/hammer.salvaged.png)|-1506397857|1|20 mins|
 |Salvaged Icepick|![](https://rustlabs.com/img/items40/icepick.salvaged.png)|-1780802565|1|40 mins|
 |Satchel Charge|![](https://rustlabs.com/img/items40/explosive.satchel.png)|-1878475007|10|40 mins|
+|Shovel|![](https://rustlabs.com/img/items40/shovel.png)|-1536855921|1|5 mins|
 |Smoke Grenade|![](https://rustlabs.com/img/items40/grenade.smoke.png)|1263920163|3|20 mins|
 |Spray Can|![](https://rustlabs.com/img/items40/spraycan.png)|-596876839|1|5 mins|
 |Stone Hatchet|![](https://rustlabs.com/img/items40/stonehatchet.png)|-1583967946|1|5 mins|
@@ -676,11 +681,11 @@
 |Industrial Splitter|![](https://rustlabs.com/img/items40/industrial.splitter.png)|742745918|5|5 mins|
 |Industrial Wall Light|![](https://rustlabs.com/img/items40/industrial.wall.light.png)|1623701499|10|5 mins|
 |Large Animated Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.xl.animated.png)|1643667218|5|5 mins|
-|Large Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.xl.png)|866332017|1|5 mins|
+|Large Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.xl.png)|866332017|5|5 mins|
 |Large Rechargeable Battery|![](https://rustlabs.com/img/items40/electric.battery.rechargable.large.png)|553270375|1|20 mins|
 |Large Solar Panel|![](https://rustlabs.com/img/items40/electric.solarpanel.large.png)|2090395347|3|20 mins|
 |Laser Detector|![](https://rustlabs.com/img/items40/electric.laserdetector.png)|-798293154|5|20 mins|
-|Medium Animated Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.125x215.animated.png)|42535890|1|5 mins|
+|Medium Animated Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.125x215.animated.png)|42535890|5|5 mins|
 |Medium Neon Sign|![](https://rustlabs.com/img/items40/sign.neon.125x215.png)|-1423304443|5|5 mins|
 |Medium Rechargeable Battery|![](https://rustlabs.com/img/items40/electric.battery.rechargable.medium.png)|2023888403|1|20 mins|
 |Memory Cell|![](https://rustlabs.com/img/items40/electrical.memorycell.png)|-746647361|5|20 mins|
