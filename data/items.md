@@ -768,7 +768,7 @@
 |Skull Spikes|![](https://rustlabs.com/img/items40/skullspikes.png)|-1073015016|1|5 mins|
 |Skull Trophy|![](https://rustlabs.com/img/items40/skull.trophy.png)|-769647921|1|5 mins|
 |Sky Lantern|![](https://rustlabs.com/img/items40/skylantern.png)|1819863051|20|5 mins|
-|Sled|![](https://rustlabs.com/img/items40/sled.png)|-135252633|1|5 mins|
+|Sled|![](https://rustlabs.com/img/items40/sled.png)|-333406828|1|5 mins|
 |Sound Light|![](https://rustlabs.com/img/items40/soundlight.png)|-343857907|5|5 mins|
 |Sousaphone|![](https://rustlabs.com/img/items40/fun.tuba.png)|1784406797|1|5 mins|
 |Telephone|![](https://rustlabs.com/img/items40/telephone.png)|1234878710|1|20 mins|
