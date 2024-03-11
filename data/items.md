@@ -285,6 +285,7 @@
 |Burlap Trousers|![](https://rustlabs.com/img/items40/burlap.trousers.png)|1992974553|1|5 mins|
 |Candle Hat|![](https://rustlabs.com/img/items40/hat.candle.png)|1714496074|1|5 mins|
 |Card Movember Moustache|![](https://rustlabs.com/img/items40/movembermoustachecard.png)|3380160|1|5 mins|
+|Chicken Costume|![](https://rustlabs.com/img/items40/chicken.costume.png)|-152332823|1|5 mins|
 |Clatter Helmet|![](https://rustlabs.com/img/items40/clatter.helmet.png)|968019378|1|5 mins|
 |Coffee Can Helmet|![](https://rustlabs.com/img/items40/coffeecan.helmet.png)|-803263829|1|20 mins|
 |Crate Costume|![](https://rustlabs.com/img/items40/cratecostume.png)|1189981699|1|20 mins|

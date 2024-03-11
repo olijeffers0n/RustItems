@@ -1709,6 +1709,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Chicken Costume": {
+      "image": "https://rustlabs.com/img/items40/chicken.costume.png",
+      "id": "-152332823",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Clatter Helmet": {
       "image": "https://rustlabs.com/img/items40/clatter.helmet.png",
       "id": "968019378",
