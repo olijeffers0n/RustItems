@@ -33,6 +33,8 @@
 |MP5A4|![](https://rustlabs.com/img/items40/smg.mp5.png)|1318558775|1|1 hour|
 |Mace|![](https://rustlabs.com/img/items40/mace.png)|-1966748496|1|20 mins|
 |Machete|![](https://rustlabs.com/img/items40/machete.png)|-1137865085|1|5 mins|
+|Military Flame Thrower|![](https://rustlabs.com/img/items40/military%20flamethrower.png)|703057617|1|40 mins|
+|Minigun|![](https://rustlabs.com/img/items40/minigun.png)|935606207|1|1 hour|
 |Molotov Cocktail|![](https://rustlabs.com/img/items40/grenade.molotov.png)|1556365900|5|20 mins|
 |Multiple Grenade Launcher|![](https://rustlabs.com/img/items40/multiplegrenadelauncher.png)|-1123473824|1|1 hour|
 |Muzzle Boost|![](https://rustlabs.com/img/items40/weapon.mod.muzzleboost.png)|-1405508498|1|40 mins|

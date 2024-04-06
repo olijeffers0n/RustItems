@@ -232,6 +232,20 @@
          "despawn_time": "5 mins"
       },
       {
+         "name": "Military Flame Thrower",
+         "image": "https://rustlabs.com/img/items40/military%20flamethrower.png",
+         "id": "703057617",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
+      },
+      {
+         "name": "Minigun",
+         "image": "https://rustlabs.com/img/items40/minigun.png",
+         "id": "935606207",
+         "stack_size": "1",
+         "despawn_time": "1 hour"
+      },
+      {
          "name": "Molotov Cocktail",
          "image": "https://rustlabs.com/img/items40/grenade.molotov.png",
          "id": "1556365900",
