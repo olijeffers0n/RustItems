@@ -470,7 +470,7 @@
 |Green Berry|![](https://rustlabs.com/img/items40/green.berry.png)|858486327|20|20 mins|
 |Green Berry Clone|![](https://rustlabs.com/img/items40/clone.green.berry.png)|-1305326964|50|5 mins|
 |Green Berry Seed|![](https://rustlabs.com/img/items40/seed.green.berry.png)|-1776128552|50|5 mins|
-|Grub|![](https://rustlabs.com/img/items40/grub.png)|-568419968|20|5 mins|
+|Grub|![](https://rustlabs.com/img/items40/grub.png)|-568419968|25|5 mins|
 |Hemp Clone|![](https://rustlabs.com/img/items40/clone.hemp.png)|-886280491|50|5 mins|
 |Hemp Seed|![](https://rustlabs.com/img/items40/seed.hemp.png)|-237809779|50|5 mins|
 |Herring|![](https://rustlabs.com/img/items40/fish.herring.png)|-1698937385|10|5 mins|
@@ -518,7 +518,7 @@
 |White Berry|![](https://rustlabs.com/img/items40/white.berry.png)|854447607|20|20 mins|
 |White Berry Clone|![](https://rustlabs.com/img/items40/clone.white.berry.png)|1533551194|50|5 mins|
 |White Berry Seed|![](https://rustlabs.com/img/items40/seed.white.berry.png)|-992286106|50|5 mins|
-|Worm|![](https://rustlabs.com/img/items40/worm.png)|1770475779|20|5 mins|
+|Worm|![](https://rustlabs.com/img/items40/worm.png)|1770475779|25|5 mins|
 |Yellow Berry|![](https://rustlabs.com/img/items40/yellow.berry.png)|1660145984|20|20 mins|
 |Yellow Berry Clone|![](https://rustlabs.com/img/items40/clone.yellow.berry.png)|390728933|50|5 mins|
 |Yellow Berry Seed|![](https://rustlabs.com/img/items40/seed.yellow.berry.png)|-520133715|50|5 mins|
@@ -706,6 +706,7 @@
 |Red Industrial Wall Light|![](https://rustlabs.com/img/items40/industrial.wall.light.red.png)|-1160621614|10|5 mins|
 |Root Combiner|![](https://rustlabs.com/img/items40/electrical.combiner.png)|-458565393|5|20 mins|
 |Search Light|![](https://rustlabs.com/img/items40/searchlight.png)|2087678962|1|20 mins|
+|Seismic Sensor|![](https://rustlabs.com/img/items40/electric.seismicsensor.png)|-948291630|10|20 mins|
 |Simple Light|![](https://rustlabs.com/img/items40/electric.simplelight.png)|-282113991|1|5 mins|
 |Siren Light|![](https://rustlabs.com/img/items40/electric.sirenlight.png)|762289806|5|5 mins|
 |Small Generator|![](https://rustlabs.com/img/items40/electric.fuelgenerator.small.png)|1849887541|1|20 mins|

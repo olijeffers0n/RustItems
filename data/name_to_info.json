@@ -2822,7 +2822,7 @@
    "Grub": {
       "image": "https://rustlabs.com/img/items40/grub.png",
       "id": "-568419968",
-      "stack_size": "20",
+      "stack_size": "25",
       "despawn_time": "5 mins"
    },
    "Hemp Clone": {
@@ -3110,7 +3110,7 @@
    "Worm": {
       "image": "https://rustlabs.com/img/items40/worm.png",
       "id": "1770475779",
-      "stack_size": "20",
+      "stack_size": "25",
       "despawn_time": "5 mins"
    },
    "Yellow Berry": {
@@ -4233,6 +4233,12 @@
       "image": "https://rustlabs.com/img/items40/searchlight.png",
       "id": "2087678962",
       "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
+   "Seismic Sensor": {
+      "image": "https://rustlabs.com/img/items40/electric.seismicsensor.png",
+      "id": "-948291630",
+      "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Simple Light": {
