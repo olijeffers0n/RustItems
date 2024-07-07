@@ -24,7 +24,7 @@ def extract_item_data(href: str, info_block: bs4.Tag, name_to_info: dict) -> dic
 
     appending = {
         "name": info_block.find_all(class_="r-cell")[0].getText(),
-        "image": "https:" + info_block.find_all("img")[0]["src"],
+        "image": "https://rustlabs.com" + info_block.find_all("img")[0]["src"],
         "id": item_id,
         "stack_size": stack_size,
         "despawn_time": despawn_time
