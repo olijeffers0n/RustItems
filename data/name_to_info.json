@@ -1,4704 +1,4716 @@
 {
    "16x Zoom Scope": {
-      "image": "https:/img/items40/weapon.mod.8x.scope.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.8x.scope.png",
       "id": "174866732",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "8x Zoom Scope": {
-      "image": "https:/img/items40/weapon.mod.small.scope.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.small.scope.png",
       "id": "567235583",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Assault Rifle": {
-      "image": "https:/img/items40/rifle.ak.png",
+      "image": "https://rustlabs.com/img/items40/rifle.ak.png",
       "id": "1545779598",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Beancan Grenade": {
-      "image": "https:/img/items40/grenade.beancan.png",
+      "image": "https://rustlabs.com/img/items40/grenade.beancan.png",
       "id": "1840822026",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Bolt Action Rifle": {
-      "image": "https:/img/items40/rifle.bolt.png",
+      "image": "https://rustlabs.com/img/items40/rifle.bolt.png",
       "id": "1588298435",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Bone Club": {
-      "image": "https:/img/items40/bone.club.png",
+      "image": "https://rustlabs.com/img/items40/bone.club.png",
       "id": "1711033574",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bone Knife": {
-      "image": "https:/img/items40/knife.bone.png",
+      "image": "https://rustlabs.com/img/items40/knife.bone.png",
       "id": "1814288539",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Butcher Knife": {
-      "image": "https:/img/items40/knife.butcher.png",
+      "image": "https://rustlabs.com/img/items40/knife.butcher.png",
       "id": "-194509282",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Candy Cane Club": {
-      "image": "https:/img/items40/candycaneclub.png",
+      "image": "https://rustlabs.com/img/items40/candycaneclub.png",
       "id": "1789825282",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Combat Knife": {
-      "image": "https:/img/items40/knife.combat.png",
+      "image": "https://rustlabs.com/img/items40/knife.combat.png",
       "id": "2040726127",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Compound Bow": {
-      "image": "https:/img/items40/bow.compound.png",
+      "image": "https://rustlabs.com/img/items40/bow.compound.png",
       "id": "884424049",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Crossbow": {
-      "image": "https:/img/items40/crossbow.png",
+      "image": "https://rustlabs.com/img/items40/crossbow.png",
       "id": "1965232394",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Custom SMG": {
-      "image": "https:/img/items40/smg.2.png",
+      "image": "https://rustlabs.com/img/items40/smg.2.png",
       "id": "1796682209",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Double Barrel Shotgun": {
-      "image": "https:/img/items40/shotgun.double.png",
+      "image": "https://rustlabs.com/img/items40/shotgun.double.png",
       "id": "-765183617",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Eoka Pistol": {
-      "image": "https:/img/items40/pistol.eoka.png",
+      "image": "https://rustlabs.com/img/items40/pistol.eoka.png",
       "id": "-75944661",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Extended Magazine": {
-      "image": "https:/img/items40/weapon.mod.extendedmags.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.extendedmags.png",
       "id": "2005491391",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "F1 Grenade": {
-      "image": "https:/img/items40/grenade.f1.png",
+      "image": "https://rustlabs.com/img/items40/grenade.f1.png",
       "id": "143803535",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Flame Thrower": {
-      "image": "https:/img/items40/flamethrower.png",
+      "image": "https://rustlabs.com/img/items40/flamethrower.png",
       "id": "-1215753368",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Flashbang": {
-      "image": "https:/img/items40/grenade.flashbang.png",
+      "image": "https://rustlabs.com/img/items40/grenade.flashbang.png",
       "id": "-936921910",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "HMLMG": {
-      "image": "https:/img/items40/hmlmg.png",
+      "image": "https://rustlabs.com/img/items40/hmlmg.png",
       "id": "-1214542497",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Holosight": {
-      "image": "https:/img/items40/weapon.mod.holosight.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.holosight.png",
       "id": "442289265",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Homing Missile Launcher": {
-      "image": "https:/img/items40/homingmissile.launcher.png",
+      "image": "https://rustlabs.com/img/items40/homingmissile.launcher.png",
       "id": "-218009552",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Hunting Bow": {
-      "image": "https:/img/items40/bow.hunting.png",
+      "image": "https://rustlabs.com/img/items40/bow.hunting.png",
       "id": "1443579727",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "L96 Rifle": {
-      "image": "https:/img/items40/rifle.l96.png",
+      "image": "https://rustlabs.com/img/items40/rifle.l96.png",
       "id": "-778367295",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "LR-300 Assault Rifle": {
-      "image": "https:/img/items40/rifle.lr300.png",
+      "image": "https://rustlabs.com/img/items40/rifle.lr300.png",
       "id": "-1812555177",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Longsword": {
-      "image": "https:/img/items40/longsword.png",
+      "image": "https://rustlabs.com/img/items40/longsword.png",
       "id": "-1469578201",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "M249": {
-      "image": "https:/img/items40/lmg.m249.png",
+      "image": "https://rustlabs.com/img/items40/lmg.m249.png",
       "id": "-2069578888",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "M39 Rifle": {
-      "image": "https:/img/items40/rifle.m39.png",
+      "image": "https://rustlabs.com/img/items40/rifle.m39.png",
       "id": "28201841",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "M4 Shotgun": {
-      "image": "https:/img/items40/shotgun.m4.png",
+      "image": "https://rustlabs.com/img/items40/shotgun.m4.png",
       "id": "678698219",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "M92 Pistol": {
-      "image": "https:/img/items40/pistol.m92.png",
+      "image": "https://rustlabs.com/img/items40/pistol.m92.png",
       "id": "-852563019",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "MP5A4": {
-      "image": "https:/img/items40/smg.mp5.png",
+      "image": "https://rustlabs.com/img/items40/smg.mp5.png",
       "id": "1318558775",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Mace": {
-      "image": "https:/img/items40/mace.png",
+      "image": "https://rustlabs.com/img/items40/mace.png",
       "id": "-1966748496",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Machete": {
-      "image": "https:/img/items40/machete.png",
+      "image": "https://rustlabs.com/img/items40/machete.png",
       "id": "-1137865085",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Military Flame Thrower": {
-      "image": "https:/img/items40/military%20flamethrower.png",
+      "image": "https://rustlabs.com/img/items40/military%20flamethrower.png",
       "id": "703057617",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Minigun": {
-      "image": "https:/img/items40/minigun.png",
+      "image": "https://rustlabs.com/img/items40/minigun.png",
       "id": "935606207",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Molotov Cocktail": {
-      "image": "https:/img/items40/grenade.molotov.png",
+      "image": "https://rustlabs.com/img/items40/grenade.molotov.png",
       "id": "1556365900",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Multiple Grenade Launcher": {
-      "image": "https:/img/items40/multiplegrenadelauncher.png",
+      "image": "https://rustlabs.com/img/items40/multiplegrenadelauncher.png",
       "id": "-1123473824",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Muzzle Boost": {
-      "image": "https:/img/items40/weapon.mod.muzzleboost.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.muzzleboost.png",
       "id": "-1405508498",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Muzzle Brake": {
-      "image": "https:/img/items40/weapon.mod.muzzlebrake.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.muzzlebrake.png",
       "id": "1478091698",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Nailgun": {
-      "image": "https:/img/items40/pistol.nailgun.png",
+      "image": "https://rustlabs.com/img/items40/pistol.nailgun.png",
       "id": "1953903201",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Paddle": {
-      "image": "https:/img/items40/paddle.png",
+      "image": "https://rustlabs.com/img/items40/paddle.png",
       "id": "1491189398",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Pitchfork": {
-      "image": "https:/img/items40/pitchfork.png",
+      "image": "https://rustlabs.com/img/items40/pitchfork.png",
       "id": "1090916276",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Prototype 17": {
-      "image": "https:/img/items40/pistol.prototype17.png",
+      "image": "https://rustlabs.com/img/items40/pistol.prototype17.png",
       "id": "1914691295",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Pump Shotgun": {
-      "image": "https:/img/items40/shotgun.pump.png",
+      "image": "https://rustlabs.com/img/items40/shotgun.pump.png",
       "id": "795371088",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Python Revolver": {
-      "image": "https:/img/items40/pistol.python.png",
+      "image": "https://rustlabs.com/img/items40/pistol.python.png",
       "id": "1373971859",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Revolver": {
-      "image": "https:/img/items40/pistol.revolver.png",
+      "image": "https://rustlabs.com/img/items40/pistol.revolver.png",
       "id": "649912614",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Rocket Launcher": {
-      "image": "https:/img/items40/rocket.launcher.png",
+      "image": "https://rustlabs.com/img/items40/rocket.launcher.png",
       "id": "442886268",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Salvaged Cleaver": {
-      "image": "https:/img/items40/salvaged.cleaver.png",
+      "image": "https://rustlabs.com/img/items40/salvaged.cleaver.png",
       "id": "-1978999529",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Salvaged Sword": {
-      "image": "https:/img/items40/salvaged.sword.png",
+      "image": "https://rustlabs.com/img/items40/salvaged.sword.png",
       "id": "1326180354",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Semi-Automatic Pistol": {
-      "image": "https:/img/items40/pistol.semiauto.png",
+      "image": "https://rustlabs.com/img/items40/pistol.semiauto.png",
       "id": "818877484",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Semi-Automatic Rifle": {
-      "image": "https:/img/items40/rifle.semiauto.png",
+      "image": "https://rustlabs.com/img/items40/rifle.semiauto.png",
       "id": "-904863145",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Silencer": {
-      "image": "https:/img/items40/weapon.mod.silencer.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.silencer.png",
       "id": "-1850571427",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Simple Handmade Sight": {
-      "image": "https:/img/items40/weapon.mod.simplesight.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.simplesight.png",
       "id": "-855748505",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Skinning Knife": {
-      "image": "https:/img/items40/knife.skinning.png",
+      "image": "https://rustlabs.com/img/items40/knife.skinning.png",
       "id": "-2073432256",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Snowball": {
-      "image": "https:/img/items40/snowball.png",
+      "image": "https://rustlabs.com/img/items40/snowball.png",
       "id": "-363689972",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Snowball Gun": {
-      "image": "https:/img/items40/snowballgun.png",
+      "image": "https://rustlabs.com/img/items40/snowballgun.png",
       "id": "1103488722",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Spas-12 Shotgun": {
-      "image": "https:/img/items40/shotgun.spas12.png",
+      "image": "https://rustlabs.com/img/items40/shotgun.spas12.png",
       "id": "-41440462",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Speargun": {
-      "image": "https:/img/items40/speargun.png",
+      "image": "https://rustlabs.com/img/items40/speargun.png",
       "id": "-1517740219",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Stone Spear": {
-      "image": "https:/img/items40/spear.stone.png",
+      "image": "https://rustlabs.com/img/items40/spear.stone.png",
       "id": "1602646136",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Thompson": {
-      "image": "https:/img/items40/smg.thompson.png",
+      "image": "https://rustlabs.com/img/items40/smg.thompson.png",
       "id": "-1758372725",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Vampire Stake": {
-      "image": "https:/img/items40/vampire.stake.png",
+      "image": "https://rustlabs.com/img/items40/vampire.stake.png",
       "id": "-885833256",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Water Gun": {
-      "image": "https:/img/items40/gun.water.png",
+      "image": "https://rustlabs.com/img/items40/gun.water.png",
       "id": "722955039",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Water Pistol": {
-      "image": "https:/img/items40/pistol.water.png",
+      "image": "https://rustlabs.com/img/items40/pistol.water.png",
       "id": "-1815301988",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Waterpipe Shotgun": {
-      "image": "https:/img/items40/shotgun.waterpipe.png",
+      "image": "https://rustlabs.com/img/items40/shotgun.waterpipe.png",
       "id": "-1367281941",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Weapon Lasersight": {
-      "image": "https:/img/items40/weapon.mod.lasersight.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.lasersight.png",
       "id": "-132516482",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Weapon flashlight": {
-      "image": "https:/img/items40/weapon.mod.flashlight.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.flashlight.png",
       "id": "952603248",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Wooden Spear": {
-      "image": "https:/img/items40/spear.wooden.png",
+      "image": "https://rustlabs.com/img/items40/spear.wooden.png",
       "id": "1540934679",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Armored Door": {
-      "image": "https:/img/items40/door.hinged.toptier.png",
+      "image": "https://rustlabs.com/img/items40/door.hinged.toptier.png",
       "id": "1353298668",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Armored Double Door": {
-      "image": "https:/img/items40/door.double.hinged.toptier.png",
+      "image": "https://rustlabs.com/img/items40/door.double.hinged.toptier.png",
       "id": "1221063409",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Barbed Wooden Barricade": {
-      "image": "https:/img/items40/barricade.woodwire.png",
+      "image": "https://rustlabs.com/img/items40/barricade.woodwire.png",
       "id": "1382263453",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Building Plan": {
-      "image": "https:/img/items40/building.planner.png",
+      "image": "https://rustlabs.com/img/items40/building.planner.png",
       "id": "1525520776",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Chainlink Fence": {
-      "image": "https:/img/items40/wall.frame.fence.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.fence.png",
       "id": "-1117626326",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Chainlink Fence Gate": {
-      "image": "https:/img/items40/wall.frame.fence.gate.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.fence.gate.png",
       "id": "1451568081",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Code Lock": {
-      "image": "https:/img/items40/lock.code.png",
+      "image": "https://rustlabs.com/img/items40/lock.code.png",
       "id": "1159991980",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Concrete Barricade": {
-      "image": "https:/img/items40/barricade.concrete.png",
+      "image": "https://rustlabs.com/img/items40/barricade.concrete.png",
       "id": "-1950721390",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Door Closer": {
-      "image": "https:/img/items40/door.closer.png",
+      "image": "https://rustlabs.com/img/items40/door.closer.png",
       "id": "1409529282",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Floor grill": {
-      "image": "https:/img/items40/floor.grill.png",
+      "image": "https://rustlabs.com/img/items40/floor.grill.png",
       "id": "936496778",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Floor triangle grill": {
-      "image": "https:/img/items40/floor.triangle.grill.png",
+      "image": "https://rustlabs.com/img/items40/floor.triangle.grill.png",
       "id": "1983621560",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Garage Door": {
-      "image": "https:/img/items40/wall.frame.garagedoor.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.garagedoor.png",
       "id": "-148794216",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "High External Stone Gate": {
-      "image": "https:/img/items40/gates.external.high.stone.png",
+      "image": "https://rustlabs.com/img/items40/gates.external.high.stone.png",
       "id": "-691113464",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "High External Stone Wall": {
-      "image": "https:/img/items40/wall.external.high.stone.png",
+      "image": "https://rustlabs.com/img/items40/wall.external.high.stone.png",
       "id": "-967648160",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "High External Wooden Gate": {
-      "image": "https:/img/items40/gates.external.high.wood.png",
+      "image": "https://rustlabs.com/img/items40/gates.external.high.wood.png",
       "id": "-335089230",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "High External Wooden Wall": {
-      "image": "https:/img/items40/wall.external.high.png",
+      "image": "https://rustlabs.com/img/items40/wall.external.high.png",
       "id": "99588025",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "High Ice Wall": {
-      "image": "https:/img/items40/wall.external.high.ice.png",
+      "image": "https://rustlabs.com/img/items40/wall.external.high.ice.png",
       "id": "-985781766",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Key Lock": {
-      "image": "https:/img/items40/lock.key.png",
+      "image": "https://rustlabs.com/img/items40/lock.key.png",
       "id": "-850982208",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Ladder Hatch": {
-      "image": "https:/img/items40/floor.ladder.hatch.png",
+      "image": "https://rustlabs.com/img/items40/floor.ladder.hatch.png",
       "id": "1948067030",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Large Water Catcher": {
-      "image": "https:/img/items40/water.catcher.large.png",
+      "image": "https://rustlabs.com/img/items40/water.catcher.large.png",
       "id": "-1100168350",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Legacy Wood Shelter": {
-      "image": "https:/img/items40/legacy.shelter.wood.png",
+      "image": "https://rustlabs.com/img/items40/legacy.shelter.wood.png",
       "id": "607400343",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Metal Barricade": {
-      "image": "https:/img/items40/barricade.metal.png",
+      "image": "https://rustlabs.com/img/items40/barricade.metal.png",
       "id": "1655650836",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Metal Shop Front": {
-      "image": "https:/img/items40/wall.frame.shopfront.metal.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.shopfront.metal.png",
       "id": "-148229307",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Metal Vertical embrasure": {
-      "image": "https:/img/items40/shutter.metal.embrasure.b.png",
+      "image": "https://rustlabs.com/img/items40/shutter.metal.embrasure.b.png",
       "id": "-1199897172",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Metal Window Bars": {
-      "image": "https:/img/items40/wall.window.bars.metal.png",
+      "image": "https://rustlabs.com/img/items40/wall.window.bars.metal.png",
       "id": "-819720157",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Metal horizontal embrasure": {
-      "image": "https:/img/items40/shutter.metal.embrasure.a.png",
+      "image": "https://rustlabs.com/img/items40/shutter.metal.embrasure.a.png",
       "id": "-1199897169",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Mining Quarry": {
-      "image": "https:/img/items40/mining.quarry.png",
+      "image": "https://rustlabs.com/img/items40/mining.quarry.png",
       "id": "1052926200",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Netting": {
-      "image": "https:/img/items40/wall.frame.netting.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.netting.png",
       "id": "1516985844",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Prison Cell Gate": {
-      "image": "https:/img/items40/wall.frame.cell.gate.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.cell.gate.png",
       "id": "-956706906",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Prison Cell Wall": {
-      "image": "https:/img/items40/wall.frame.cell.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.cell.png",
       "id": "-1429456799",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Pump Jack": {
-      "image": "https:/img/items40/mining.pumpjack.png",
+      "image": "https://rustlabs.com/img/items40/mining.pumpjack.png",
       "id": "-1130709577",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Reinforced Glass Window": {
-      "image": "https:/img/items40/wall.window.bars.toptier.png",
+      "image": "https://rustlabs.com/img/items40/wall.window.bars.toptier.png",
       "id": "671706427",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Sandbag Barricade": {
-      "image": "https:/img/items40/barricade.sandbags.png",
+      "image": "https://rustlabs.com/img/items40/barricade.sandbags.png",
       "id": "-559599960",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Sheet Metal Door": {
-      "image": "https:/img/items40/door.hinged.metal.png",
+      "image": "https://rustlabs.com/img/items40/door.hinged.metal.png",
       "id": "-2067472972",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Sheet Metal Double Door": {
-      "image": "https:/img/items40/door.double.hinged.metal.png",
+      "image": "https://rustlabs.com/img/items40/door.double.hinged.metal.png",
       "id": "1390353317",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Shop Front": {
-      "image": "https:/img/items40/wall.frame.shopfront.png",
+      "image": "https://rustlabs.com/img/items40/wall.frame.shopfront.png",
       "id": "-796583652",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Short Ice Wall": {
-      "image": "https:/img/items40/wall.ice.wall.png",
+      "image": "https://rustlabs.com/img/items40/wall.ice.wall.png",
       "id": "1327005675",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Water Catcher": {
-      "image": "https:/img/items40/water.catcher.small.png",
+      "image": "https://rustlabs.com/img/items40/water.catcher.small.png",
       "id": "-132247350",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Stone Barricade": {
-      "image": "https:/img/items40/barricade.stone.png",
+      "image": "https://rustlabs.com/img/items40/barricade.stone.png",
       "id": "15388698",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Strengthened Glass Window": {
-      "image": "https:/img/items40/wall.window.glass.reinforced.png",
+      "image": "https://rustlabs.com/img/items40/wall.window.glass.reinforced.png",
       "id": "-1614955425",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Tool Cupboard": {
-      "image": "https:/img/items40/cupboard.tool.png",
+      "image": "https://rustlabs.com/img/items40/cupboard.tool.png",
       "id": "-97956382",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Triangle Ladder Hatch": {
-      "image": "https:/img/items40/floor.triangle.ladder.hatch.png",
+      "image": "https://rustlabs.com/img/items40/floor.triangle.ladder.hatch.png",
       "id": "2041899972",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Watch Tower": {
-      "image": "https:/img/items40/watchtower.wood.png",
+      "image": "https://rustlabs.com/img/items40/watchtower.wood.png",
       "id": "-463122489",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Wood Double Door": {
-      "image": "https:/img/items40/door.double.hinged.wood.png",
+      "image": "https://rustlabs.com/img/items40/door.double.hinged.wood.png",
       "id": "-1336109173",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Wood Shutters": {
-      "image": "https:/img/items40/shutter.wood.a.png",
+      "image": "https://rustlabs.com/img/items40/shutter.wood.a.png",
       "id": "-1023374709",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Wooden Barricade": {
-      "image": "https:/img/items40/barricade.wood.png",
+      "image": "https://rustlabs.com/img/items40/barricade.wood.png",
       "id": "866889860",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Wooden Barricade Cover": {
-      "image": "https:/img/items40/barricade.wood.cover.png",
+      "image": "https://rustlabs.com/img/items40/barricade.wood.cover.png",
       "id": "1373240771",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Wooden Door": {
-      "image": "https:/img/items40/door.hinged.wood.png",
+      "image": "https://rustlabs.com/img/items40/door.hinged.wood.png",
       "id": "1729120840",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Wooden Frontier Bar Doors": {
-      "image": "https:/img/items40/door.double.hinged.bardoors.png",
+      "image": "https://rustlabs.com/img/items40/door.double.hinged.bardoors.png",
       "id": "-1151332840",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Wooden Ladder": {
-      "image": "https:/img/items40/ladder.wooden.wall.png",
+      "image": "https://rustlabs.com/img/items40/ladder.wooden.wall.png",
       "id": "-316250604",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Wooden Window Bars": {
-      "image": "https:/img/items40/wall.window.bars.wood.png",
+      "image": "https://rustlabs.com/img/items40/wall.window.bars.wood.png",
       "id": "-1183726687",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Advent Calendar": {
-      "image": "https:/img/items40/xmas.advent.png",
+      "image": "https://rustlabs.com/img/items40/xmas.advent.png",
       "id": "-2027793839",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Barbeque": {
-      "image": "https:/img/items40/bbq.png",
+      "image": "https://rustlabs.com/img/items40/bbq.png",
       "id": "1099314009",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bath Tub Planter": {
-      "image": "https:/img/items40/bathtub.planter.png",
+      "image": "https://rustlabs.com/img/items40/bathtub.planter.png",
       "id": "-1274093662",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Bed": {
-      "image": "https:/img/items40/bed.png",
+      "image": "https://rustlabs.com/img/items40/bed.png",
       "id": "-1273339005",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Bota Bag": {
-      "image": "https:/img/items40/botabag.png",
+      "image": "https://rustlabs.com/img/items40/botabag.png",
       "id": "613961768",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Camp Fire": {
-      "image": "https:/img/items40/campfire.png",
+      "image": "https://rustlabs.com/img/items40/campfire.png",
       "id": "1946219319",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Carvable Pumpkin": {
-      "image": "https:/img/items40/carvable.pumpkin.png",
+      "image": "https://rustlabs.com/img/items40/carvable.pumpkin.png",
       "id": "1524980732",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Chair": {
-      "image": "https:/img/items40/chair.png",
+      "image": "https://rustlabs.com/img/items40/chair.png",
       "id": "1534542921",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Chinese Lantern": {
-      "image": "https:/img/items40/chineselantern.png",
+      "image": "https://rustlabs.com/img/items40/chineselantern.png",
       "id": "-1916473915",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Chinese Lantern White": {
-      "image": "https:/img/items40/chineselanternwhite.png",
+      "image": "https://rustlabs.com/img/items40/chineselanternwhite.png",
       "id": "-770304148",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Chippy Arcade Game": {
-      "image": "https:/img/items40/arcade.machine.chippy.png",
+      "image": "https://rustlabs.com/img/items40/arcade.machine.chippy.png",
       "id": "359723196",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Christmas Door Wreath": {
-      "image": "https:/img/items40/xmasdoorwreath.png",
+      "image": "https://rustlabs.com/img/items40/xmasdoorwreath.png",
       "id": "2009734114",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Christmas Lights": {
-      "image": "https:/img/items40/xmas.lightstring.png",
+      "image": "https://rustlabs.com/img/items40/xmas.lightstring.png",
       "id": "1058261682",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Christmas Tree": {
-      "image": "https:/img/items40/xmas.tree.png",
+      "image": "https://rustlabs.com/img/items40/xmas.tree.png",
       "id": "794443127",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Clan Table": {
-      "image": "https:/img/items40/clantable.png",
+      "image": "https://rustlabs.com/img/items40/clantable.png",
       "id": "486661382",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Composter": {
-      "image": "https:/img/items40/composter.png",
+      "image": "https://rustlabs.com/img/items40/composter.png",
       "id": "-1488398114",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Double Sign Post": {
-      "image": "https:/img/items40/sign.post.double.png",
+      "image": "https://rustlabs.com/img/items40/sign.post.double.png",
       "id": "1521286012",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Dragon Door Knocker": {
-      "image": "https:/img/items40/dragondoorknocker.png",
+      "image": "https://rustlabs.com/img/items40/dragondoorknocker.png",
       "id": "-854270928",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Drone": {
-      "image": "https:/img/items40/drone.png",
+      "image": "https://rustlabs.com/img/items40/drone.png",
       "id": "1588492232",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Drop Box": {
-      "image": "https:/img/items40/dropbox.png",
+      "image": "https://rustlabs.com/img/items40/dropbox.png",
       "id": "-1519126340",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Easter Door Wreath": {
-      "image": "https:/img/items40/easterdoorwreath.png",
+      "image": "https://rustlabs.com/img/items40/easterdoorwreath.png",
       "id": "-979302481",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Festive Doorway Garland": {
-      "image": "https:/img/items40/xmas.door.garland.png",
+      "image": "https://rustlabs.com/img/items40/xmas.door.garland.png",
       "id": "674734128",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Festive Double Doorway Garland": {
-      "image": "https:/img/items40/xmas.double.door.garland.png",
+      "image": "https://rustlabs.com/img/items40/xmas.double.door.garland.png",
       "id": "-1230433643",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Festive Window Garland": {
-      "image": "https:/img/items40/xmas.window.garland.png",
+      "image": "https://rustlabs.com/img/items40/xmas.window.garland.png",
       "id": "-1379835144",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Fish Trophy": {
-      "image": "https:/img/items40/fishtrophy.png",
+      "image": "https://rustlabs.com/img/items40/fishtrophy.png",
       "id": "-1913996738",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Frankenstein Table": {
-      "image": "https:/img/items40/frankensteintable.png",
+      "image": "https://rustlabs.com/img/items40/frankensteintable.png",
       "id": "1575635062",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Fridge": {
-      "image": "https:/img/items40/fridge.png",
+      "image": "https://rustlabs.com/img/items40/fridge.png",
       "id": "1413014235",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Frontier Bolts Single Item Rack": {
-      "image": "https:/img/items40/gunrack.single.1.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack.single.1.horizontal.png",
       "id": "1973949960",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Frontier Horns Single Item Rack": {
-      "image": "https:/img/items40/gunrack.single.3.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack.single.3.horizontal.png",
       "id": "-52398594",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Frontier Horseshoe Single Item Rack": {
-      "image": "https:/img/items40/gunrack.single.2.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack.single.2.horizontal.png",
       "id": "-849373693",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Furnace": {
-      "image": "https:/img/items40/furnace.png",
+      "image": "https://rustlabs.com/img/items40/furnace.png",
       "id": "-1999722522",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hazmat Youtooz": {
-      "image": "https:/img/items40/hazmatyoutooz.png",
+      "image": "https://rustlabs.com/img/items40/hazmatyoutooz.png",
       "id": "-1696379844",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Heavy Scientist Youtooz": {
-      "image": "https:/img/items40/heavyscientistyoutooz.png",
+      "image": "https://rustlabs.com/img/items40/heavyscientistyoutooz.png",
       "id": "-722629980",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hitch & Trough": {
-      "image": "https:/img/items40/hitchtroughcombo.png",
+      "image": "https://rustlabs.com/img/items40/hitchtroughcombo.png",
       "id": "1160881421",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hobo Barrel": {
-      "image": "https:/img/items40/hobobarrel.png",
+      "image": "https://rustlabs.com/img/items40/hobobarrel.png",
       "id": "-1442559428",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Horizontal Weapon Rack": {
-      "image": "https:/img/items40/gunrack.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack.horizontal.png",
       "id": "-246672609",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Huge Wooden Sign": {
-      "image": "https:/img/items40/sign.wooden.huge.png",
+      "image": "https://rustlabs.com/img/items40/sign.wooden.huge.png",
       "id": "-143132326",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Jack O Lantern Angry": {
-      "image": "https:/img/items40/jackolantern.angry.png",
+      "image": "https://rustlabs.com/img/items40/jackolantern.angry.png",
       "id": "1242482355",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Jack O Lantern Happy": {
-      "image": "https:/img/items40/jackolantern.happy.png",
+      "image": "https://rustlabs.com/img/items40/jackolantern.happy.png",
       "id": "-1824943010",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Kayak": {
-      "image": "https:/img/items40/kayak.png",
+      "image": "https://rustlabs.com/img/items40/kayak.png",
       "id": "190184021",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Landscape Photo Frame": {
-      "image": "https:/img/items40/photoframe.landscape.png",
+      "image": "https://rustlabs.com/img/items40/photoframe.landscape.png",
       "id": "1697996440",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Landscape Picture Frame": {
-      "image": "https:/img/items40/sign.pictureframe.landscape.png",
+      "image": "https://rustlabs.com/img/items40/sign.pictureframe.landscape.png",
       "id": "-845557339",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Lantern": {
-      "image": "https:/img/items40/lantern.png",
+      "image": "https://rustlabs.com/img/items40/lantern.png",
       "id": "1658229558",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Banner Hanging": {
-      "image": "https:/img/items40/sign.hanging.banner.large.png",
+      "image": "https://rustlabs.com/img/items40/sign.hanging.banner.large.png",
       "id": "23352662",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Large Banner on pole": {
-      "image": "https:/img/items40/sign.pole.banner.large.png",
+      "image": "https://rustlabs.com/img/items40/sign.pole.banner.large.png",
       "id": "2070189026",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Large Furnace": {
-      "image": "https:/img/items40/furnace.large.png",
+      "image": "https://rustlabs.com/img/items40/furnace.large.png",
       "id": "-1992717673",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Large Hunting Trophy": {
-      "image": "https:/img/items40/huntingtrophylarge.png",
+      "image": "https://rustlabs.com/img/items40/huntingtrophylarge.png",
       "id": "960673498",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Photo Frame": {
-      "image": "https:/img/items40/photoframe.large.png",
+      "image": "https://rustlabs.com/img/items40/photoframe.large.png",
       "id": "1205084994",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Large Planter Box": {
-      "image": "https:/img/items40/planter.large.png",
+      "image": "https://rustlabs.com/img/items40/planter.large.png",
       "id": "1581210395",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Large Wood Box": {
-      "image": "https:/img/items40/box.wooden.large.png",
+      "image": "https://rustlabs.com/img/items40/box.wooden.large.png",
       "id": "833533164",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Wooden Sign": {
-      "image": "https:/img/items40/sign.wooden.large.png",
+      "image": "https://rustlabs.com/img/items40/sign.wooden.large.png",
       "id": "1153652756",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Locker": {
-      "image": "https:/img/items40/locker.png",
+      "image": "https://rustlabs.com/img/items40/locker.png",
       "id": "-110921842",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Mail Box": {
-      "image": "https:/img/items40/mailbox.png",
+      "image": "https://rustlabs.com/img/items40/mailbox.png",
       "id": "-586784898",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Medium Wooden Sign": {
-      "image": "https:/img/items40/sign.wooden.medium.png",
+      "image": "https://rustlabs.com/img/items40/sign.wooden.medium.png",
       "id": "-1819233322",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Minecart Planter": {
-      "image": "https:/img/items40/minecart.planter.png",
+      "image": "https://rustlabs.com/img/items40/minecart.planter.png",
       "id": "1361520181",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Mixing Table": {
-      "image": "https:/img/items40/mixingtable.png",
+      "image": "https://rustlabs.com/img/items40/mixingtable.png",
       "id": "1259919256",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "One Sided Town Sign Post": {
-      "image": "https:/img/items40/sign.post.town.png",
+      "image": "https://rustlabs.com/img/items40/sign.post.town.png",
       "id": "-1832422579",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Paper Map": {
-      "image": "https:/img/items40/map.png",
+      "image": "https://rustlabs.com/img/items40/map.png",
       "id": "696029452",
       "stack_size": "1",
       "despawn_time": "30 sec"
    },
    "Pookie Bear": {
-      "image": "https:/img/items40/pookie.bear.png",
+      "image": "https://rustlabs.com/img/items40/pookie.bear.png",
       "id": "-1651220691",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Portrait Photo Frame": {
-      "image": "https:/img/items40/photoframe.portrait.png",
+      "image": "https://rustlabs.com/img/items40/photoframe.portrait.png",
       "id": "1729712564",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Portrait Picture Frame": {
-      "image": "https:/img/items40/sign.pictureframe.portrait.png",
+      "image": "https://rustlabs.com/img/items40/sign.pictureframe.portrait.png",
       "id": "-1370759135",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Rail Road Planter": {
-      "image": "https:/img/items40/rail.road.planter.png",
+      "image": "https://rustlabs.com/img/items40/rail.road.planter.png",
       "id": "615112838",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Repair Bench": {
-      "image": "https:/img/items40/box.repair.bench.png",
+      "image": "https://rustlabs.com/img/items40/box.repair.bench.png",
       "id": "803222026",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Research Table": {
-      "image": "https:/img/items40/research.table.png",
+      "image": "https://rustlabs.com/img/items40/research.table.png",
       "id": "-1861522751",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Rocking Chair": {
-      "image": "https:/img/items40/rockingchair.png",
+      "image": "https://rustlabs.com/img/items40/rockingchair.png",
       "id": "-1863063690",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Rug": {
-      "image": "https:/img/items40/rug.png",
+      "image": "https://rustlabs.com/img/items40/rug.png",
       "id": "-1985799200",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rug Bear Skin": {
-      "image": "https:/img/items40/rug.bear.png",
+      "image": "https://rustlabs.com/img/items40/rug.bear.png",
       "id": "-1104881824",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "SUPER Stocking": {
-      "image": "https:/img/items40/stocking.large.png",
+      "image": "https://rustlabs.com/img/items40/stocking.large.png",
       "id": "-465682601",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Salvaged Shelves": {
-      "image": "https:/img/items40/shelves.png",
+      "image": "https://rustlabs.com/img/items40/shelves.png",
       "id": "1950721418",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Scarecrow": {
-      "image": "https:/img/items40/scarecrow.png",
+      "image": "https://rustlabs.com/img/items40/scarecrow.png",
       "id": "177226991",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Secret Lab Chair": {
-      "image": "https:/img/items40/secretlabchair.png",
+      "image": "https://rustlabs.com/img/items40/secretlabchair.png",
       "id": "567871954",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Single Sign Post": {
-      "image": "https:/img/items40/sign.post.single.png",
+      "image": "https://rustlabs.com/img/items40/sign.post.single.png",
       "id": "1542290441",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Skull Door Knocker": {
-      "image": "https:/img/items40/skulldoorknocker.png",
+      "image": "https://rustlabs.com/img/items40/skulldoorknocker.png",
       "id": "-216116642",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Skull Fire Pit": {
-      "image": "https:/img/items40/skull_fire_pit.png",
+      "image": "https://rustlabs.com/img/items40/skull_fire_pit.png",
       "id": "553887414",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Sleeping Bag": {
-      "image": "https:/img/items40/sleepingbag.png",
+      "image": "https://rustlabs.com/img/items40/sleepingbag.png",
       "id": "-1754948969",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Small Hunting Trophy": {
-      "image": "https:/img/items40/huntingtrophysmall.png",
+      "image": "https://rustlabs.com/img/items40/huntingtrophysmall.png",
       "id": "-869598982",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Small Oil Refinery": {
-      "image": "https:/img/items40/small.oil.refinery.png",
+      "image": "https://rustlabs.com/img/items40/small.oil.refinery.png",
       "id": "-1293296287",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Small Planter Box": {
-      "image": "https:/img/items40/planter.small.png",
+      "image": "https://rustlabs.com/img/items40/planter.small.png",
       "id": "1903654061",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Stash": {
-      "image": "https:/img/items40/stash.small.png",
+      "image": "https://rustlabs.com/img/items40/stash.small.png",
       "id": "-369760990",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Small Stocking": {
-      "image": "https:/img/items40/stocking.small.png",
+      "image": "https://rustlabs.com/img/items40/stocking.small.png",
       "id": "1668858301",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Small Wooden Sign": {
-      "image": "https:/img/items40/sign.wooden.small.png",
+      "image": "https://rustlabs.com/img/items40/sign.wooden.small.png",
       "id": "-1138208076",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Snowman": {
-      "image": "https:/img/items40/snowman.png",
+      "image": "https://rustlabs.com/img/items40/snowman.png",
       "id": "1629293099",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Sofa": {
-      "image": "https:/img/items40/sofa.png",
+      "image": "https://rustlabs.com/img/items40/sofa.png",
       "id": "-555122905",
       "stack_size": "2",
       "despawn_time": "5 mins"
    },
    "Sofa - Pattern": {
-      "image": "https:/img/items40/sofa.pattern.png",
+      "image": "https://rustlabs.com/img/items40/sofa.pattern.png",
       "id": "782422285",
       "stack_size": "2",
       "despawn_time": "5 mins"
    },
    "Spinning wheel": {
-      "image": "https:/img/items40/spinner.wheel.png",
+      "image": "https://rustlabs.com/img/items40/spinner.wheel.png",
       "id": "-1100422738",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Stone Fireplace": {
-      "image": "https:/img/items40/fireplace.stone.png",
+      "image": "https://rustlabs.com/img/items40/fireplace.stone.png",
       "id": "-1535621066",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Storage Barrel Horizontal": {
-      "image": "https:/img/items40/storage_barrel_c.png",
+      "image": "https://rustlabs.com/img/items40/storage_barrel_c.png",
       "id": "-1421257350",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Storage Barrel Vertical": {
-      "image": "https:/img/items40/storage_barrel_b.png",
+      "image": "https://rustlabs.com/img/items40/storage_barrel_b.png",
       "id": "1307626005",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Survival Fish Trap": {
-      "image": "https:/img/items40/fishtrap.small.png",
+      "image": "https://rustlabs.com/img/items40/fishtrap.small.png",
       "id": "559147458",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Table": {
-      "image": "https:/img/items40/table.png",
+      "image": "https://rustlabs.com/img/items40/table.png",
       "id": "593465182",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tall Picture Frame": {
-      "image": "https:/img/items40/sign.pictureframe.tall.png",
+      "image": "https://rustlabs.com/img/items40/sign.pictureframe.tall.png",
       "id": "121049755",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Tall Weapon Rack": {
-      "image": "https:/img/items40/gunrack_tall.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack_tall.horizontal.png",
       "id": "240752557",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Torch Holder": {
-      "image": "https:/img/items40/torchholder.png",
+      "image": "https://rustlabs.com/img/items40/torchholder.png",
       "id": "446206234",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tuna Can Lamp": {
-      "image": "https:/img/items40/tunalight.png",
+      "image": "https://rustlabs.com/img/items40/tunalight.png",
       "id": "-1478445584",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Twitch Rivals Trophy": {
-      "image": "https:/img/items40/trophy.png",
+      "image": "https://rustlabs.com/img/items40/trophy.png",
       "id": "975983052",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Twitch Rivals Trophy 2023": {
-      "image": "https:/img/items40/trophy2023.png",
+      "image": "https://rustlabs.com/img/items40/trophy2023.png",
       "id": "-901370585",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Two Sided Hanging Sign": {
-      "image": "https:/img/items40/sign.hanging.png",
+      "image": "https://rustlabs.com/img/items40/sign.hanging.png",
       "id": "1205607945",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Two Sided Ornate Hanging Sign": {
-      "image": "https:/img/items40/sign.hanging.ornate.png",
+      "image": "https://rustlabs.com/img/items40/sign.hanging.ornate.png",
       "id": "-1647846966",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Two Sided Town Sign Post": {
-      "image": "https:/img/items40/sign.post.town.roof.png",
+      "image": "https://rustlabs.com/img/items40/sign.post.town.roof.png",
       "id": "826309791",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Vending Machine": {
-      "image": "https:/img/items40/vending.machine.png",
+      "image": "https://rustlabs.com/img/items40/vending.machine.png",
       "id": "198438816",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Wanted Poster": {
-      "image": "https:/img/items40/wantedposter.png",
+      "image": "https://rustlabs.com/img/items40/wantedposter.png",
       "id": "-1344017968",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Water Barrel": {
-      "image": "https:/img/items40/water.barrel.png",
+      "image": "https://rustlabs.com/img/items40/water.barrel.png",
       "id": "-1863559151",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Water Purifier": {
-      "image": "https:/img/items40/water.purifier.png",
+      "image": "https://rustlabs.com/img/items40/water.purifier.png",
       "id": "2114754781",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Weapon Rack Stand": {
-      "image": "https:/img/items40/gunrack_stand.png",
+      "image": "https://rustlabs.com/img/items40/gunrack_stand.png",
       "id": "1132603396",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Wide Weapon Rack": {
-      "image": "https:/img/items40/gunrack_wide.horizontal.png",
+      "image": "https://rustlabs.com/img/items40/gunrack_wide.horizontal.png",
       "id": "-96256997",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Wood Storage Box": {
-      "image": "https:/img/items40/box.wooden.png",
+      "image": "https://rustlabs.com/img/items40/box.wooden.png",
       "id": "-180129657",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Workbench Level 1": {
-      "image": "https:/img/items40/workbench1.png",
+      "image": "https://rustlabs.com/img/items40/workbench1.png",
       "id": "1524187186",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Workbench Level 2": {
-      "image": "https:/img/items40/workbench2.png",
+      "image": "https://rustlabs.com/img/items40/workbench2.png",
       "id": "-41896755",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Workbench Level 3": {
-      "image": "https:/img/items40/workbench3.png",
+      "image": "https://rustlabs.com/img/items40/workbench3.png",
       "id": "-1607980696",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "XL Picture Frame": {
-      "image": "https:/img/items40/sign.pictureframe.xl.png",
+      "image": "https://rustlabs.com/img/items40/sign.pictureframe.xl.png",
       "id": "-996185386",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "XXL Picture Frame": {
-      "image": "https:/img/items40/sign.pictureframe.xxl.png",
+      "image": "https://rustlabs.com/img/items40/sign.pictureframe.xxl.png",
       "id": "98508942",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Animal Fat": {
-      "image": "https:/img/items40/fat.animal.png",
+      "image": "https://rustlabs.com/img/items40/fat.animal.png",
       "id": "-1018587433",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Battery - Small": {
-      "image": "https:/img/items40/battery.small.png",
+      "image": "https://rustlabs.com/img/items40/battery.small.png",
       "id": "609049394",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bone Fragments": {
-      "image": "https:/img/items40/bone.fragments.png",
+      "image": "https://rustlabs.com/img/items40/bone.fragments.png",
       "id": "1719978075",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "CCTV Camera": {
-      "image": "https:/img/items40/cctv.camera.png",
+      "image": "https://rustlabs.com/img/items40/cctv.camera.png",
       "id": "634478325",
       "stack_size": "64",
       "despawn_time": "1 hour"
    },
    "Charcoal": {
-      "image": "https:/img/items40/charcoal.png",
+      "image": "https://rustlabs.com/img/items40/charcoal.png",
       "id": "-1938052175",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Cloth": {
-      "image": "https:/img/items40/cloth.png",
+      "image": "https://rustlabs.com/img/items40/cloth.png",
       "id": "-858312878",
       "stack_size": "1,000",
       "despawn_time": "20 mins"
    },
    "Coal :(": {
-      "image": "https:/img/items40/coal.png",
+      "image": "https://rustlabs.com/img/items40/coal.png",
       "id": "204391461",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Crude Oil": {
-      "image": "https:/img/items40/crude.oil.png",
+      "image": "https://rustlabs.com/img/items40/crude.oil.png",
       "id": "-321733511",
       "stack_size": "500",
       "despawn_time": "5 mins"
    },
    "Diesel Fuel": {
-      "image": "https:/img/items40/diesel_barrel.png",
+      "image": "https://rustlabs.com/img/items40/diesel_barrel.png",
       "id": "1568388703",
       "stack_size": "20",
       "despawn_time": "1 hour"
    },
    "Empty Can Of Beans": {
-      "image": "https:/img/items40/can.beans.empty.png",
+      "image": "https://rustlabs.com/img/items40/can.beans.empty.png",
       "id": "1655979682",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Empty Tuna Can": {
-      "image": "https:/img/items40/can.tuna.empty.png",
+      "image": "https://rustlabs.com/img/items40/can.tuna.empty.png",
       "id": "-1557377697",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Explosives": {
-      "image": "https:/img/items40/explosives.png",
+      "image": "https://rustlabs.com/img/items40/explosives.png",
       "id": "-592016202",
       "stack_size": "100",
       "despawn_time": "1 hour"
    },
    "Fertilizer": {
-      "image": "https:/img/items40/fertilizer.png",
+      "image": "https://rustlabs.com/img/items40/fertilizer.png",
       "id": "-930193596",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Gun Powder": {
-      "image": "https:/img/items40/gunpowder.png",
+      "image": "https://rustlabs.com/img/items40/gunpowder.png",
       "id": "-265876753",
       "stack_size": "1,000",
       "despawn_time": "1 hour"
    },
    "High Quality Metal": {
-      "image": "https:/img/items40/metal.refined.png",
+      "image": "https://rustlabs.com/img/items40/metal.refined.png",
       "id": "317398316",
       "stack_size": "100",
       "despawn_time": "40 mins"
    },
    "High Quality Metal Ore": {
-      "image": "https:/img/items40/hq.metal.ore.png",
+      "image": "https://rustlabs.com/img/items40/hq.metal.ore.png",
       "id": "-1982036270",
       "stack_size": "100",
       "despawn_time": "40 mins"
    },
    "Horse Dung": {
-      "image": "https:/img/items40/horsedung.png",
+      "image": "https://rustlabs.com/img/items40/horsedung.png",
       "id": "-1579932985",
       "stack_size": "100",
       "despawn_time": "1 hour"
    },
    "Human Skull": {
-      "image": "https:/img/items40/skull.human.png",
+      "image": "https://rustlabs.com/img/items40/skull.human.png",
       "id": "996293980",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Leather": {
-      "image": "https:/img/items40/leather.png",
+      "image": "https://rustlabs.com/img/items40/leather.png",
       "id": "1381010055",
       "stack_size": "1,000",
       "despawn_time": "20 mins"
    },
    "Low Grade Fuel": {
-      "image": "https:/img/items40/lowgradefuel.png",
+      "image": "https://rustlabs.com/img/items40/lowgradefuel.png",
       "id": "-946369541",
       "stack_size": "500",
       "despawn_time": "5 mins"
    },
    "Metal Fragments": {
-      "image": "https:/img/items40/metal.fragments.png",
+      "image": "https://rustlabs.com/img/items40/metal.fragments.png",
       "id": "69511070",
       "stack_size": "1,000",
       "despawn_time": "20 mins"
    },
    "Metal Ore": {
-      "image": "https:/img/items40/metal.ore.png",
+      "image": "https://rustlabs.com/img/items40/metal.ore.png",
       "id": "-4031221",
       "stack_size": "1,000",
       "despawn_time": "20 mins"
    },
    "Paper": {
-      "image": "https:/img/items40/paper.png",
+      "image": "https://rustlabs.com/img/items40/paper.png",
       "id": "-1779183908",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Plant Fiber": {
-      "image": "https:/img/items40/plantfiber.png",
+      "image": "https://rustlabs.com/img/items40/plantfiber.png",
       "id": "-804769727",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Research Paper": {
-      "image": "https:/img/items40/researchpaper.png",
+      "image": "https://rustlabs.com/img/items40/researchpaper.png",
       "id": "-544317637",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Salt Water": {
-      "image": "https:/img/items40/water.salt.png",
+      "image": "https://rustlabs.com/img/items40/water.salt.png",
       "id": "N/A",
       "stack_size": "N/A",
       "despawn_time": "N/A"
    },
    "Scrap": {
-      "image": "https:/img/items40/scrap.png",
+      "image": "https://rustlabs.com/img/items40/scrap.png",
       "id": "-932201673",
       "stack_size": "1,000",
       "despawn_time": "20 mins"
    },
    "Stones": {
-      "image": "https:/img/items40/stones.png",
+      "image": "https://rustlabs.com/img/items40/stones.png",
       "id": "-2099697608",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Sulfur": {
-      "image": "https:/img/items40/sulfur.png",
+      "image": "https://rustlabs.com/img/items40/sulfur.png",
       "id": "-1581843485",
       "stack_size": "1,000",
       "despawn_time": "40 mins"
    },
    "Sulfur Ore": {
-      "image": "https:/img/items40/sulfur.ore.png",
+      "image": "https://rustlabs.com/img/items40/sulfur.ore.png",
       "id": "-1157596551",
       "stack_size": "1,000",
       "despawn_time": "40 mins"
    },
    "Targeting Computer": {
-      "image": "https:/img/items40/targeting.computer.png",
+      "image": "https://rustlabs.com/img/items40/targeting.computer.png",
       "id": "1523195708",
       "stack_size": "64",
       "despawn_time": "1 hour"
    },
    "Water": {
-      "image": "https:/img/items40/water.png",
+      "image": "https://rustlabs.com/img/items40/water.png",
       "id": "N/A",
       "stack_size": "N/A",
       "despawn_time": "N/A"
    },
    "Wolf Skull": {
-      "image": "https:/img/items40/skull.wolf.png",
+      "image": "https://rustlabs.com/img/items40/skull.wolf.png",
       "id": "2048317869",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Wood": {
-      "image": "https:/img/items40/wood.png",
+      "image": "https://rustlabs.com/img/items40/wood.png",
       "id": "-151838493",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "A Barrel Costume": {
-      "image": "https:/img/items40/barrelcostume.png",
+      "image": "https://rustlabs.com/img/items40/barrelcostume.png",
       "id": "-1215166612",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Arctic Scientist Suit": {
-      "image": "https:/img/items40/hazmatsuit_scientist_arctic.png",
+      "image": "https://rustlabs.com/img/items40/hazmatsuit_scientist_arctic.png",
       "id": "1107575710",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Arctic Suit": {
-      "image": "https:/img/items40/hazmatsuit.arcticsuit.png",
+      "image": "https://rustlabs.com/img/items40/hazmatsuit.arcticsuit.png",
       "id": "-470439097",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Bandana Mask": {
-      "image": "https:/img/items40/mask.bandana.png",
+      "image": "https://rustlabs.com/img/items40/mask.bandana.png",
       "id": "-702051347",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bandit Guard Gear": {
-      "image": "https:/img/items40/attire.banditguard.png",
+      "image": "https://rustlabs.com/img/items40/attire.banditguard.png",
       "id": "-1622110948",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Baseball Cap": {
-      "image": "https:/img/items40/hat.cap.png",
+      "image": "https://rustlabs.com/img/items40/hat.cap.png",
       "id": "-1022661119",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Basic Horse Shoes": {
-      "image": "https:/img/items40/horse.shoes.basic.png",
+      "image": "https://rustlabs.com/img/items40/horse.shoes.basic.png",
       "id": "-1211268013",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Beenie Hat": {
-      "image": "https:/img/items40/hat.beenie.png",
+      "image": "https://rustlabs.com/img/items40/hat.beenie.png",
       "id": "1675639563",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Blue Jumpsuit": {
-      "image": "https:/img/items40/jumpsuit.suit.blue.png",
+      "image": "https://rustlabs.com/img/items40/jumpsuit.suit.blue.png",
       "id": "1601468620",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bone Armor": {
-      "image": "https:/img/items40/bone.armor.suit.png",
+      "image": "https://rustlabs.com/img/items40/bone.armor.suit.png",
       "id": "1746956556",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bone Helmet": {
-      "image": "https:/img/items40/deer.skull.mask.png",
+      "image": "https://rustlabs.com/img/items40/deer.skull.mask.png",
       "id": "-1903165497",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Boonie Hat": {
-      "image": "https:/img/items40/hat.boonie.png",
+      "image": "https://rustlabs.com/img/items40/hat.boonie.png",
       "id": "-23994173",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Boots": {
-      "image": "https:/img/items40/shoes.boots.png",
+      "image": "https://rustlabs.com/img/items40/shoes.boots.png",
       "id": "-1549739227",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Bucket Helmet": {
-      "image": "https:/img/items40/bucket.helmet.png",
+      "image": "https://rustlabs.com/img/items40/bucket.helmet.png",
       "id": "850280505",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Bunny Ears": {
-      "image": "https:/img/items40/attire.bunnyears.png",
+      "image": "https://rustlabs.com/img/items40/attire.bunnyears.png",
       "id": "-1004426654",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bunny Hat": {
-      "image": "https:/img/items40/hat.bunnyhat.png",
+      "image": "https://rustlabs.com/img/items40/hat.bunnyhat.png",
       "id": "23391694",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Bunny Onesie": {
-      "image": "https:/img/items40/attire.bunny.onesie.png",
+      "image": "https://rustlabs.com/img/items40/attire.bunny.onesie.png",
       "id": "-1266045928",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Burlap Gloves": {
-      "image": "https:/img/items40/burlap.gloves.new.png",
+      "image": "https://rustlabs.com/img/items40/burlap.gloves.new.png",
       "id": "21402876",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Burlap Headwrap": {
-      "image": "https:/img/items40/burlap.headwrap.png",
+      "image": "https://rustlabs.com/img/items40/burlap.headwrap.png",
       "id": "1877339384",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Burlap Shirt": {
-      "image": "https:/img/items40/burlap.shirt.png",
+      "image": "https://rustlabs.com/img/items40/burlap.shirt.png",
       "id": "602741290",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Burlap Shoes": {
-      "image": "https:/img/items40/burlap.shoes.png",
+      "image": "https://rustlabs.com/img/items40/burlap.shoes.png",
       "id": "-761829530",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Burlap Trousers": {
-      "image": "https:/img/items40/burlap.trousers.png",
+      "image": "https://rustlabs.com/img/items40/burlap.trousers.png",
       "id": "1992974553",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Candle Hat": {
-      "image": "https:/img/items40/hat.candle.png",
+      "image": "https://rustlabs.com/img/items40/hat.candle.png",
       "id": "1714496074",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Card Movember Moustache": {
-      "image": "https:/img/items40/movembermoustachecard.png",
+      "image": "https://rustlabs.com/img/items40/movembermoustachecard.png",
       "id": "3380160",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Chicken Costume": {
-      "image": "https:/img/items40/chicken.costume.png",
+      "image": "https://rustlabs.com/img/items40/chicken.costume.png",
       "id": "-152332823",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Clatter Helmet": {
-      "image": "https:/img/items40/clatter.helmet.png",
+      "image": "https://rustlabs.com/img/items40/clatter.helmet.png",
       "id": "968019378",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Coffee Can Helmet": {
-      "image": "https:/img/items40/coffeecan.helmet.png",
+      "image": "https://rustlabs.com/img/items40/coffeecan.helmet.png",
       "id": "-803263829",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Crate Costume": {
-      "image": "https:/img/items40/cratecostume.png",
+      "image": "https://rustlabs.com/img/items40/cratecostume.png",
       "id": "1189981699",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Diving Fins": {
-      "image": "https:/img/items40/diving.fins.png",
+      "image": "https://rustlabs.com/img/items40/diving.fins.png",
       "id": "296519935",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Diving Mask": {
-      "image": "https:/img/items40/diving.mask.png",
+      "image": "https://rustlabs.com/img/items40/diving.mask.png",
       "id": "-113413047",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Diving Tank": {
-      "image": "https:/img/items40/diving.tank.png",
+      "image": "https://rustlabs.com/img/items40/diving.tank.png",
       "id": "-2022172587",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Double Horse Saddle": {
-      "image": "https:/img/items40/horse.saddle.double.png",
+      "image": "https://rustlabs.com/img/items40/horse.saddle.double.png",
       "id": "-1323101799",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Dracula Cape": {
-      "image": "https:/img/items40/draculacape.png",
+      "image": "https://rustlabs.com/img/items40/draculacape.png",
       "id": "-258574361",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Dracula Mask": {
-      "image": "https:/img/items40/draculamask.png",
+      "image": "https://rustlabs.com/img/items40/draculamask.png",
       "id": "1865253052",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Dragon Mask": {
-      "image": "https:/img/items40/hat.dragonmask.png",
+      "image": "https://rustlabs.com/img/items40/hat.dragonmask.png",
       "id": "-22883916",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Egg Suit": {
-      "image": "https:/img/items40/attire.egg.suit.png",
+      "image": "https://rustlabs.com/img/items40/attire.egg.suit.png",
       "id": "-747743875",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Frog Boots": {
-      "image": "https:/img/items40/boots.frog.png",
+      "image": "https://rustlabs.com/img/items40/boots.frog.png",
       "id": "-1000573653",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Gas Mask": {
-      "image": "https:/img/items40/hat.gas.mask.png",
+      "image": "https://rustlabs.com/img/items40/hat.gas.mask.png",
       "id": "1659114910",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Ghost Costume": {
-      "image": "https:/img/items40/ghostsheet.png",
+      "image": "https://rustlabs.com/img/items40/ghostsheet.png",
       "id": "-1043618880",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Gingerbread Suit": {
-      "image": "https:/img/items40/gingerbreadsuit.png",
+      "image": "https://rustlabs.com/img/items40/gingerbreadsuit.png",
       "id": "-558880549",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Glowing Eyes": {
-      "image": "https:/img/items40/gloweyes.png",
+      "image": "https://rustlabs.com/img/items40/gloweyes.png",
       "id": "-690276911",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hazmat Suit": {
-      "image": "https:/img/items40/hazmatsuit.png",
+      "image": "https://rustlabs.com/img/items40/hazmatsuit.png",
       "id": "1266491000",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Headset": {
-      "image": "https:/img/items40/twitch.headset.png",
+      "image": "https://rustlabs.com/img/items40/twitch.headset.png",
       "id": "-1569700847",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Heavy Frankenstein Head": {
-      "image": "https:/img/items40/frankensteins.monster.03.head.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.03.head.png",
       "id": "-297099594",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Heavy Frankenstein Legs": {
-      "image": "https:/img/items40/frankensteins.monster.03.legs.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.03.legs.png",
       "id": "-2024549027",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Heavy Frankenstein Torso": {
-      "image": "https:/img/items40/frankensteins.monster.03.torso.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.03.torso.png",
       "id": "1614528785",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Heavy Plate Helmet": {
-      "image": "https:/img/items40/heavy.plate.helmet.png",
+      "image": "https://rustlabs.com/img/items40/heavy.plate.helmet.png",
       "id": "1181207482",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Heavy Plate Jacket": {
-      "image": "https:/img/items40/heavy.plate.jacket.png",
+      "image": "https://rustlabs.com/img/items40/heavy.plate.jacket.png",
       "id": "-1102429027",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Heavy Plate Pants": {
-      "image": "https:/img/items40/heavy.plate.pants.png",
+      "image": "https://rustlabs.com/img/items40/heavy.plate.pants.png",
       "id": "-1778159885",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Heavy Scientist Suit": {
-      "image": "https:/img/items40/scientistsuit_heavy.png",
+      "image": "https://rustlabs.com/img/items40/scientistsuit_heavy.png",
       "id": "-1772746857",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Boots": {
-      "image": "https:/img/items40/attire.hide.boots.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.boots.png",
       "id": "794356786",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Halterneck": {
-      "image": "https:/img/items40/attire.hide.helterneck.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.helterneck.png",
       "id": "3222790",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Pants": {
-      "image": "https:/img/items40/attire.hide.pants.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.pants.png",
       "id": "1722154847",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Poncho": {
-      "image": "https:/img/items40/attire.hide.poncho.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.poncho.png",
       "id": "980333378",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Skirt": {
-      "image": "https:/img/items40/attire.hide.skirt.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.skirt.png",
       "id": "-1773144852",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hide Vest": {
-      "image": "https:/img/items40/attire.hide.vest.png",
+      "image": "https://rustlabs.com/img/items40/attire.hide.vest.png",
       "id": "196700171",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "High Quality Horse Shoes": {
-      "image": "https:/img/items40/horse.shoes.advanced.png",
+      "image": "https://rustlabs.com/img/items40/horse.shoes.advanced.png",
       "id": "1989785143",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Hoodie": {
-      "image": "https:/img/items40/hoodie.png",
+      "image": "https://rustlabs.com/img/items40/hoodie.png",
       "id": "1751045826",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Horse Saddle": {
-      "image": "https:/img/items40/horse.saddle.png",
+      "image": "https://rustlabs.com/img/items40/horse.saddle.png",
       "id": "-1997543660",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hot Air Balloon Armor": {
-      "image": "https:/img/items40/hab.armor.png",
+      "image": "https://rustlabs.com/img/items40/hab.armor.png",
       "id": "-1989600732",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Improvised Balaclava": {
-      "image": "https:/img/items40/mask.balaclava.png",
+      "image": "https://rustlabs.com/img/items40/mask.balaclava.png",
       "id": "-2012470695",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Jacket": {
-      "image": "https:/img/items40/jacket.png",
+      "image": "https://rustlabs.com/img/items40/jacket.png",
       "id": "-1163532624",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Jumpsuit": {
-      "image": "https:/img/items40/jumpsuit.suit.png",
+      "image": "https://rustlabs.com/img/items40/jumpsuit.suit.png",
       "id": "-97459906",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Backpack": {
-      "image": "https:/img/items40/largebackpack.png",
+      "image": "https://rustlabs.com/img/items40/largebackpack.png",
       "id": "-907422733",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Leather Gloves": {
-      "image": "https:/img/items40/burlap.gloves.png",
+      "image": "https://rustlabs.com/img/items40/burlap.gloves.png",
       "id": "1366282552",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Light Frankenstein Head": {
-      "image": "https:/img/items40/frankensteins.monster.01.head.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.01.head.png",
       "id": "-134959124",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Light Frankenstein Legs": {
-      "image": "https:/img/items40/frankensteins.monster.01.legs.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.01.legs.png",
       "id": "106959911",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Light Frankenstein Torso": {
-      "image": "https:/img/items40/frankensteins.monster.01.torso.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.01.torso.png",
       "id": "-1624770297",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Longsleeve T-Shirt": {
-      "image": "https:/img/items40/tshirt.long.png",
+      "image": "https://rustlabs.com/img/items40/tshirt.long.png",
       "id": "935692442",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Lumberjack Hoodie": {
-      "image": "https:/img/items40/lumberjack%20hoodie.png",
+      "image": "https://rustlabs.com/img/items40/lumberjack%20hoodie.png",
       "id": "-763071910",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Medium Frankenstein Head": {
-      "image": "https:/img/items40/frankensteins.monster.02.head.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.02.head.png",
       "id": "-1732475823",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Medium Frankenstein Legs": {
-      "image": "https:/img/items40/frankensteins.monster.02.legs.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.02.legs.png",
       "id": "835042040",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Medium Frankenstein Torso": {
-      "image": "https:/img/items40/frankensteins.monster.02.torso.png",
+      "image": "https://rustlabs.com/img/items40/frankensteins.monster.02.torso.png",
       "id": "1491753484",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Metal Chest Plate": {
-      "image": "https:/img/items40/metal.plate.torso.png",
+      "image": "https://rustlabs.com/img/items40/metal.plate.torso.png",
       "id": "1110385766",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Metal Facemask": {
-      "image": "https:/img/items40/metal.facemask.png",
+      "image": "https://rustlabs.com/img/items40/metal.facemask.png",
       "id": "-194953424",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Miners Hat": {
-      "image": "https:/img/items40/hat.miner.png",
+      "image": "https://rustlabs.com/img/items40/hat.miner.png",
       "id": "-1539025626",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Movember Moustache": {
-      "image": "https:/img/items40/movembermoustache.png",
+      "image": "https://rustlabs.com/img/items40/movembermoustache.png",
       "id": "-2047081330",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Mummy Suit": {
-      "image": "https:/img/items40/halloween.mummysuit.png",
+      "image": "https://rustlabs.com/img/items40/halloween.mummysuit.png",
       "id": "277730763",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "NVGM Scientist Suit": {
-      "image": "https:/img/items40/hazmatsuit_scientist_nvgm.png",
+      "image": "https://rustlabs.com/img/items40/hazmatsuit_scientist_nvgm.png",
       "id": "86840834",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Nest Hat": {
-      "image": "https:/img/items40/attire.nesthat.png",
+      "image": "https://rustlabs.com/img/items40/attire.nesthat.png",
       "id": "1081315464",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Night Vision Goggles": {
-      "image": "https:/img/items40/nightvisiongoggles.png",
+      "image": "https://rustlabs.com/img/items40/nightvisiongoggles.png",
       "id": "-1518883088",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Ninja Suit": {
-      "image": "https:/img/items40/attire.ninja.suit.png",
+      "image": "https://rustlabs.com/img/items40/attire.ninja.suit.png",
       "id": "-1506417026",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Ox Mask": {
-      "image": "https:/img/items40/hat.oxmask.png",
+      "image": "https://rustlabs.com/img/items40/hat.oxmask.png",
       "id": "1315082560",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Pants": {
-      "image": "https:/img/items40/pants.png",
+      "image": "https://rustlabs.com/img/items40/pants.png",
       "id": "237239288",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Parachute": {
-      "image": "https:/img/items40/parachute.png",
+      "image": "https://rustlabs.com/img/items40/parachute.png",
       "id": "602628465",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Party Hat": {
-      "image": "https:/img/items40/partyhat.png",
+      "image": "https://rustlabs.com/img/items40/partyhat.png",
       "id": "-575744869",
       "stack_size": "1",
       "despawn_time": "30 sec"
    },
+   "Prisoner Hood": {
+      "image": "https://rustlabs.com/img/items40/prisonerhood.png",
+      "id": "-892718768",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Purple Sunglasses": {
-      "image": "https:/img/items40/twitchsunglasses.png",
+      "image": "https://rustlabs.com/img/items40/twitchsunglasses.png",
       "id": "20489901",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rabbit Mask": {
-      "image": "https:/img/items40/hat.rabbitmask.png",
+      "image": "https://rustlabs.com/img/items40/hat.rabbitmask.png",
       "id": "-986782031",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rat Mask": {
-      "image": "https:/img/items40/hat.ratmask.png",
+      "image": "https://rustlabs.com/img/items40/hat.ratmask.png",
       "id": "271048478",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Reindeer Antlers": {
-      "image": "https:/img/items40/attire.reindeer.headband.png",
+      "image": "https://rustlabs.com/img/items40/attire.reindeer.headband.png",
       "id": "-324675402",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Riot Helmet": {
-      "image": "https:/img/items40/riot.helmet.png",
+      "image": "https://rustlabs.com/img/items40/riot.helmet.png",
       "id": "671063303",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Road Sign Jacket": {
-      "image": "https:/img/items40/roadsign.jacket.png",
+      "image": "https://rustlabs.com/img/items40/roadsign.jacket.png",
       "id": "-2002277461",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Road Sign Kilt": {
-      "image": "https:/img/items40/roadsign.kilt.png",
+      "image": "https://rustlabs.com/img/items40/roadsign.kilt.png",
       "id": "1850456855",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Roadsign Gloves": {
-      "image": "https:/img/items40/roadsign.gloves.png",
+      "image": "https://rustlabs.com/img/items40/roadsign.gloves.png",
       "id": "-699558439",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Roadsign Horse Armor": {
-      "image": "https:/img/items40/horse.armor.roadsign.png",
+      "image": "https://rustlabs.com/img/items40/horse.armor.roadsign.png",
       "id": "60528587",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Saddle bag": {
-      "image": "https:/img/items40/horse.saddlebag.png",
+      "image": "https://rustlabs.com/img/items40/horse.saddlebag.png",
       "id": "1400460850",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Santa Beard": {
-      "image": "https:/img/items40/santabeard.png",
+      "image": "https://rustlabs.com/img/items40/santabeard.png",
       "id": "2126889441",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Santa Hat": {
-      "image": "https:/img/items40/santahat.png",
+      "image": "https://rustlabs.com/img/items40/santahat.png",
       "id": "-575483084",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Scarecrow Suit": {
-      "image": "https:/img/items40/scarecrow.suit.png",
+      "image": "https://rustlabs.com/img/items40/scarecrow.suit.png",
       "id": "273951840",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Scarecrow Wrap": {
-      "image": "https:/img/items40/scarecrowhead.png",
+      "image": "https://rustlabs.com/img/items40/scarecrowhead.png",
       "id": "809942731",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Scientist Suit": {
-      "image": "https:/img/items40/hazmatsuit_scientist_peacekeeper.png",
+      "image": "https://rustlabs.com/img/items40/hazmatsuit_scientist_peacekeeper.png",
       "id": "-253079493",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Shirt": {
-      "image": "https:/img/items40/shirt.collared.png",
+      "image": "https://rustlabs.com/img/items40/shirt.collared.png",
       "id": "-2025184684",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Shorts": {
-      "image": "https:/img/items40/pants.shorts.png",
+      "image": "https://rustlabs.com/img/items40/pants.shorts.png",
       "id": "-1695367501",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Single Horse Saddle": {
-      "image": "https:/img/items40/horse.saddle.single.png",
+      "image": "https://rustlabs.com/img/items40/horse.saddle.single.png",
       "id": "1559915778",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Small Backpack": {
-      "image": "https:/img/items40/smallbackpack.png",
+      "image": "https://rustlabs.com/img/items40/smallbackpack.png",
       "id": "2068884361",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Snow Jacket": {
-      "image": "https:/img/items40/jacket.snow.png",
+      "image": "https://rustlabs.com/img/items40/jacket.snow.png",
       "id": "-48090175",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Snowman Helmet": {
-      "image": "https:/img/items40/attire.snowman.helmet.png",
+      "image": "https://rustlabs.com/img/items40/attire.snowman.helmet.png",
       "id": "-842267147",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Sunglasses": {
-      "image": "https:/img/items40/sunglasses.png",
+      "image": "https://rustlabs.com/img/items40/sunglasses.png",
       "id": "352321488",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Surgeon Scrubs": {
-      "image": "https:/img/items40/halloween.surgeonsuit.png",
+      "image": "https://rustlabs.com/img/items40/halloween.surgeonsuit.png",
       "id": "-1785231475",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "T-Shirt": {
-      "image": "https:/img/items40/tshirt.png",
+      "image": "https://rustlabs.com/img/items40/tshirt.png",
       "id": "223891266",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tactical Gloves": {
-      "image": "https:/img/items40/tactical.gloves.png",
+      "image": "https://rustlabs.com/img/items40/tactical.gloves.png",
       "id": "-1108136649",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Tank Top": {
-      "image": "https:/img/items40/shirt.tanktop.png",
+      "image": "https://rustlabs.com/img/items40/shirt.tanktop.png",
       "id": "1608640313",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tiger Mask": {
-      "image": "https:/img/items40/hat.tigermask.png",
+      "image": "https://rustlabs.com/img/items40/hat.tigermask.png",
       "id": "709206314",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Wetsuit": {
-      "image": "https:/img/items40/diving.wetsuit.png",
+      "image": "https://rustlabs.com/img/items40/diving.wetsuit.png",
       "id": "-1101924344",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Wolf Headdress": {
-      "image": "https:/img/items40/hat.wolf.png",
+      "image": "https://rustlabs.com/img/items40/hat.wolf.png",
       "id": "-1478212975",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Wood Armor Helmet": {
-      "image": "https:/img/items40/wood.armor.helmet.png",
+      "image": "https://rustlabs.com/img/items40/wood.armor.helmet.png",
       "id": "-2094954543",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Wood Armor Pants": {
-      "image": "https:/img/items40/wood.armor.pants.png",
+      "image": "https://rustlabs.com/img/items40/wood.armor.pants.png",
       "id": "832133926",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Wood Chestplate": {
-      "image": "https:/img/items40/wood.armor.jacket.png",
+      "image": "https://rustlabs.com/img/items40/wood.armor.jacket.png",
       "id": "418081930",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Wooden Horse Armor": {
-      "image": "https:/img/items40/horse.armor.wood.png",
+      "image": "https://rustlabs.com/img/items40/horse.armor.wood.png",
       "id": "1659447559",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Binoculars": {
-      "image": "https:/img/items40/tool.binoculars.png",
+      "image": "https://rustlabs.com/img/items40/tool.binoculars.png",
       "id": "-1262185308",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Birthday Cake": {
-      "image": "https:/img/items40/cakefiveyear.png",
+      "image": "https://rustlabs.com/img/items40/cakefiveyear.png",
       "id": "1973165031",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Camera": {
-      "image": "https:/img/items40/tool.camera.png",
+      "image": "https://rustlabs.com/img/items40/tool.camera.png",
       "id": "-1316706473",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Chainsaw": {
-      "image": "https:/img/items40/chainsaw.png",
+      "image": "https://rustlabs.com/img/items40/chainsaw.png",
       "id": "1104520648",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Fishing Tackle": {
-      "image": "https:/img/items40/fishing.tackle.png",
+      "image": "https://rustlabs.com/img/items40/fishing.tackle.png",
       "id": "-1707425764",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Flare": {
-      "image": "https:/img/items40/flare.png",
+      "image": "https://rustlabs.com/img/items40/flare.png",
       "id": "304481038",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Flashlight": {
-      "image": "https:/img/items40/flashlight.held.png",
+      "image": "https://rustlabs.com/img/items40/flashlight.held.png",
       "id": "-196667575",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Garry's Mod Tool Gun": {
-      "image": "https:/img/items40/toolgun.png",
+      "image": "https://rustlabs.com/img/items40/toolgun.png",
       "id": "1803831286",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Geiger Counter": {
-      "image": "https:/img/items40/geiger.counter.png",
+      "image": "https://rustlabs.com/img/items40/geiger.counter.png",
       "id": "999690781",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hammer": {
-      "image": "https:/img/items40/hammer.png",
+      "image": "https://rustlabs.com/img/items40/hammer.png",
       "id": "200773292",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Handcuffs": {
+      "image": "https://rustlabs.com/img/items40/handcuffs.png",
+      "id": "-839576748",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Handmade Fishing Rod": {
-      "image": "https:/img/items40/fishingrod.handmade.png",
+      "image": "https://rustlabs.com/img/items40/fishingrod.handmade.png",
       "id": "1569882109",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Hatchet": {
-      "image": "https:/img/items40/hatchet.png",
+      "image": "https://rustlabs.com/img/items40/hatchet.png",
       "id": "-1252059217",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Instant Camera": {
-      "image": "https:/img/items40/tool.instant_camera.png",
+      "image": "https://rustlabs.com/img/items40/tool.instant_camera.png",
       "id": "-2001260025",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Jackhammer": {
-      "image": "https:/img/items40/jackhammer.png",
+      "image": "https://rustlabs.com/img/items40/jackhammer.png",
       "id": "1488979457",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Metal Detector": {
-      "image": "https:/img/items40/metal.detector.png",
+      "image": "https://rustlabs.com/img/items40/metal.detector.png",
       "id": "1168856825",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Pickaxe": {
-      "image": "https:/img/items40/pickaxe.png",
+      "image": "https://rustlabs.com/img/items40/pickaxe.png",
       "id": "-1302129395",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "RF Transmitter": {
-      "image": "https:/img/items40/rf.detonator.png",
+      "image": "https://rustlabs.com/img/items40/rf.detonator.png",
       "id": "596469572",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rock": {
-      "image": "https:/img/items40/rock.png",
+      "image": "https://rustlabs.com/img/items40/rock.png",
       "id": "963906841",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Salvaged Axe": {
-      "image": "https:/img/items40/axe.salvaged.png",
+      "image": "https://rustlabs.com/img/items40/axe.salvaged.png",
       "id": "-262590403",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Salvaged Hammer": {
-      "image": "https:/img/items40/hammer.salvaged.png",
+      "image": "https://rustlabs.com/img/items40/hammer.salvaged.png",
       "id": "-1506397857",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Salvaged Icepick": {
-      "image": "https:/img/items40/icepick.salvaged.png",
+      "image": "https://rustlabs.com/img/items40/icepick.salvaged.png",
       "id": "-1780802565",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Satchel Charge": {
-      "image": "https:/img/items40/explosive.satchel.png",
+      "image": "https://rustlabs.com/img/items40/explosive.satchel.png",
       "id": "-1878475007",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Shovel": {
-      "image": "https:/img/items40/shovel.png",
+      "image": "https://rustlabs.com/img/items40/shovel.png",
       "id": "-1536855921",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Smoke Grenade": {
-      "image": "https:/img/items40/grenade.smoke.png",
+      "image": "https://rustlabs.com/img/items40/grenade.smoke.png",
       "id": "1263920163",
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Spray Can": {
-      "image": "https:/img/items40/spraycan.png",
+      "image": "https://rustlabs.com/img/items40/spraycan.png",
       "id": "-596876839",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Stone Hatchet": {
-      "image": "https:/img/items40/stonehatchet.png",
+      "image": "https://rustlabs.com/img/items40/stonehatchet.png",
       "id": "-1583967946",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Stone Pickaxe": {
-      "image": "https:/img/items40/stone.pickaxe.png",
+      "image": "https://rustlabs.com/img/items40/stone.pickaxe.png",
       "id": "171931394",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Supply Signal": {
-      "image": "https:/img/items40/supply.signal.png",
+      "image": "https://rustlabs.com/img/items40/supply.signal.png",
       "id": "1397052267",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Survey Charge": {
-      "image": "https:/img/items40/surveycharge.png",
+      "image": "https://rustlabs.com/img/items40/surveycharge.png",
       "id": "1975934948",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Timed Explosive Charge": {
-      "image": "https:/img/items40/explosive.timed.png",
+      "image": "https://rustlabs.com/img/items40/explosive.timed.png",
       "id": "1248356124",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Torch": {
-      "image": "https:/img/items40/torch.png",
+      "image": "https://rustlabs.com/img/items40/torch.png",
       "id": "795236088",
       "stack_size": "1",
       "despawn_time": "30 sec"
    },
    "Water Bucket": {
-      "image": "https:/img/items40/bucket.water.png",
+      "image": "https://rustlabs.com/img/items40/bucket.water.png",
       "id": "1424075905",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Anti-Radiation Pills": {
-      "image": "https:/img/items40/antiradpills.png",
+      "image": "https://rustlabs.com/img/items40/antiradpills.png",
       "id": "-1432674913",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Bandage": {
-      "image": "https:/img/items40/bandage.png",
+      "image": "https://rustlabs.com/img/items40/bandage.png",
       "id": "-2072273936",
       "stack_size": "3",
       "despawn_time": "5 mins"
    },
    "Blood": {
-      "image": "https:/img/items40/blood.png",
+      "image": "https://rustlabs.com/img/items40/blood.png",
       "id": "1776460938",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Large Medkit": {
-      "image": "https:/img/items40/largemedkit.png",
+      "image": "https://rustlabs.com/img/items40/largemedkit.png",
       "id": "254522515",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Medical Syringe": {
-      "image": "https:/img/items40/syringe.medical.png",
+      "image": "https://rustlabs.com/img/items40/syringe.medical.png",
       "id": "1079279582",
       "stack_size": "2",
       "despawn_time": "20 mins"
    },
    "Adv. Anti-Rad Tea": {
-      "image": "https:/img/items40/radiationresisttea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/radiationresisttea.advanced.png",
       "id": "-1729415579",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Healing Tea": {
-      "image": "https:/img/items40/healingtea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/healingtea.advanced.png",
       "id": "-2123125470",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Max Health Tea": {
-      "image": "https:/img/items40/maxhealthtea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/maxhealthtea.advanced.png",
       "id": "603811464",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Ore Tea": {
-      "image": "https:/img/items40/oretea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/oretea.advanced.png",
       "id": "2063916636",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Rad. Removal Tea": {
-      "image": "https:/img/items40/radiationremovetea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/radiationremovetea.advanced.png",
       "id": "2021351233",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Scrap Tea": {
-      "image": "https:/img/items40/scraptea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/scraptea.advanced.png",
       "id": "524678627",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Advanced Wood Tea": {
-      "image": "https:/img/items40/woodtea.advanced.png",
+      "image": "https://rustlabs.com/img/items40/woodtea.advanced.png",
       "id": "-541206665",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Anchovy": {
-      "image": "https:/img/items40/fish.anchovy.png",
+      "image": "https://rustlabs.com/img/items40/fish.anchovy.png",
       "id": "342438846",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Anti-Rad Tea": {
-      "image": "https:/img/items40/radiationresisttea.png",
+      "image": "https://rustlabs.com/img/items40/radiationresisttea.png",
       "id": "-487356515",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Apple": {
-      "image": "https:/img/items40/apple.png",
+      "image": "https://rustlabs.com/img/items40/apple.png",
       "id": "1548091822",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Basic Healing Tea": {
-      "image": "https:/img/items40/healingtea.png",
+      "image": "https://rustlabs.com/img/items40/healingtea.png",
       "id": "-929092070",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Basic Max Health Tea": {
-      "image": "https:/img/items40/maxhealthtea.png",
+      "image": "https://rustlabs.com/img/items40/maxhealthtea.png",
       "id": "-1184406448",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Basic Ore Tea": {
-      "image": "https:/img/items40/oretea.png",
+      "image": "https://rustlabs.com/img/items40/oretea.png",
       "id": "1480022580",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Basic Scrap Tea": {
-      "image": "https:/img/items40/scraptea.png",
+      "image": "https://rustlabs.com/img/items40/scraptea.png",
       "id": "263834859",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Basic Wood Tea": {
-      "image": "https:/img/items40/woodtea.png",
+      "image": "https://rustlabs.com/img/items40/woodtea.png",
       "id": "-649128577",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Black Berry": {
-      "image": "https:/img/items40/black.berry.png",
+      "image": "https://rustlabs.com/img/items40/black.berry.png",
       "id": "1771755747",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Black Berry Clone": {
-      "image": "https:/img/items40/clone.black.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.black.berry.png",
       "id": "122783240",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Black Berry Seed": {
-      "image": "https:/img/items40/seed.black.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.black.berry.png",
       "id": "1911552868",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Black Raspberries": {
-      "image": "https:/img/items40/black.raspberries.png",
+      "image": "https://rustlabs.com/img/items40/black.raspberries.png",
       "id": "1931713481",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Blue Berry": {
-      "image": "https:/img/items40/blue.berry.png",
+      "image": "https://rustlabs.com/img/items40/blue.berry.png",
       "id": "1112162468",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Blue Berry Clone": {
-      "image": "https:/img/items40/clone.blue.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.blue.berry.png",
       "id": "838831151",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Blue Berry Seed": {
-      "image": "https:/img/items40/seed.blue.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.blue.berry.png",
       "id": "803954639",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Blueberries": {
-      "image": "https:/img/items40/blueberries.png",
+      "image": "https://rustlabs.com/img/items40/blueberries.png",
       "id": "-586342290",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Burnt Bear Meat": {
-      "image": "https:/img/items40/bearmeat.burned.png",
+      "image": "https://rustlabs.com/img/items40/bearmeat.burned.png",
       "id": "-989755543",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Chicken": {
-      "image": "https:/img/items40/chicken.burned.png",
+      "image": "https://rustlabs.com/img/items40/chicken.burned.png",
       "id": "1973684065",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Deer Meat": {
-      "image": "https:/img/items40/deermeat.burned.png",
+      "image": "https://rustlabs.com/img/items40/deermeat.burned.png",
       "id": "-78533081",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Horse Meat": {
-      "image": "https:/img/items40/horsemeat.burned.png",
+      "image": "https://rustlabs.com/img/items40/horsemeat.burned.png",
       "id": "1917703890",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Human Meat": {
-      "image": "https:/img/items40/humanmeat.burned.png",
+      "image": "https://rustlabs.com/img/items40/humanmeat.burned.png",
       "id": "-682687162",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Pork": {
-      "image": "https:/img/items40/meat.pork.burned.png",
+      "image": "https://rustlabs.com/img/items40/meat.pork.burned.png",
       "id": "1391703481",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Burnt Wolf Meat": {
-      "image": "https:/img/items40/wolfmeat.burned.png",
+      "image": "https://rustlabs.com/img/items40/wolfmeat.burned.png",
       "id": "1827479659",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Cactus Flesh": {
-      "image": "https:/img/items40/cactusflesh.png",
+      "image": "https://rustlabs.com/img/items40/cactusflesh.png",
       "id": "1783512007",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Can of Beans": {
-      "image": "https:/img/items40/can.beans.png",
+      "image": "https://rustlabs.com/img/items40/can.beans.png",
       "id": "-700591459",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Can of Tuna": {
-      "image": "https:/img/items40/can.tuna.png",
+      "image": "https://rustlabs.com/img/items40/can.tuna.png",
       "id": "-1941646328",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Candy Cane": {
-      "image": "https:/img/items40/candycane.png",
+      "image": "https://rustlabs.com/img/items40/candycane.png",
       "id": "1121925526",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Catfish": {
-      "image": "https:/img/items40/fish.catfish.png",
+      "image": "https://rustlabs.com/img/items40/fish.catfish.png",
       "id": "-587989372",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Chocolate Bar": {
-      "image": "https:/img/items40/chocolate.png",
+      "image": "https://rustlabs.com/img/items40/chocolate.png",
       "id": "-965336208",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Cooked Bear Meat": {
-      "image": "https:/img/items40/bearmeat.cooked.png",
+      "image": "https://rustlabs.com/img/items40/bearmeat.cooked.png",
       "id": "1873897110",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Cooked Chicken": {
-      "image": "https:/img/items40/chicken.cooked.png",
+      "image": "https://rustlabs.com/img/items40/chicken.cooked.png",
       "id": "-1848736516",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Cooked Deer Meat": {
-      "image": "https:/img/items40/deermeat.cooked.png",
+      "image": "https://rustlabs.com/img/items40/deermeat.cooked.png",
       "id": "-1509851560",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Cooked Fish": {
-      "image": "https:/img/items40/fish.cooked.png",
+      "image": "https://rustlabs.com/img/items40/fish.cooked.png",
       "id": "1668129151",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Cooked Horse Meat": {
-      "image": "https:/img/items40/horsemeat.cooked.png",
+      "image": "https://rustlabs.com/img/items40/horsemeat.cooked.png",
       "id": "-1162759543",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Cooked Human Meat": {
-      "image": "https:/img/items40/humanmeat.cooked.png",
+      "image": "https://rustlabs.com/img/items40/humanmeat.cooked.png",
       "id": "1536610005",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Cooked Pork": {
-      "image": "https:/img/items40/meat.pork.cooked.png",
+      "image": "https://rustlabs.com/img/items40/meat.pork.cooked.png",
       "id": "-242084766",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Cooked Wolf Meat": {
-      "image": "https:/img/items40/wolfmeat.cooked.png",
+      "image": "https://rustlabs.com/img/items40/wolfmeat.cooked.png",
       "id": "813023040",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Corn": {
-      "image": "https:/img/items40/corn.png",
+      "image": "https://rustlabs.com/img/items40/corn.png",
       "id": "1367190888",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Corn Clone": {
-      "image": "https:/img/items40/clone.corn.png",
+      "image": "https://rustlabs.com/img/items40/clone.corn.png",
       "id": "-778875547",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Corn Seed": {
-      "image": "https:/img/items40/seed.corn.png",
+      "image": "https://rustlabs.com/img/items40/seed.corn.png",
       "id": "998894949",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Granola Bar": {
-      "image": "https:/img/items40/granolabar.png",
+      "image": "https://rustlabs.com/img/items40/granolabar.png",
       "id": "-746030907",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Green Berry": {
-      "image": "https:/img/items40/green.berry.png",
+      "image": "https://rustlabs.com/img/items40/green.berry.png",
       "id": "858486327",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Green Berry Clone": {
-      "image": "https:/img/items40/clone.green.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.green.berry.png",
       "id": "-1305326964",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Green Berry Seed": {
-      "image": "https:/img/items40/seed.green.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.green.berry.png",
       "id": "-1776128552",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Grub": {
-      "image": "https:/img/items40/grub.png",
+      "image": "https://rustlabs.com/img/items40/grub.png",
       "id": "-568419968",
       "stack_size": "25",
       "despawn_time": "5 mins"
    },
    "Hemp Clone": {
-      "image": "https:/img/items40/clone.hemp.png",
+      "image": "https://rustlabs.com/img/items40/clone.hemp.png",
       "id": "-886280491",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Hemp Seed": {
-      "image": "https:/img/items40/seed.hemp.png",
+      "image": "https://rustlabs.com/img/items40/seed.hemp.png",
       "id": "-237809779",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Herring": {
-      "image": "https:/img/items40/fish.herring.png",
+      "image": "https://rustlabs.com/img/items40/fish.herring.png",
       "id": "-1698937385",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Minnows": {
-      "image": "https:/img/items40/fish.minnows.png",
+      "image": "https://rustlabs.com/img/items40/fish.minnows.png",
       "id": "-542577259",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Mushroom": {
-      "image": "https:/img/items40/mushroom.png",
+      "image": "https://rustlabs.com/img/items40/mushroom.png",
       "id": "-1962971928",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Orange Roughy": {
-      "image": "https:/img/items40/fish.orangeroughy.png",
+      "image": "https://rustlabs.com/img/items40/fish.orangeroughy.png",
       "id": "-1904821376",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Pickles": {
-      "image": "https:/img/items40/jar.pickle.png",
+      "image": "https://rustlabs.com/img/items40/jar.pickle.png",
       "id": "286193827",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Potato": {
-      "image": "https:/img/items40/potato.png",
+      "image": "https://rustlabs.com/img/items40/potato.png",
       "id": "-2086926071",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Potato Clone": {
-      "image": "https:/img/items40/clone.potato.png",
+      "image": "https://rustlabs.com/img/items40/clone.potato.png",
       "id": "1512054436",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Potato Seed": {
-      "image": "https:/img/items40/seed.potato.png",
+      "image": "https://rustlabs.com/img/items40/seed.potato.png",
       "id": "-2084071424",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Pumpkin": {
-      "image": "https:/img/items40/pumpkin.png",
+      "image": "https://rustlabs.com/img/items40/pumpkin.png",
       "id": "-567909622",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Pumpkin Plant Clone": {
-      "image": "https:/img/items40/clone.pumpkin.png",
+      "image": "https://rustlabs.com/img/items40/clone.pumpkin.png",
       "id": "1898094925",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Pumpkin Seed": {
-      "image": "https:/img/items40/seed.pumpkin.png",
+      "image": "https://rustlabs.com/img/items40/seed.pumpkin.png",
       "id": "-1511285251",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Pure Anti-Rad Tea": {
-      "image": "https:/img/items40/radiationresisttea.pure.png",
+      "image": "https://rustlabs.com/img/items40/radiationresisttea.pure.png",
       "id": "-33009419",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Healing Tea": {
-      "image": "https:/img/items40/healingtea.pure.png",
+      "image": "https://rustlabs.com/img/items40/healingtea.pure.png",
       "id": "-1677315902",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Max Health Tea": {
-      "image": "https:/img/items40/maxhealthtea.pure.png",
+      "image": "https://rustlabs.com/img/items40/maxhealthtea.pure.png",
       "id": "1712261904",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Ore Tea": {
-      "image": "https:/img/items40/oretea.pure.png",
+      "image": "https://rustlabs.com/img/items40/oretea.pure.png",
       "id": "1729374708",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Rad. Removal Tea": {
-      "image": "https:/img/items40/radiationremovetea.pure.png",
+      "image": "https://rustlabs.com/img/items40/radiationremovetea.pure.png",
       "id": "1905387657",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Scrap Tea": {
-      "image": "https:/img/items40/scraptea.pure.png",
+      "image": "https://rustlabs.com/img/items40/scraptea.pure.png",
       "id": "2024467711",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Pure Wood Tea": {
-      "image": "https:/img/items40/woodtea.pure.png",
+      "image": "https://rustlabs.com/img/items40/woodtea.pure.png",
       "id": "-557539629",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Rad. Removal Tea": {
-      "image": "https:/img/items40/radiationremovetea.png",
+      "image": "https://rustlabs.com/img/items40/radiationremovetea.png",
       "id": "-496584751",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Raw Bear Meat": {
-      "image": "https:/img/items40/bearmeat.png",
+      "image": "https://rustlabs.com/img/items40/bearmeat.png",
       "id": "-1520560807",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Raw Chicken Breast": {
-      "image": "https:/img/items40/chicken.raw.png",
+      "image": "https://rustlabs.com/img/items40/chicken.raw.png",
       "id": "-1440987069",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Raw Deer Meat": {
-      "image": "https:/img/items40/deermeat.raw.png",
+      "image": "https://rustlabs.com/img/items40/deermeat.raw.png",
       "id": "1422530437",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Raw Fish": {
-      "image": "https:/img/items40/fish.raw.png",
+      "image": "https://rustlabs.com/img/items40/fish.raw.png",
       "id": "989925924",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Raw Horse Meat": {
-      "image": "https:/img/items40/horsemeat.raw.png",
+      "image": "https://rustlabs.com/img/items40/horsemeat.raw.png",
       "id": "-1130350864",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Raw Human Meat": {
-      "image": "https:/img/items40/humanmeat.raw.png",
+      "image": "https://rustlabs.com/img/items40/humanmeat.raw.png",
       "id": "-1709878924",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Raw Pork": {
-      "image": "https:/img/items40/meat.boar.png",
+      "image": "https://rustlabs.com/img/items40/meat.boar.png",
       "id": "621915341",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Raw Wolf Meat": {
-      "image": "https:/img/items40/wolfmeat.raw.png",
+      "image": "https://rustlabs.com/img/items40/wolfmeat.raw.png",
       "id": "-395377963",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Red Berry": {
-      "image": "https:/img/items40/red.berry.png",
+      "image": "https://rustlabs.com/img/items40/red.berry.png",
       "id": "1272194103",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Red Berry Clone": {
-      "image": "https:/img/items40/clone.red.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.red.berry.png",
       "id": "2133269020",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Red Berry Seed": {
-      "image": "https:/img/items40/seed.red.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.red.berry.png",
       "id": "830839496",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Rotten Apple": {
-      "image": "https:/img/items40/apple.spoiled.png",
+      "image": "https://rustlabs.com/img/items40/apple.spoiled.png",
       "id": "352130972",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Salmon": {
-      "image": "https:/img/items40/fish.salmon.png",
+      "image": "https://rustlabs.com/img/items40/fish.salmon.png",
       "id": "-851988960",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Sardine": {
-      "image": "https:/img/items40/fish.sardine.png",
+      "image": "https://rustlabs.com/img/items40/fish.sardine.png",
       "id": "-1654233406",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Shark": {
-      "image": "https:/img/items40/fish.smallshark.png",
+      "image": "https://rustlabs.com/img/items40/fish.smallshark.png",
       "id": "-1768880890",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Small Trout": {
-      "image": "https:/img/items40/fish.troutsmall.png",
+      "image": "https://rustlabs.com/img/items40/fish.troutsmall.png",
       "id": "-1878764039",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Water Bottle": {
-      "image": "https:/img/items40/smallwaterbottle.png",
+      "image": "https://rustlabs.com/img/items40/smallwaterbottle.png",
       "id": "-1039528932",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Spoiled Chicken": {
-      "image": "https:/img/items40/chicken.spoiled.png",
+      "image": "https://rustlabs.com/img/items40/chicken.spoiled.png",
       "id": "-751151717",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Spoiled Human Meat": {
-      "image": "https:/img/items40/humanmeat.spoiled.png",
+      "image": "https://rustlabs.com/img/items40/humanmeat.spoiled.png",
       "id": "1272768630",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Spoiled Wolf Meat": {
-      "image": "https:/img/items40/wolfmeat.spoiled.png",
+      "image": "https://rustlabs.com/img/items40/wolfmeat.spoiled.png",
       "id": "-1167031859",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Super Serum": {
-      "image": "https:/img/items40/supertea.png",
+      "image": "https://rustlabs.com/img/items40/supertea.png",
       "id": "-1003665711",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Vodka Bottle": {
-      "image": "https:/img/items40/bottle.vodka.png",
+      "image": "https://rustlabs.com/img/items40/bottle.vodka.png",
       "id": "755224797",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Water Jug": {
-      "image": "https:/img/items40/waterjug.png",
+      "image": "https://rustlabs.com/img/items40/waterjug.png",
       "id": "-119235651",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "White Berry": {
-      "image": "https:/img/items40/white.berry.png",
+      "image": "https://rustlabs.com/img/items40/white.berry.png",
       "id": "854447607",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "White Berry Clone": {
-      "image": "https:/img/items40/clone.white.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.white.berry.png",
       "id": "1533551194",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "White Berry Seed": {
-      "image": "https:/img/items40/seed.white.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.white.berry.png",
       "id": "-992286106",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Worm": {
-      "image": "https:/img/items40/worm.png",
+      "image": "https://rustlabs.com/img/items40/worm.png",
       "id": "1770475779",
       "stack_size": "25",
       "despawn_time": "5 mins"
    },
    "Yellow Berry": {
-      "image": "https:/img/items40/yellow.berry.png",
+      "image": "https://rustlabs.com/img/items40/yellow.berry.png",
       "id": "1660145984",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Yellow Berry Clone": {
-      "image": "https:/img/items40/clone.yellow.berry.png",
+      "image": "https://rustlabs.com/img/items40/clone.yellow.berry.png",
       "id": "390728933",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Yellow Berry Seed": {
-      "image": "https:/img/items40/seed.yellow.berry.png",
+      "image": "https://rustlabs.com/img/items40/seed.yellow.berry.png",
       "id": "-520133715",
       "stack_size": "50",
       "despawn_time": "5 mins"
    },
    "Yellow Perch": {
-      "image": "https:/img/items40/fish.yellowperch.png",
+      "image": "https://rustlabs.com/img/items40/fish.yellowperch.png",
       "id": "680234026",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "12 Gauge Buckshot": {
-      "image": "https:/img/items40/ammo.shotgun.png",
+      "image": "https://rustlabs.com/img/items40/ammo.shotgun.png",
       "id": "-1685290200",
       "stack_size": "64",
       "despawn_time": "20 mins"
    },
    "12 Gauge Incendiary Shell": {
-      "image": "https:/img/items40/ammo.shotgun.fire.png",
+      "image": "https://rustlabs.com/img/items40/ammo.shotgun.fire.png",
       "id": "-1036635990",
       "stack_size": "64",
       "despawn_time": "20 mins"
    },
    "12 Gauge Slug": {
-      "image": "https:/img/items40/ammo.shotgun.slug.png",
+      "image": "https://rustlabs.com/img/items40/ammo.shotgun.slug.png",
       "id": "-727717969",
       "stack_size": "32",
       "despawn_time": "20 mins"
    },
    "40mm HE Grenade": {
-      "image": "https:/img/items40/ammo.grenadelauncher.he.png",
+      "image": "https://rustlabs.com/img/items40/ammo.grenadelauncher.he.png",
       "id": "349762871",
       "stack_size": "12",
       "despawn_time": "1 hour"
    },
    "40mm Shotgun Round": {
-      "image": "https:/img/items40/ammo.grenadelauncher.buckshot.png",
+      "image": "https://rustlabs.com/img/items40/ammo.grenadelauncher.buckshot.png",
       "id": "1055319033",
       "stack_size": "24",
       "despawn_time": "5 mins"
    },
    "40mm Smoke Grenade": {
-      "image": "https:/img/items40/ammo.grenadelauncher.smoke.png",
+      "image": "https://rustlabs.com/img/items40/ammo.grenadelauncher.smoke.png",
       "id": "915408809",
       "stack_size": "12",
       "despawn_time": "40 mins"
    },
    "5.56 Rifle Ammo": {
-      "image": "https:/img/items40/ammo.rifle.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rifle.png",
       "id": "-1211166256",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "Bone Arrow": {
-      "image": "https:/img/items40/arrow.bone.png",
+      "image": "https://rustlabs.com/img/items40/arrow.bone.png",
       "id": "215754713",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "Explosive 5.56 Rifle Ammo": {
-      "image": "https:/img/items40/ammo.rifle.explosive.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rifle.explosive.png",
       "id": "-1321651331",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "Fire Arrow": {
-      "image": "https:/img/items40/arrow.fire.png",
+      "image": "https://rustlabs.com/img/items40/arrow.fire.png",
       "id": "14241751",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "HV 5.56 Rifle Ammo": {
-      "image": "https:/img/items40/ammo.rifle.hv.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rifle.hv.png",
       "id": "1712070256",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "HV Pistol Ammo": {
-      "image": "https:/img/items40/ammo.pistol.hv.png",
+      "image": "https://rustlabs.com/img/items40/ammo.pistol.hv.png",
       "id": "-1691396643",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "Handmade Shell": {
-      "image": "https:/img/items40/ammo.handmade.shell.png",
+      "image": "https://rustlabs.com/img/items40/ammo.handmade.shell.png",
       "id": "588596902",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "High Velocity Arrow": {
-      "image": "https:/img/items40/arrow.hv.png",
+      "image": "https://rustlabs.com/img/items40/arrow.hv.png",
       "id": "-1023065463",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "High Velocity Rocket": {
-      "image": "https:/img/items40/ammo.rocket.hv.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.hv.png",
       "id": "-1841918730",
       "stack_size": "3",
       "despawn_time": "1 hour"
    },
    "Homing Missile": {
-      "image": "https:/img/items40/ammo.rocket.seeker.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.seeker.png",
       "id": "1296788329",
       "stack_size": "4",
       "despawn_time": "1 hour"
    },
    "Incendiary 5.56 Rifle Ammo": {
-      "image": "https:/img/items40/ammo.rifle.incendiary.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rifle.incendiary.png",
       "id": "605467368",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "Incendiary Pistol Bullet": {
-      "image": "https:/img/items40/ammo.pistol.fire.png",
+      "image": "https://rustlabs.com/img/items40/ammo.pistol.fire.png",
       "id": "51984655",
       "stack_size": "128",
       "despawn_time": "40 mins"
    },
    "Incendiary Rocket": {
-      "image": "https:/img/items40/ammo.rocket.fire.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.fire.png",
       "id": "1638322904",
       "stack_size": "3",
       "despawn_time": "1 hour"
    },
    "MLRS Rocket": {
-      "image": "https:/img/items40/ammo.rocket.mlrs.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.mlrs.png",
       "id": "-1843426638",
       "stack_size": "6",
       "despawn_time": "1 hour"
    },
    "Nailgun Nails": {
-      "image": "https:/img/items40/ammo.nailgun.nails.png",
+      "image": "https://rustlabs.com/img/items40/ammo.nailgun.nails.png",
       "id": "-2097376851",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "Pistol Bullet": {
-      "image": "https:/img/items40/ammo.pistol.png",
+      "image": "https://rustlabs.com/img/items40/ammo.pistol.png",
       "id": "785728077",
       "stack_size": "128",
       "despawn_time": "20 mins"
    },
    "Rocket": {
-      "image": "https:/img/items40/ammo.rocket.basic.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.basic.png",
       "id": "-742865266",
       "stack_size": "3",
       "despawn_time": "1 hour"
    },
    "SAM Ammo": {
-      "image": "https:/img/items40/ammo.rocket.sam.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.sam.png",
       "id": "-384243979",
       "stack_size": "1,000",
       "despawn_time": "40 mins"
    },
    "Smoke Rocket WIP!!!!": {
-      "image": "https:/img/items40/ammo.rocket.smoke.png",
+      "image": "https://rustlabs.com/img/items40/ammo.rocket.smoke.png",
       "id": "-17123659",
       "stack_size": "3",
       "despawn_time": "1 hour"
    },
    "Speargun Spear": {
-      "image": "https:/img/items40/speargun.spear.png",
+      "image": "https://rustlabs.com/img/items40/speargun.spear.png",
       "id": "-1800345240",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "Torpedo": {
-      "image": "https:/img/items40/submarine.torpedo.straight.png",
+      "image": "https://rustlabs.com/img/items40/submarine.torpedo.straight.png",
       "id": "-1671551935",
       "stack_size": "100",
       "despawn_time": "20 mins"
    },
    "Wooden Arrow": {
-      "image": "https:/img/items40/arrow.wooden.png",
+      "image": "https://rustlabs.com/img/items40/arrow.wooden.png",
       "id": "-1234735557",
       "stack_size": "64",
       "despawn_time": "5 mins"
    },
    "Flame Turret": {
-      "image": "https:/img/items40/flameturret.png",
+      "image": "https://rustlabs.com/img/items40/flameturret.png",
       "id": "528668503",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Homemade Landmine": {
-      "image": "https:/img/items40/trap.landmine.png",
+      "image": "https://rustlabs.com/img/items40/trap.landmine.png",
       "id": "-1663759755",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "SAM Site": {
-      "image": "https:/img/items40/samsite.png",
+      "image": "https://rustlabs.com/img/items40/samsite.png",
       "id": "-1009359066",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Shotgun Trap": {
-      "image": "https:/img/items40/guntrap.png",
+      "image": "https://rustlabs.com/img/items40/guntrap.png",
       "id": "352499047",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Snap Trap": {
-      "image": "https:/img/items40/trap.bear.png",
+      "image": "https://rustlabs.com/img/items40/trap.bear.png",
       "id": "-582782051",
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Wooden Floor Spikes": {
-      "image": "https:/img/items40/spikes.floor.png",
+      "image": "https://rustlabs.com/img/items40/spikes.floor.png",
       "id": "-92759291",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Blue Keycard": {
-      "image": "https:/img/items40/keycard_blue.png",
+      "image": "https://rustlabs.com/img/items40/keycard_blue.png",
       "id": "-484206264",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Bronze Egg": {
-      "image": "https:/img/items40/easter.bronzeegg.png",
+      "image": "https://rustlabs.com/img/items40/easter.bronzeegg.png",
       "id": "844440409",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Captain's Log": {
-      "image": "https:/img/items40/captainslog.png",
+      "image": "https://rustlabs.com/img/items40/captainslog.png",
       "id": "1230691307",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Coffin": {
-      "image": "https:/img/items40/coffin.storage.png",
+      "image": "https://rustlabs.com/img/items40/coffin.storage.png",
       "id": "573676040",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Cursed Cauldron": {
-      "image": "https:/img/items40/cursedcauldron.png",
+      "image": "https://rustlabs.com/img/items40/cursedcauldron.png",
       "id": "1242522330",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Decorative Baubels": {
-      "image": "https:/img/items40/xmas.decoration.baubels.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.baubels.png",
       "id": "-1667224349",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Decorative Gingerbread Men": {
-      "image": "https:/img/items40/xmas.decoration.gingerbreadmen.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.gingerbreadmen.png",
       "id": "1686524871",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Decorative Pinecones": {
-      "image": "https:/img/items40/xmas.decoration.pinecone.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.pinecone.png",
       "id": "-129230242",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Decorative Plastic Candy Canes": {
-      "image": "https:/img/items40/xmas.decoration.candycanes.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.candycanes.png",
       "id": "-209869746",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Decorative Tinsel": {
-      "image": "https:/img/items40/xmas.decoration.tinsel.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.tinsel.png",
       "id": "2106561762",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Door Key": {
-      "image": "https:/img/items40/door.key.png",
+      "image": "https://rustlabs.com/img/items40/door.key.png",
       "id": "-1112793865",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Egg Basket": {
-      "image": "https:/img/items40/easterbasket.png",
+      "image": "https://rustlabs.com/img/items40/easterbasket.png",
       "id": "1856217390",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Fogger-3000": {
-      "image": "https:/img/items40/fogmachine.png",
+      "image": "https://rustlabs.com/img/items40/fogmachine.png",
       "id": "-1973785141",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Giant Candy Decor": {
-      "image": "https:/img/items40/giantcandycanedecor.png",
+      "image": "https://rustlabs.com/img/items40/giantcandycanedecor.png",
       "id": "-695124222",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Giant Lollipop Decor": {
-      "image": "https:/img/items40/giantlollipops.png",
+      "image": "https://rustlabs.com/img/items40/giantlollipops.png",
       "id": "282103175",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Gold Egg": {
-      "image": "https:/img/items40/easter.goldegg.png",
+      "image": "https://rustlabs.com/img/items40/easter.goldegg.png",
       "id": "-1002156085",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Gravestone": {
-      "image": "https:/img/items40/gravestone.png",
+      "image": "https://rustlabs.com/img/items40/gravestone.png",
       "id": "809199956",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Graveyard Fence": {
-      "image": "https:/img/items40/wall.graveyard.fence.png",
+      "image": "https://rustlabs.com/img/items40/wall.graveyard.fence.png",
       "id": "-1679267738",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Green Keycard": {
-      "image": "https:/img/items40/keycard_green.png",
+      "image": "https://rustlabs.com/img/items40/keycard_green.png",
       "id": "37122747",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Halloween Candy": {
-      "image": "https:/img/items40/halloween.candy.png",
+      "image": "https://rustlabs.com/img/items40/halloween.candy.png",
       "id": "-888153050",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Head Bag": {
-      "image": "https:/img/items40/head.bag.png",
+      "image": "https://rustlabs.com/img/items40/head.bag.png",
       "id": "209218760",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Candle Set": {
-      "image": "https:/img/items40/largecandles.png",
+      "image": "https://rustlabs.com/img/items40/largecandles.png",
       "id": "-489848205",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Large Loot Bag": {
-      "image": "https:/img/items40/halloween.lootbag.large.png",
+      "image": "https://rustlabs.com/img/items40/halloween.lootbag.large.png",
       "id": "479292118",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Large Present": {
-      "image": "https:/img/items40/xmas.present.large.png",
+      "image": "https://rustlabs.com/img/items40/xmas.present.large.png",
       "id": "-1622660759",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Medium Loot Bag": {
-      "image": "https:/img/items40/halloween.lootbag.medium.png",
+      "image": "https://rustlabs.com/img/items40/halloween.lootbag.medium.png",
       "id": "1899610628",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Medium Present": {
-      "image": "https:/img/items40/xmas.present.medium.png",
+      "image": "https://rustlabs.com/img/items40/xmas.present.medium.png",
       "id": "756517185",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Note": {
-      "image": "https:/img/items40/note.png",
+      "image": "https://rustlabs.com/img/items40/note.png",
       "id": "1414245162",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Painted Egg": {
-      "image": "https:/img/items40/easter.paintedeggs.png",
+      "image": "https://rustlabs.com/img/items40/easter.paintedeggs.png",
       "id": "-126305173",
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
    "Photograph": {
-      "image": "https:/img/items40/photo.png",
+      "image": "https://rustlabs.com/img/items40/photo.png",
       "id": "62577426",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Pumpkin Bucket": {
-      "image": "https:/img/items40/pumpkinbasket.png",
+      "image": "https://rustlabs.com/img/items40/pumpkinbasket.png",
       "id": "1346158228",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Red Keycard": {
-      "image": "https:/img/items40/keycard_red.png",
+      "image": "https://rustlabs.com/img/items40/keycard_red.png",
       "id": "-1880870149",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Rustig\u00e9 Egg - Blue": {
-      "image": "https:/img/items40/rustige_egg_b.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_b.png",
       "id": "-173268132",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rustig\u00e9 Egg - Green": {
-      "image": "https:/img/items40/rustige_egg_e.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_e.png",
       "id": "-173268125",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rustig\u00e9 Egg - Ivory": {
-      "image": "https:/img/items40/rustige_egg_d.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_d.png",
       "id": "-173268126",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rustig\u00e9 Egg - Purple": {
-      "image": "https:/img/items40/rustige_egg_c.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_c.png",
       "id": "-173268131",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rustig\u00e9 Egg - Red": {
-      "image": "https:/img/items40/rustige_egg_a.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_a.png",
       "id": "-173268129",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Rustig\u00e9 Egg - White": {
-      "image": "https:/img/items40/rustige_egg_f.png",
+      "image": "https://rustlabs.com/img/items40/rustige_egg_f.png",
       "id": "-173268128",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Sickle": {
-      "image": "https:/img/items40/sickle.png",
+      "image": "https://rustlabs.com/img/items40/sickle.png",
       "id": "-1368584029",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Silver Egg": {
-      "image": "https:/img/items40/easter.silveregg.png",
+      "image": "https://rustlabs.com/img/items40/easter.silveregg.png",
       "id": "1757265204",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Candle Set": {
-      "image": "https:/img/items40/smallcandles.png",
+      "image": "https://rustlabs.com/img/items40/smallcandles.png",
       "id": "-2058362263",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Small Loot Bag": {
-      "image": "https:/img/items40/halloween.lootbag.small.png",
+      "image": "https://rustlabs.com/img/items40/halloween.lootbag.small.png",
       "id": "1319617282",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Small Present": {
-      "image": "https:/img/items40/xmas.present.small.png",
+      "image": "https://rustlabs.com/img/items40/xmas.present.small.png",
       "id": "-722241321",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Snow Machine": {
-      "image": "https:/img/items40/snowmachine.png",
+      "image": "https://rustlabs.com/img/items40/snowmachine.png",
       "id": "1358643074",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Spider Webs": {
-      "image": "https:/img/items40/spiderweb.png",
+      "image": "https://rustlabs.com/img/items40/spiderweb.png",
       "id": "882559853",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Spooky Speaker": {
-      "image": "https:/img/items40/spookyspeaker.png",
+      "image": "https://rustlabs.com/img/items40/spookyspeaker.png",
       "id": "1885488976",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Star Tree Topper": {
-      "image": "https:/img/items40/xmas.decoration.star.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.star.png",
       "id": "-1331212963",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Strobe Light": {
-      "image": "https:/img/items40/strobelight.png",
+      "image": "https://rustlabs.com/img/items40/strobelight.png",
       "id": "2104517339",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Tree Lights": {
-      "image": "https:/img/items40/xmas.decoration.lights.png",
+      "image": "https://rustlabs.com/img/items40/xmas.decoration.lights.png",
       "id": "1723747470",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Wooden Cross": {
-      "image": "https:/img/items40/woodcross.png",
+      "image": "https://rustlabs.com/img/items40/woodcross.png",
       "id": "699075597",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Armored Cockpit Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.cockpit.armored.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.cockpit.armored.png",
       "id": "1874610722",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Armored Passenger Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.passengers.armored.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.passengers.armored.png",
       "id": "-1615281216",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Bleach": {
-      "image": "https:/img/items40/bleach.png",
+      "image": "https://rustlabs.com/img/items40/bleach.png",
       "id": "1553078977",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Burst Module": {
-      "image": "https:/img/items40/weapon.mod.burstmodule.png",
+      "image": "https://rustlabs.com/img/items40/weapon.mod.burstmodule.png",
       "id": "838308300",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Camper Vehicle Module": {
-      "image": "https:/img/items40/vehicle.2mod.camper.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.2mod.camper.png",
       "id": "-1040518150",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Cockpit Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.cockpit.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.cockpit.png",
       "id": "-1501451746",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Cockpit With Engine Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.cockpit.with.engine.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.cockpit.with.engine.png",
       "id": "170758448",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Duct Tape": {
-      "image": "https:/img/items40/ducttape.png",
+      "image": "https://rustlabs.com/img/items40/ducttape.png",
       "id": "1401987718",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Electric Fuse": {
-      "image": "https:/img/items40/fuse.png",
+      "image": "https://rustlabs.com/img/items40/fuse.png",
       "id": "-629028935",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Empty Propane Tank": {
-      "image": "https:/img/items40/propanetank.png",
+      "image": "https://rustlabs.com/img/items40/propanetank.png",
       "id": "-1673693549",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Engine Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.engine.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.engine.png",
       "id": "1559779253",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Flatbed Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.flatbed.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.flatbed.png",
       "id": "-1880231361",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Fuel Tank Vehicle Module": {
-      "image": "https:/img/items40/vehicle.2mod.fuel.tank.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.2mod.fuel.tank.png",
       "id": "1186655046",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Gears": {
-      "image": "https:/img/items40/gears.png",
+      "image": "https://rustlabs.com/img/items40/gears.png",
       "id": "479143914",
       "stack_size": "20",
       "despawn_time": "40 mins"
    },
    "Glue": {
-      "image": "https:/img/items40/glue.png",
+      "image": "https://rustlabs.com/img/items40/glue.png",
       "id": "-1899491405",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "High Quality Carburetor": {
-      "image": "https:/img/items40/carburetor3.png",
+      "image": "https://rustlabs.com/img/items40/carburetor3.png",
       "id": "656371026",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "High Quality Crankshaft": {
-      "image": "https:/img/items40/crankshaft3.png",
+      "image": "https://rustlabs.com/img/items40/crankshaft3.png",
       "id": "1158340332",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "High Quality Pistons": {
-      "image": "https:/img/items40/piston3.png",
+      "image": "https://rustlabs.com/img/items40/piston3.png",
       "id": "1883981800",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "High Quality Spark Plugs": {
-      "image": "https:/img/items40/sparkplug3.png",
+      "image": "https://rustlabs.com/img/items40/sparkplug3.png",
       "id": "1072924620",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "High Quality Valves": {
-      "image": "https:/img/items40/valve3.png",
+      "image": "https://rustlabs.com/img/items40/valve3.png",
       "id": "-1802083073",
       "stack_size": "15",
       "despawn_time": "5 mins"
    },
    "Large Flatbed Vehicle Module": {
-      "image": "https:/img/items40/vehicle.2mod.flatbed.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.2mod.flatbed.png",
       "id": "-1693832478",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Low Quality Carburetor": {
-      "image": "https:/img/items40/carburetor1.png",
+      "image": "https://rustlabs.com/img/items40/carburetor1.png",
       "id": "656371028",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Low Quality Crankshaft": {
-      "image": "https:/img/items40/crankshaft1.png",
+      "image": "https://rustlabs.com/img/items40/crankshaft1.png",
       "id": "1158340334",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Low Quality Pistons": {
-      "image": "https:/img/items40/piston1.png",
+      "image": "https://rustlabs.com/img/items40/piston1.png",
       "id": "1883981798",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Low Quality Spark Plugs": {
-      "image": "https:/img/items40/sparkplug1.png",
+      "image": "https://rustlabs.com/img/items40/sparkplug1.png",
       "id": "-89874794",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Low Quality Valves": {
-      "image": "https:/img/items40/valve1.png",
+      "image": "https://rustlabs.com/img/items40/valve1.png",
       "id": "1330084809",
       "stack_size": "15",
       "despawn_time": "5 mins"
    },
    "MLRS Aiming Module": {
-      "image": "https:/img/items40/aiming.module.mlrs.png",
+      "image": "https://rustlabs.com/img/items40/aiming.module.mlrs.png",
       "id": "343045591",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Medium Quality Carburetor": {
-      "image": "https:/img/items40/carburetor2.png",
+      "image": "https://rustlabs.com/img/items40/carburetor2.png",
       "id": "656371027",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Medium Quality Crankshaft": {
-      "image": "https:/img/items40/crankshaft2.png",
+      "image": "https://rustlabs.com/img/items40/crankshaft2.png",
       "id": "1158340331",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Medium Quality Pistons": {
-      "image": "https:/img/items40/piston2.png",
+      "image": "https://rustlabs.com/img/items40/piston2.png",
       "id": "1883981801",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Medium Quality Spark Plugs": {
-      "image": "https:/img/items40/sparkplug2.png",
+      "image": "https://rustlabs.com/img/items40/sparkplug2.png",
       "id": "-493159321",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Medium Quality Valves": {
-      "image": "https:/img/items40/valve2.png",
+      "image": "https://rustlabs.com/img/items40/valve2.png",
       "id": "926800282",
       "stack_size": "15",
       "despawn_time": "5 mins"
    },
    "Metal Blade": {
-      "image": "https:/img/items40/metalblade.png",
+      "image": "https://rustlabs.com/img/items40/metalblade.png",
       "id": "1882709339",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Metal Pipe": {
-      "image": "https:/img/items40/metalpipe.png",
+      "image": "https://rustlabs.com/img/items40/metalpipe.png",
       "id": "95950017",
       "stack_size": "20",
       "despawn_time": "40 mins"
    },
    "Metal Spring": {
-      "image": "https:/img/items40/metalspring.png",
+      "image": "https://rustlabs.com/img/items40/metalspring.png",
       "id": "-1021495308",
       "stack_size": "20",
       "despawn_time": "40 mins"
    },
    "Passenger Vehicle Module": {
-      "image": "https:/img/items40/vehicle.2mod.passengers.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.2mod.passengers.png",
       "id": "895374329",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Rear Seats Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.rear.seats.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.rear.seats.png",
       "id": "1376065505",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Rifle Body": {
-      "image": "https:/img/items40/riflebody.png",
+      "image": "https://rustlabs.com/img/items40/riflebody.png",
       "id": "176787552",
       "stack_size": "10",
       "despawn_time": "1 hour"
    },
    "Road Signs": {
-      "image": "https:/img/items40/roadsigns.png",
+      "image": "https://rustlabs.com/img/items40/roadsigns.png",
       "id": "1199391518",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Rope": {
-      "image": "https:/img/items40/rope.png",
+      "image": "https://rustlabs.com/img/items40/rope.png",
       "id": "1414245522",
       "stack_size": "50 ft",
       "despawn_time": "20 mins"
    },
    "SMG Body": {
-      "image": "https:/img/items40/smgbody.png",
+      "image": "https://rustlabs.com/img/items40/smgbody.png",
       "id": "1230323789",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Semi Automatic Body": {
-      "image": "https:/img/items40/semibody.png",
+      "image": "https://rustlabs.com/img/items40/semibody.png",
       "id": "573926264",
       "stack_size": "10",
       "despawn_time": "40 mins"
    },
    "Sewing Kit": {
-      "image": "https:/img/items40/sewingkit.png",
+      "image": "https://rustlabs.com/img/items40/sewingkit.png",
       "id": "1234880403",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Sheet Metal": {
-      "image": "https:/img/items40/sheetmetal.png",
+      "image": "https://rustlabs.com/img/items40/sheetmetal.png",
       "id": "-1994909036",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Sticks": {
-      "image": "https:/img/items40/sticks.png",
+      "image": "https://rustlabs.com/img/items40/sticks.png",
       "id": "642482233",
       "stack_size": "100",
       "despawn_time": "20 mins"
    },
    "Storage Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.storage.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.storage.png",
       "id": "268565518",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Tarp": {
-      "image": "https:/img/items40/tarp.png",
+      "image": "https://rustlabs.com/img/items40/tarp.png",
       "id": "2019042823",
       "stack_size": "20",
       "despawn_time": "20 mins"
    },
    "Taxi Vehicle Module": {
-      "image": "https:/img/items40/vehicle.1mod.taxi.png",
+      "image": "https://rustlabs.com/img/items40/vehicle.1mod.taxi.png",
       "id": "-626174997",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Tech Trash": {
-      "image": "https:/img/items40/techparts.png",
+      "image": "https://rustlabs.com/img/items40/techparts.png",
       "id": "73681876",
       "stack_size": "50",
       "despawn_time": "1 hour"
    },
    "AND Switch": {
-      "image": "https:/img/items40/electric.andswitch.png",
+      "image": "https://rustlabs.com/img/items40/electric.andswitch.png",
       "id": "1171735914",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Audio Alarm": {
-      "image": "https:/img/items40/electric.audioalarm.png",
+      "image": "https://rustlabs.com/img/items40/electric.audioalarm.png",
       "id": "2100007442",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Auto Turret": {
-      "image": "https:/img/items40/autoturret.png",
+      "image": "https://rustlabs.com/img/items40/autoturret.png",
       "id": "-2139580305",
       "stack_size": "1",
       "despawn_time": "1 hour"
    },
    "Blocker": {
-      "image": "https:/img/items40/electric.blocker.png",
+      "image": "https://rustlabs.com/img/items40/electric.blocker.png",
       "id": "-690968985",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Button": {
-      "image": "https:/img/items40/electric.button.png",
+      "image": "https://rustlabs.com/img/items40/electric.button.png",
       "id": "-1778897469",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Cable Tunnel": {
-      "image": "https:/img/items40/electric.cabletunnel.png",
+      "image": "https://rustlabs.com/img/items40/electric.cabletunnel.png",
       "id": "1835946060",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Ceiling Light": {
-      "image": "https:/img/items40/ceilinglight.png",
+      "image": "https://rustlabs.com/img/items40/ceilinglight.png",
       "id": "1142993169",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Computer Station": {
-      "image": "https:/img/items40/computerstation.png",
+      "image": "https://rustlabs.com/img/items40/computerstation.png",
       "id": "-1588628467",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Counter": {
-      "image": "https:/img/items40/electric.counter.png",
+      "image": "https://rustlabs.com/img/items40/electric.counter.png",
       "id": "-216999575",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Deluxe Christmas Lights": {
-      "image": "https:/img/items40/xmas.lightstring.advanced.png",
+      "image": "https://rustlabs.com/img/items40/xmas.lightstring.advanced.png",
       "id": "-151387974",
       "stack_size": "150 ft",
       "despawn_time": "5 mins"
    },
    "Door Controller": {
-      "image": "https:/img/items40/electric.doorcontroller.png",
+      "image": "https://rustlabs.com/img/items40/electric.doorcontroller.png",
       "id": "-502177121",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Electric Furnace": {
-      "image": "https:/img/items40/electric.furnace.png",
+      "image": "https://rustlabs.com/img/items40/electric.furnace.png",
       "id": "-1196547867",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Electric Heater": {
-      "image": "https:/img/items40/electric.heater.png",
+      "image": "https://rustlabs.com/img/items40/electric.heater.png",
       "id": "-784870360",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Electrical Branch": {
-      "image": "https:/img/items40/electrical.branch.png",
+      "image": "https://rustlabs.com/img/items40/electrical.branch.png",
       "id": "-1448252298",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Elevator": {
-      "image": "https:/img/items40/elevator.png",
+      "image": "https://rustlabs.com/img/items40/elevator.png",
       "id": "1177596584",
       "stack_size": "5",
       "despawn_time": "40 mins"
    },
    "Flasher Light": {
-      "image": "https:/img/items40/electric.flasherlight.png",
+      "image": "https://rustlabs.com/img/items40/electric.flasherlight.png",
       "id": "-939424778",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Fluid Combiner": {
-      "image": "https:/img/items40/fluid.combiner.png",
+      "image": "https://rustlabs.com/img/items40/fluid.combiner.png",
       "id": "-265292885",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Fluid Splitter": {
-      "image": "https:/img/items40/fluid.splitter.png",
+      "image": "https://rustlabs.com/img/items40/fluid.splitter.png",
       "id": "-1166712463",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Fluid Switch & Pump": {
-      "image": "https:/img/items40/fluid.switch.png",
+      "image": "https://rustlabs.com/img/items40/fluid.switch.png",
       "id": "443432036",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Green Industrial Wall Light": {
-      "image": "https:/img/items40/industrial.wall.light.green.png",
+      "image": "https://rustlabs.com/img/items40/industrial.wall.light.green.png",
       "id": "1268178466",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "HBHF Sensor": {
-      "image": "https:/img/items40/electric.hbhfsensor.png",
+      "image": "https://rustlabs.com/img/items40/electric.hbhfsensor.png",
       "id": "-1507239837",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Hose Tool": {
-      "image": "https:/img/items40/hosetool.png",
+      "image": "https://rustlabs.com/img/items40/hosetool.png",
       "id": "363163265",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Igniter": {
-      "image": "https:/img/items40/electric.igniter.png",
+      "image": "https://rustlabs.com/img/items40/electric.igniter.png",
       "id": "-44876289",
       "stack_size": "3",
       "despawn_time": "5 mins"
    },
    "Industrial Combiner": {
-      "image": "https:/img/items40/industrial.combiner.png",
+      "image": "https://rustlabs.com/img/items40/industrial.combiner.png",
       "id": "1538126328",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Industrial Conveyor": {
-      "image": "https:/img/items40/industrial.conveyor.png",
+      "image": "https://rustlabs.com/img/items40/industrial.conveyor.png",
       "id": "610102428",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Industrial Crafter": {
-      "image": "https:/img/items40/industrial.crafter.png",
+      "image": "https://rustlabs.com/img/items40/industrial.crafter.png",
       "id": "1430085198",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Industrial Splitter": {
-      "image": "https:/img/items40/industrial.splitter.png",
+      "image": "https://rustlabs.com/img/items40/industrial.splitter.png",
       "id": "742745918",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Industrial Wall Light": {
-      "image": "https:/img/items40/industrial.wall.light.png",
+      "image": "https://rustlabs.com/img/items40/industrial.wall.light.png",
       "id": "1623701499",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Large Animated Neon Sign": {
-      "image": "https:/img/items40/sign.neon.xl.animated.png",
+      "image": "https://rustlabs.com/img/items40/sign.neon.xl.animated.png",
       "id": "1643667218",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Large Neon Sign": {
-      "image": "https:/img/items40/sign.neon.xl.png",
+      "image": "https://rustlabs.com/img/items40/sign.neon.xl.png",
       "id": "866332017",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Large Rechargeable Battery": {
-      "image": "https:/img/items40/electric.battery.rechargable.large.png",
+      "image": "https://rustlabs.com/img/items40/electric.battery.rechargable.large.png",
       "id": "553270375",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Large Solar Panel": {
-      "image": "https:/img/items40/electric.solarpanel.large.png",
+      "image": "https://rustlabs.com/img/items40/electric.solarpanel.large.png",
       "id": "2090395347",
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Laser Detector": {
-      "image": "https:/img/items40/electric.laserdetector.png",
+      "image": "https://rustlabs.com/img/items40/electric.laserdetector.png",
       "id": "-798293154",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Medium Animated Neon Sign": {
-      "image": "https:/img/items40/sign.neon.125x215.animated.png",
+      "image": "https://rustlabs.com/img/items40/sign.neon.125x215.animated.png",
       "id": "42535890",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Medium Neon Sign": {
-      "image": "https:/img/items40/sign.neon.125x215.png",
+      "image": "https://rustlabs.com/img/items40/sign.neon.125x215.png",
       "id": "-1423304443",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Medium Rechargeable Battery": {
-      "image": "https:/img/items40/electric.battery.rechargable.medium.png",
+      "image": "https://rustlabs.com/img/items40/electric.battery.rechargable.medium.png",
       "id": "2023888403",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Memory Cell": {
-      "image": "https:/img/items40/electrical.memorycell.png",
+      "image": "https://rustlabs.com/img/items40/electrical.memorycell.png",
       "id": "-746647361",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Modular Car Lift": {
-      "image": "https:/img/items40/modularcarlift.png",
+      "image": "https://rustlabs.com/img/items40/modularcarlift.png",
       "id": "1696050067",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "OR Switch": {
-      "image": "https:/img/items40/electric.orswitch.png",
+      "image": "https://rustlabs.com/img/items40/electric.orswitch.png",
       "id": "-1286302544",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "PTZ CCTV Camera": {
-      "image": "https:/img/items40/ptz.cctv.camera.png",
+      "image": "https://rustlabs.com/img/items40/ptz.cctv.camera.png",
       "id": "140006625",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Pipe Tool": {
-      "image": "https:/img/items40/pipetool.png",
+      "image": "https://rustlabs.com/img/items40/pipetool.png",
       "id": "-144513264",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Powered Water Purifier": {
-      "image": "https:/img/items40/powered.water.purifier.png",
+      "image": "https://rustlabs.com/img/items40/powered.water.purifier.png",
       "id": "-365097295",
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Pressure Pad": {
-      "image": "https:/img/items40/electric.pressurepad.png",
+      "image": "https://rustlabs.com/img/items40/electric.pressurepad.png",
       "id": "-2049214035",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "RAND Switch": {
-      "image": "https:/img/items40/electric.random.switch.png",
+      "image": "https://rustlabs.com/img/items40/electric.random.switch.png",
       "id": "492357192",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "RF Broadcaster": {
-      "image": "https:/img/items40/electric.rf.broadcaster.png",
+      "image": "https://rustlabs.com/img/items40/electric.rf.broadcaster.png",
       "id": "-1044468317",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "RF Pager": {
-      "image": "https:/img/items40/rf_pager.png",
+      "image": "https://rustlabs.com/img/items40/rf_pager.png",
       "id": "-566907190",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "RF Receiver": {
-      "image": "https:/img/items40/electric.rf.receiver.png",
+      "image": "https://rustlabs.com/img/items40/electric.rf.receiver.png",
       "id": "888415708",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Reactive Target": {
-      "image": "https:/img/items40/target.reactive.png",
+      "image": "https://rustlabs.com/img/items40/target.reactive.png",
       "id": "-1736356576",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Red Industrial Wall Light": {
-      "image": "https:/img/items40/industrial.wall.light.red.png",
+      "image": "https://rustlabs.com/img/items40/industrial.wall.light.red.png",
       "id": "-1160621614",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Root Combiner": {
-      "image": "https:/img/items40/electrical.combiner.png",
+      "image": "https://rustlabs.com/img/items40/electrical.combiner.png",
       "id": "-458565393",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Search Light": {
-      "image": "https:/img/items40/searchlight.png",
+      "image": "https://rustlabs.com/img/items40/searchlight.png",
       "id": "2087678962",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Seismic Sensor": {
-      "image": "https:/img/items40/electric.seismicsensor.png",
+      "image": "https://rustlabs.com/img/items40/electric.seismicsensor.png",
       "id": "-948291630",
       "stack_size": "10",
       "despawn_time": "20 mins"
    },
    "Simple Light": {
-      "image": "https:/img/items40/electric.simplelight.png",
+      "image": "https://rustlabs.com/img/items40/electric.simplelight.png",
       "id": "-282113991",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Siren Light": {
-      "image": "https:/img/items40/electric.sirenlight.png",
+      "image": "https://rustlabs.com/img/items40/electric.sirenlight.png",
       "id": "762289806",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Small Generator": {
-      "image": "https:/img/items40/electric.fuelgenerator.small.png",
+      "image": "https://rustlabs.com/img/items40/electric.fuelgenerator.small.png",
       "id": "1849887541",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Small Neon Sign": {
-      "image": "https:/img/items40/sign.neon.125x125.png",
+      "image": "https://rustlabs.com/img/items40/sign.neon.125x125.png",
       "id": "1305578813",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Small Rechargeable Battery": {
-      "image": "https:/img/items40/electric.battery.rechargable.small.png",
+      "image": "https://rustlabs.com/img/items40/electric.battery.rechargable.small.png",
       "id": "-692338819",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Smart Alarm": {
-      "image": "https:/img/items40/smart.alarm.png",
+      "image": "https://rustlabs.com/img/items40/smart.alarm.png",
       "id": "-695978112",
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
    "Smart Switch": {
-      "image": "https:/img/items40/smart.switch.png",
+      "image": "https://rustlabs.com/img/items40/smart.switch.png",
       "id": "988652725",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Splitter": {
-      "image": "https:/img/items40/electric.splitter.png",
+      "image": "https://rustlabs.com/img/items40/electric.splitter.png",
       "id": "-563624462",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Sprinkler": {
-      "image": "https:/img/items40/electric.sprinkler.png",
+      "image": "https://rustlabs.com/img/items40/electric.sprinkler.png",
       "id": "-781014061",
       "stack_size": "10",
       "despawn_time": "5 mins"
    },
    "Storage Adaptor": {
-      "image": "https:/img/items40/storageadaptor.png",
+      "image": "https://rustlabs.com/img/items40/storageadaptor.png",
       "id": "-1049172752",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Storage Monitor": {
-      "image": "https:/img/items40/storage.monitor.png",
+      "image": "https://rustlabs.com/img/items40/storage.monitor.png",
       "id": "1149964039",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Switch": {
-      "image": "https:/img/items40/electric.switch.png",
+      "image": "https://rustlabs.com/img/items40/electric.switch.png",
       "id": "1951603367",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Tesla Coil": {
-      "image": "https:/img/items40/electric.teslacoil.png",
+      "image": "https://rustlabs.com/img/items40/electric.teslacoil.png",
       "id": "1371909803",
       "stack_size": "3",
       "despawn_time": "5 mins"
    },
    "Test Generator": {
-      "image": "https:/img/items40/electric.generator.small.png",
+      "image": "https://rustlabs.com/img/items40/electric.generator.small.png",
       "id": "-295829489",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Timer": {
-      "image": "https:/img/items40/electric.timer.png",
+      "image": "https://rustlabs.com/img/items40/electric.timer.png",
       "id": "665332906",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Water Pump": {
-      "image": "https:/img/items40/waterpump.png",
+      "image": "https://rustlabs.com/img/items40/waterpump.png",
       "id": "-1284169891",
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
    "Wind Turbine": {
-      "image": "https:/img/items40/generator.wind.scrap.png",
+      "image": "https://rustlabs.com/img/items40/generator.wind.scrap.png",
       "id": "-1819763926",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
    "Wire Tool": {
-      "image": "https:/img/items40/wiretool.png",
+      "image": "https://rustlabs.com/img/items40/wiretool.png",
       "id": "-144417939",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "XOR Switch": {
-      "image": "https:/img/items40/electric.xorswitch.png",
+      "image": "https://rustlabs.com/img/items40/electric.xorswitch.png",
       "id": "1293102274",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Above Ground Pool": {
-      "image": "https:/img/items40/abovegroundpool.png",
+      "image": "https://rustlabs.com/img/items40/abovegroundpool.png",
       "id": "1840570710",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Acoustic Guitar": {
-      "image": "https:/img/items40/fun.guitar.png",
+      "image": "https://rustlabs.com/img/items40/fun.guitar.png",
       "id": "-2124352573",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Beach Chair": {
-      "image": "https:/img/items40/beachchair.png",
+      "image": "https://rustlabs.com/img/items40/beachchair.png",
       "id": "-321431890",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Beach Parasol": {
-      "image": "https:/img/items40/beachparasol.png",
+      "image": "https://rustlabs.com/img/items40/beachparasol.png",
       "id": "-1621539785",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Beach Table": {
-      "image": "https:/img/items40/beachtable.png",
+      "image": "https://rustlabs.com/img/items40/beachtable.png",
       "id": "657352755",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Beach Towel": {
-      "image": "https:/img/items40/beachtowel.png",
+      "image": "https://rustlabs.com/img/items40/beachtowel.png",
       "id": "-8312704",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Blue Boomer": {
-      "image": "https:/img/items40/firework.boomer.blue.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.blue.png",
       "id": "1744298439",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Blue Roman Candle": {
-      "image": "https:/img/items40/firework.romancandle.blue.png",
+      "image": "https://rustlabs.com/img/items40/firework.romancandle.blue.png",
       "id": "-515830359",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Boogie Board": {
-      "image": "https:/img/items40/boogieboard.png",
+      "image": "https://rustlabs.com/img/items40/boogieboard.png",
       "id": "-1478094705",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Boom Box": {
-      "image": "https:/img/items40/boombox.png",
+      "image": "https://rustlabs.com/img/items40/boombox.png",
       "id": "-1113501606",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Canbourine": {
-      "image": "https:/img/items40/fun.tambourine.png",
+      "image": "https://rustlabs.com/img/items40/fun.tambourine.png",
       "id": "-1379036069",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Cassette - Long": {
-      "image": "https:/img/items40/cassette.png",
+      "image": "https://rustlabs.com/img/items40/cassette.png",
       "id": "476066818",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Cassette - Medium": {
-      "image": "https:/img/items40/cassette.medium.png",
+      "image": "https://rustlabs.com/img/items40/cassette.medium.png",
       "id": "-912398867",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Cassette - Short": {
-      "image": "https:/img/items40/cassette.short.png",
+      "image": "https://rustlabs.com/img/items40/cassette.short.png",
       "id": "1523403414",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Cassette Recorder": {
-      "image": "https:/img/items40/fun.casetterecorder.png",
+      "image": "https://rustlabs.com/img/items40/fun.casetterecorder.png",
       "id": "-1530414568",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Champagne Boomer": {
-      "image": "https:/img/items40/firework.boomer.champagne.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.champagne.png",
       "id": "1324203999",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Confetti Cannon": {
-      "image": "https:/img/items40/confetticannon.png",
+      "image": "https://rustlabs.com/img/items40/confetticannon.png",
       "id": "1603174987",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Connected Speaker": {
-      "image": "https:/img/items40/connected.speaker.png",
+      "image": "https://rustlabs.com/img/items40/connected.speaker.png",
       "id": "968421290",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Cowbell": {
-      "image": "https:/img/items40/fun.cowbell.png",
+      "image": "https://rustlabs.com/img/items40/fun.cowbell.png",
       "id": "-1049881973",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Disco Ball": {
-      "image": "https:/img/items40/discoball.png",
+      "image": "https://rustlabs.com/img/items40/discoball.png",
       "id": "1895235349",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Disco Floor": {
-      "image": "https:/img/items40/discofloor.png",
+      "image": "https://rustlabs.com/img/items40/discofloor.png",
       "id": "286648290",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Firecracker String": {
-      "image": "https:/img/items40/lunar.firecrackers.png",
+      "image": "https://rustlabs.com/img/items40/lunar.firecrackers.png",
       "id": "-1961560162",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Green Boomer": {
-      "image": "https:/img/items40/firework.boomer.green.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.green.png",
       "id": "-656349006",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Green Roman Candle": {
-      "image": "https:/img/items40/firework.romancandle.green.png",
+      "image": "https://rustlabs.com/img/items40/firework.romancandle.green.png",
       "id": "-1306288356",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Inner Tube": {
-      "image": "https:/img/items40/innertube.png",
+      "image": "https://rustlabs.com/img/items40/innertube.png",
       "id": "-697981032",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Jerry Can Guitar": {
-      "image": "https:/img/items40/fun.jerrycanguitar.png",
+      "image": "https://rustlabs.com/img/items40/fun.jerrycanguitar.png",
       "id": "-979951147",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Junkyard Drum Kit": {
-      "image": "https:/img/items40/drumkit.png",
+      "image": "https://rustlabs.com/img/items40/drumkit.png",
       "id": "-1330640246",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Laser Light": {
-      "image": "https:/img/items40/laserlight.png",
+      "image": "https://rustlabs.com/img/items40/laserlight.png",
       "id": "853471967",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Megaphone": {
-      "image": "https:/img/items40/megaphone.png",
+      "image": "https://rustlabs.com/img/items40/megaphone.png",
       "id": "-583379016",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Microphone Stand": {
-      "image": "https:/img/items40/microphonestand.png",
+      "image": "https://rustlabs.com/img/items40/microphonestand.png",
       "id": "39600618",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Mobile Phone": {
-      "image": "https:/img/items40/mobilephone.png",
+      "image": "https://rustlabs.com/img/items40/mobilephone.png",
       "id": "-20045316",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "New Year Gong": {
-      "image": "https:/img/items40/newyeargong.png",
+      "image": "https://rustlabs.com/img/items40/newyeargong.png",
       "id": "-961457160",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Orange Boomer": {
-      "image": "https:/img/items40/firework.boomer.orange.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.orange.png",
       "id": "-7270019",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Paddling Pool": {
-      "image": "https:/img/items40/paddlingpool.png",
+      "image": "https://rustlabs.com/img/items40/paddlingpool.png",
       "id": "-733625651",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Pan Flute": {
-      "image": "https:/img/items40/fun.flute.png",
+      "image": "https://rustlabs.com/img/items40/fun.flute.png",
       "id": "-2040817543",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Pattern Boomer": {
-      "image": "https:/img/items40/firework.boomer.pattern.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.pattern.png",
       "id": "-379734527",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Pinata": {
-      "image": "https:/img/items40/pinata.png",
+      "image": "https://rustlabs.com/img/items40/pinata.png",
       "id": "-1442496789",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Plumber's Trumpet": {
-      "image": "https:/img/items40/fun.trumpet.png",
+      "image": "https://rustlabs.com/img/items40/fun.trumpet.png",
       "id": "273172220",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Portable Boom Box": {
-      "image": "https:/img/items40/fun.boomboxportable.png",
+      "image": "https://rustlabs.com/img/items40/fun.boomboxportable.png",
       "id": "576509618",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Red Boomer": {
-      "image": "https:/img/items40/firework.boomer.red.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.red.png",
       "id": "-1553999294",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Red Roman Candle": {
-      "image": "https:/img/items40/firework.romancandle.red.png",
+      "image": "https://rustlabs.com/img/items40/firework.romancandle.red.png",
       "id": "-1486461488",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Red Volcano Firework": {
-      "image": "https:/img/items40/firework.volcano.red.png",
+      "image": "https://rustlabs.com/img/items40/firework.volcano.red.png",
       "id": "-454370658",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Shovel Bass": {
-      "image": "https:/img/items40/fun.bass.png",
+      "image": "https://rustlabs.com/img/items40/fun.bass.png",
       "id": "-2107018088",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Skull Spikes": {
-      "image": "https:/img/items40/skullspikes.png",
+      "image": "https://rustlabs.com/img/items40/skullspikes.png",
       "id": "-1073015016",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Skull Trophy": {
-      "image": "https:/img/items40/skull.trophy.png",
+      "image": "https://rustlabs.com/img/items40/skull.trophy.png",
       "id": "-769647921",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Sky Lantern": {
-      "image": "https:/img/items40/skylantern.png",
+      "image": "https://rustlabs.com/img/items40/skylantern.png",
       "id": "1819863051",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Sled": {
-      "image": "https:/img/items40/sled.png",
+      "image": "https://rustlabs.com/img/items40/sled.png",
       "id": "-333406828",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Sound Light": {
-      "image": "https:/img/items40/soundlight.png",
+      "image": "https://rustlabs.com/img/items40/soundlight.png",
       "id": "-343857907",
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
    "Sousaphone": {
-      "image": "https:/img/items40/fun.tuba.png",
+      "image": "https://rustlabs.com/img/items40/fun.tuba.png",
       "id": "1784406797",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Telephone": {
-      "image": "https:/img/items40/telephone.png",
+      "image": "https://rustlabs.com/img/items40/telephone.png",
       "id": "1234878710",
       "stack_size": "1",
       "despawn_time": "20 mins"
    },
    "Violet Boomer": {
-      "image": "https:/img/items40/firework.boomer.violet.png",
+      "image": "https://rustlabs.com/img/items40/firework.boomer.violet.png",
       "id": "-280223496",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Violet Roman Candle": {
-      "image": "https:/img/items40/firework.romancandle.violet.png",
+      "image": "https://rustlabs.com/img/items40/firework.romancandle.violet.png",
       "id": "-99886070",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Violet Volcano Firework": {
-      "image": "https:/img/items40/firework.volcano.violet.png",
+      "image": "https://rustlabs.com/img/items40/firework.volcano.violet.png",
       "id": "-1538109120",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Wheelbarrow Piano": {
-      "image": "https:/img/items40/piano.png",
+      "image": "https://rustlabs.com/img/items40/piano.png",
       "id": "1272430949",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "White Volcano Firework": {
-      "image": "https:/img/items40/firework.volcano.png",
+      "image": "https://rustlabs.com/img/items40/firework.volcano.png",
       "id": "261913429",
       "stack_size": "20",
       "despawn_time": "5 mins"
    },
    "Wrapped Gift": {
-      "image": "https:/img/items40/wrappedgift.png",
+      "image": "https://rustlabs.com/img/items40/wrappedgift.png",
       "id": "204970153",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Wrapping Paper": {
-      "image": "https:/img/items40/wrappingpaper.png",
+      "image": "https://rustlabs.com/img/items40/wrappingpaper.png",
       "id": "1094293920",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
    "Xylobone": {
-      "image": "https:/img/items40/xylophone.png",
+      "image": "https://rustlabs.com/img/items40/xylophone.png",
       "id": "-211235948",
       "stack_size": "1",
       "despawn_time": "5 mins"
