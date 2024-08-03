@@ -558,6 +558,7 @@
 |SAM Site|![](https://rustlabs.com/img/items40/samsite.png)|-1009359066|1|1 hour|
 |Shotgun Trap|![](https://rustlabs.com/img/items40/guntrap.png)|352499047|1|40 mins|
 |Snap Trap|![](https://rustlabs.com/img/items40/trap.bear.png)|-582782051|3|20 mins|
+|Tin Can Alarm|![](https://rustlabs.com/img/items40/tincan.alarm.png)|962186730|1|20 mins|
 |Wooden Floor Spikes|![](https://rustlabs.com/img/items40/spikes.floor.png)|-92759291|10|5 mins|
 |Blue Keycard|![](https://rustlabs.com/img/items40/keycard_blue.png)|-484206264|1|40 mins|
 |Bronze Egg|![](https://rustlabs.com/img/items40/easter.bronzeegg.png)|844440409|10|5 mins|

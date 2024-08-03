@@ -3347,6 +3347,12 @@
       "stack_size": "3",
       "despawn_time": "20 mins"
    },
+   "Tin Can Alarm": {
+      "image": "https://rustlabs.com/img/items40/tincan.alarm.png",
+      "id": "962186730",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Wooden Floor Spikes": {
       "image": "https://rustlabs.com/img/items40/spikes.floor.png",
       "id": "-92759291",
