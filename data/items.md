@@ -21,7 +21,7 @@
 |Flashbang|![](https://rustlabs.com/img/items40/grenade.flashbang.png)|-936921910|5|20 mins|
 |HMLMG|![](https://rustlabs.com/img/items40/hmlmg.png)|-1214542497|1|1 hour|
 |Holosight|![](https://rustlabs.com/img/items40/weapon.mod.holosight.png)|442289265|1|40 mins|
-|Homing Missile Launcher|![](https://rustlabs.com/img/items40/homingmissile.launcher.png)|-218009552|1|1 hour|
+|Homing Missile Launcher|![](https://rustlabs.com/img/items40/homingmissile.launcher.png)|-218009552|1|40 mins|
 |Hunting Bow|![](https://rustlabs.com/img/items40/bow.hunting.png)|1443579727|1|5 mins|
 |L96 Rifle|![](https://rustlabs.com/img/items40/rifle.l96.png)|-778367295|1|1 hour|
 |LR-300 Assault Rifle|![](https://rustlabs.com/img/items40/rifle.lr300.png)|-1812555177|1|1 hour|
@@ -218,6 +218,7 @@
 |Two Sided Ornate Hanging Sign|![](https://rustlabs.com/img/items40/sign.hanging.ornate.png)|-1647846966|5|40 mins|
 |Two Sided Town Sign Post|![](https://rustlabs.com/img/items40/sign.post.town.roof.png)|826309791|5|40 mins|
 |Vending Machine|![](https://rustlabs.com/img/items40/vending.machine.png)|198438816|1|20 mins|
+|Wallpaper|![](https://rustlabs.com/img/items40/wallpaper.png)|-1501434104|10|5 mins|
 |Wanted Poster|![](https://rustlabs.com/img/items40/wantedposter.png)|-1344017968|1|5 mins|
 |Water Barrel|![](https://rustlabs.com/img/items40/water.barrel.png)|-1863559151|1|5 mins|
 |Water Purifier|![](https://rustlabs.com/img/items40/water.purifier.png)|2114754781|1|5 mins|
@@ -622,6 +623,7 @@
 |Engine Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.engine.png)|1559779253|1|40 mins|
 |Flatbed Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.flatbed.png)|-1880231361|1|40 mins|
 |Fuel Tank Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.2mod.fuel.tank.png)|1186655046|1|40 mins|
+|Gas Compression Overdrive|![](https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png)|-1767794021|1|40 mins|
 |Gears|![](https://rustlabs.com/img/items40/gears.png)|479143914|20|40 mins|
 |Glue|![](https://rustlabs.com/img/items40/glue.png)|-1899491405|10|20 mins|
 |High Quality Carburetor|![](https://rustlabs.com/img/items40/carburetor3.png)|656371026|5|5 mins|
@@ -668,6 +670,7 @@
 |Computer Station|![](https://rustlabs.com/img/items40/computerstation.png)|-1588628467|1|20 mins|
 |Counter|![](https://rustlabs.com/img/items40/electric.counter.png)|-216999575|5|20 mins|
 |Deluxe Christmas Lights|![](https://rustlabs.com/img/items40/xmas.lightstring.advanced.png)|-151387974|150 ft|5 mins|
+|Digital Clock|![](https://rustlabs.com/img/items40/electric.digitalclock.png)|1619039771|10|20 mins|
 |Door Controller|![](https://rustlabs.com/img/items40/electric.doorcontroller.png)|-502177121|5|20 mins|
 |Electric Furnace|![](https://rustlabs.com/img/items40/electric.furnace.png)|-1196547867|1|40 mins|
 |Electric Heater|![](https://rustlabs.com/img/items40/electric.heater.png)|-784870360|5|20 mins|

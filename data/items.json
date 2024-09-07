@@ -152,7 +152,7 @@
          "image": "https://rustlabs.com/img/items40/homingmissile.launcher.png",
          "id": "-218009552",
          "stack_size": "1",
-         "despawn_time": "1 hour"
+         "despawn_time": "40 mins"
       },
       {
          "name": "Hunting Bow",
@@ -1529,6 +1529,13 @@
          "id": "198438816",
          "stack_size": "1",
          "despawn_time": "20 mins"
+      },
+      {
+         "name": "Wallpaper",
+         "image": "https://rustlabs.com/img/items40/wallpaper.png",
+         "id": "-1501434104",
+         "stack_size": "10",
+         "despawn_time": "5 mins"
       },
       {
          "name": "Wanted Poster",
@@ -4377,6 +4384,13 @@
          "despawn_time": "40 mins"
       },
       {
+         "name": "Gas Compression Overdrive",
+         "image": "https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png",
+         "id": "-1767794021",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
+      },
+      {
          "name": "Gears",
          "image": "https://rustlabs.com/img/items40/gears.png",
          "id": "479143914",
@@ -4699,6 +4713,13 @@
          "id": "-151387974",
          "stack_size": "150 ft",
          "despawn_time": "5 mins"
+      },
+      {
+         "name": "Digital Clock",
+         "image": "https://rustlabs.com/img/items40/electric.digitalclock.png",
+         "id": "1619039771",
+         "stack_size": "10",
+         "despawn_time": "20 mins"
       },
       {
          "name": "Door Controller",
