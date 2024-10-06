@@ -113,11 +113,23 @@
       "stack_size": "5",
       "despawn_time": "20 mins"
    },
+   "Gas Compression Overdrive": {
+      "image": "https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png",
+      "id": "-1767794021",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
+   },
    "HMLMG": {
       "image": "https://rustlabs.com/img/items40/hmlmg.png",
       "id": "-1214542497",
       "stack_size": "1",
       "despawn_time": "1 hour"
+   },
+   "High Caliber Revolver": {
+      "image": "https://rustlabs.com/img/items40/revolver.hc.png",
+      "id": "-92315244",
+      "stack_size": "1",
+      "despawn_time": "40 mins"
    },
    "Holosight": {
       "image": "https://rustlabs.com/img/items40/weapon.mod.holosight.png",
@@ -803,6 +815,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Diver propulsion vehicle": {
+      "image": "https://rustlabs.com/img/items40/skidoo.png",
+      "id": "-1056824343",
+      "stack_size": "1",
+      "despawn_time": "20 mins"
+   },
    "Double Sign Post": {
       "image": "https://rustlabs.com/img/items40/sign.post.double.png",
       "id": "1521286012",
@@ -1127,7 +1145,7 @@
       "stack_size": "5",
       "despawn_time": "5 mins"
    },
-   "Secret Lab Chair": {
+   "Secretlab Chair": {
       "image": "https://rustlabs.com/img/items40/secretlabchair.png",
       "id": "567871954",
       "stack_size": "5",
@@ -1523,6 +1541,12 @@
       "stack_size": "1,000",
       "despawn_time": "5 mins"
    },
+   "Radioactive Water": {
+      "image": "https://rustlabs.com/img/items40/water.radioactive.png",
+      "id": "N/A",
+      "stack_size": "N/A",
+      "despawn_time": "N/A"
+   },
    "Research Paper": {
       "image": "https://rustlabs.com/img/items40/researchpaper.png",
       "id": "-544317637",
@@ -1799,6 +1823,12 @@
       "stack_size": "1",
       "despawn_time": "40 mins"
    },
+   "Frankenstein Mask": {
+      "image": "https://rustlabs.com/img/items40/frankensteinmask.png",
+      "id": "-1647389398",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Frog Boots": {
       "image": "https://rustlabs.com/img/items40/boots.frog.png",
       "id": "-1000573653",
@@ -2045,6 +2075,12 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
+   "Mummy Mask": {
+      "image": "https://rustlabs.com/img/items40/mummymask.png",
+      "id": "809689733",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
    "Mummy Suit": {
       "image": "https://rustlabs.com/img/items40/halloween.mummysuit.png",
       "id": "277730763",
@@ -2264,6 +2300,12 @@
    "Tiger Mask": {
       "image": "https://rustlabs.com/img/items40/hat.tigermask.png",
       "id": "709206314",
+      "stack_size": "1",
+      "despawn_time": "5 mins"
+   },
+   "Waterwell NPC Jumpsuit": {
+      "image": "https://rustlabs.com/img/items40/jumpsuit.waterwellnpc.png",
+      "id": "-874908751",
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
@@ -3539,7 +3581,7 @@
       "stack_size": "1",
       "despawn_time": "5 mins"
    },
-   "Pumpkin Bucket": {
+   "Pumpkin Basket": {
       "image": "https://rustlabs.com/img/items40/pumpkinbasket.png",
       "id": "1346158228",
       "stack_size": "1",
@@ -3734,12 +3776,6 @@
    "Fuel Tank Vehicle Module": {
       "image": "https://rustlabs.com/img/items40/vehicle.2mod.fuel.tank.png",
       "id": "1186655046",
-      "stack_size": "1",
-      "despawn_time": "40 mins"
-   },
-   "Gas Compression Overdrive": {
-      "image": "https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png",
-      "id": "-1767794021",
       "stack_size": "1",
       "despawn_time": "40 mins"
    },

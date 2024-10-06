@@ -19,7 +19,9 @@
 |F1 Grenade|![](https://rustlabs.com/img/items40/grenade.f1.png)|143803535|5|20 mins|
 |Flame Thrower|![](https://rustlabs.com/img/items40/flamethrower.png)|-1215753368|1|40 mins|
 |Flashbang|![](https://rustlabs.com/img/items40/grenade.flashbang.png)|-936921910|5|20 mins|
+|Gas Compression Overdrive|![](https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png)|-1767794021|1|40 mins|
 |HMLMG|![](https://rustlabs.com/img/items40/hmlmg.png)|-1214542497|1|1 hour|
+|High Caliber Revolver|![](https://rustlabs.com/img/items40/revolver.hc.png)|-92315244|1|40 mins|
 |Holosight|![](https://rustlabs.com/img/items40/weapon.mod.holosight.png)|442289265|1|40 mins|
 |Homing Missile Launcher|![](https://rustlabs.com/img/items40/homingmissile.launcher.png)|-218009552|1|40 mins|
 |Hunting Bow|![](https://rustlabs.com/img/items40/bow.hunting.png)|1443579727|1|5 mins|
@@ -134,6 +136,7 @@
 |Christmas Tree|![](https://rustlabs.com/img/items40/xmas.tree.png)|794443127|1|5 mins|
 |Clan Table|![](https://rustlabs.com/img/items40/clantable.png)|486661382|1|5 mins|
 |Composter|![](https://rustlabs.com/img/items40/composter.png)|-1488398114|1|5 mins|
+|Diver propulsion vehicle|![](https://rustlabs.com/img/items40/skidoo.png)|-1056824343|1|20 mins|
 |Double Sign Post|![](https://rustlabs.com/img/items40/sign.post.double.png)|1521286012|5|20 mins|
 |Dragon Door Knocker|![](https://rustlabs.com/img/items40/dragondoorknocker.png)|-854270928|1|5 mins|
 |Drone|![](https://rustlabs.com/img/items40/drone.png)|1588492232|1|40 mins|
@@ -188,7 +191,7 @@
 |SUPER Stocking|![](https://rustlabs.com/img/items40/stocking.large.png)|-465682601|1|5 mins|
 |Salvaged Shelves|![](https://rustlabs.com/img/items40/shelves.png)|1950721418|10|20 mins|
 |Scarecrow|![](https://rustlabs.com/img/items40/scarecrow.png)|177226991|5|5 mins|
-|Secret Lab Chair|![](https://rustlabs.com/img/items40/secretlabchair.png)|567871954|5|5 mins|
+|Secretlab Chair|![](https://rustlabs.com/img/items40/secretlabchair.png)|567871954|5|5 mins|
 |Single Sign Post|![](https://rustlabs.com/img/items40/sign.post.single.png)|1542290441|5|5 mins|
 |Skull Door Knocker|![](https://rustlabs.com/img/items40/skulldoorknocker.png)|-216116642|1|5 mins|
 |Skull Fire Pit|![](https://rustlabs.com/img/items40/skull_fire_pit.png)|553887414|1|5 mins|
@@ -254,6 +257,7 @@
 |Metal Ore|![](https://rustlabs.com/img/items40/metal.ore.png)|-4031221|1,000|20 mins|
 |Paper|![](https://rustlabs.com/img/items40/paper.png)|-1779183908|1,000|5 mins|
 |Plant Fiber|![](https://rustlabs.com/img/items40/plantfiber.png)|-804769727|1,000|5 mins|
+|Radioactive Water|![](https://rustlabs.com/img/items40/water.radioactive.png)|N/A|N/A|N/A|
 |Research Paper|![](https://rustlabs.com/img/items40/researchpaper.png)|-544317637|1,000|5 mins|
 |Salt Water|![](https://rustlabs.com/img/items40/water.salt.png)|N/A|N/A|N/A|
 |Scrap|![](https://rustlabs.com/img/items40/scrap.png)|-932201673|1,000|20 mins|
@@ -300,6 +304,7 @@
 |Dracula Mask|![](https://rustlabs.com/img/items40/draculamask.png)|1865253052|1|5 mins|
 |Dragon Mask|![](https://rustlabs.com/img/items40/hat.dragonmask.png)|-22883916|1|5 mins|
 |Egg Suit|![](https://rustlabs.com/img/items40/attire.egg.suit.png)|-747743875|1|40 mins|
+|Frankenstein Mask|![](https://rustlabs.com/img/items40/frankensteinmask.png)|-1647389398|1|5 mins|
 |Frog Boots|![](https://rustlabs.com/img/items40/boots.frog.png)|-1000573653|1|5 mins|
 |Gas Mask|![](https://rustlabs.com/img/items40/hat.gas.mask.png)|1659114910|1|5 mins|
 |Ghost Costume|![](https://rustlabs.com/img/items40/ghostsheet.png)|-1043618880|1|40 mins|
@@ -341,6 +346,7 @@
 |Metal Facemask|![](https://rustlabs.com/img/items40/metal.facemask.png)|-194953424|1|1 hour|
 |Miners Hat|![](https://rustlabs.com/img/items40/hat.miner.png)|-1539025626|1|5 mins|
 |Movember Moustache|![](https://rustlabs.com/img/items40/movembermoustache.png)|-2047081330|1|5 mins|
+|Mummy Mask|![](https://rustlabs.com/img/items40/mummymask.png)|809689733|1|5 mins|
 |Mummy Suit|![](https://rustlabs.com/img/items40/halloween.mummysuit.png)|277730763|1|40 mins|
 |NVGM Scientist Suit|![](https://rustlabs.com/img/items40/hazmatsuit_scientist_nvgm.png)|86840834|1|5 mins|
 |Nest Hat|![](https://rustlabs.com/img/items40/attire.nesthat.png)|1081315464|1|5 mins|
@@ -378,6 +384,7 @@
 |Tactical Gloves|![](https://rustlabs.com/img/items40/tactical.gloves.png)|-1108136649|1|40 mins|
 |Tank Top|![](https://rustlabs.com/img/items40/shirt.tanktop.png)|1608640313|1|5 mins|
 |Tiger Mask|![](https://rustlabs.com/img/items40/hat.tigermask.png)|709206314|1|5 mins|
+|Waterwell NPC Jumpsuit|![](https://rustlabs.com/img/items40/jumpsuit.waterwellnpc.png)|-874908751|1|5 mins|
 |Wetsuit|![](https://rustlabs.com/img/items40/diving.wetsuit.png)|-1101924344|1|40 mins|
 |Wolf Headdress|![](https://rustlabs.com/img/items40/hat.wolf.png)|-1478212975|1|40 mins|
 |Wood Armor Helmet|![](https://rustlabs.com/img/items40/wood.armor.helmet.png)|-2094954543|1|20 mins|
@@ -590,7 +597,7 @@
 |Note|![](https://rustlabs.com/img/items40/note.png)|1414245162|1|5 mins|
 |Painted Egg|![](https://rustlabs.com/img/items40/easter.paintedeggs.png)|-126305173|1,000|5 mins|
 |Photograph|![](https://rustlabs.com/img/items40/photo.png)|62577426|1|5 mins|
-|Pumpkin Bucket|![](https://rustlabs.com/img/items40/pumpkinbasket.png)|1346158228|1|20 mins|
+|Pumpkin Basket|![](https://rustlabs.com/img/items40/pumpkinbasket.png)|1346158228|1|20 mins|
 |Red Keycard|![](https://rustlabs.com/img/items40/keycard_red.png)|-1880870149|1|1 hour|
 |Rustigé Egg - Blue|![](https://rustlabs.com/img/items40/rustige_egg_b.png)|-173268132|1|5 mins|
 |Rustigé Egg - Green|![](https://rustlabs.com/img/items40/rustige_egg_e.png)|-173268125|1|5 mins|
@@ -623,7 +630,6 @@
 |Engine Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.engine.png)|1559779253|1|40 mins|
 |Flatbed Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.flatbed.png)|-1880231361|1|40 mins|
 |Fuel Tank Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.2mod.fuel.tank.png)|1186655046|1|40 mins|
-|Gas Compression Overdrive|![](https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png)|-1767794021|1|40 mins|
 |Gears|![](https://rustlabs.com/img/items40/gears.png)|479143914|20|40 mins|
 |Glue|![](https://rustlabs.com/img/items40/glue.png)|-1899491405|10|20 mins|
 |High Quality Carburetor|![](https://rustlabs.com/img/items40/carburetor3.png)|656371026|5|5 mins|
