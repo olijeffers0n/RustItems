@@ -21,6 +21,7 @@
 |Flashbang|![](https://rustlabs.com/img/items40/grenade.flashbang.png)|-936921910|5|20 mins|
 |Gas Compression Overdrive|![](https://rustlabs.com/img/items40/weapon.mod.gascompressionovedrive.png)|-1767794021|1|40 mins|
 |HMLMG|![](https://rustlabs.com/img/items40/hmlmg.png)|-1214542497|1|1 hour|
+|Handmade SMG|![](https://rustlabs.com/img/items40/t1_smg.png)|2083256995|1|40 mins|
 |High Caliber Revolver|![](https://rustlabs.com/img/items40/revolver.hc.png)|-92315244|1|40 mins|
 |Holosight|![](https://rustlabs.com/img/items40/weapon.mod.holosight.png)|442289265|1|40 mins|
 |Homing Missile Launcher|![](https://rustlabs.com/img/items40/homingmissile.launcher.png)|-218009552|1|40 mins|
@@ -49,6 +50,7 @@
 |Python Revolver|![](https://rustlabs.com/img/items40/pistol.python.png)|1373971859|1|40 mins|
 |Revolver|![](https://rustlabs.com/img/items40/pistol.revolver.png)|649912614|1|20 mins|
 |Rocket Launcher|![](https://rustlabs.com/img/items40/rocket.launcher.png)|442886268|1|1 hour|
+|SKS|![](https://rustlabs.com/img/items40/rifle.sks.png)|-348232115|1|40 mins|
 |Salvaged Cleaver|![](https://rustlabs.com/img/items40/salvaged.cleaver.png)|-1978999529|1|20 mins|
 |Salvaged Sword|![](https://rustlabs.com/img/items40/salvaged.sword.png)|1326180354|1|5 mins|
 |Semi-Automatic Pistol|![](https://rustlabs.com/img/items40/pistol.semiauto.png)|818877484|1|40 mins|

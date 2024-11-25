@@ -148,6 +148,13 @@
          "despawn_time": "1 hour"
       },
       {
+         "name": "Handmade SMG",
+         "image": "https://rustlabs.com/img/items40/t1_smg.png",
+         "id": "2083256995",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
+      },
+      {
          "name": "High Caliber Revolver",
          "image": "https://rustlabs.com/img/items40/revolver.hc.png",
          "id": "-92315244",
@@ -342,6 +349,13 @@
          "id": "442886268",
          "stack_size": "1",
          "despawn_time": "1 hour"
+      },
+      {
+         "name": "SKS",
+         "image": "https://rustlabs.com/img/items40/rifle.sks.png",
+         "id": "-348232115",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
       },
       {
          "name": "Salvaged Cleaver",
