@@ -1,13 +1,6 @@
 {
    "Weapons": [
       {
-         "name": "16x Zoom Scope",
-         "image": "https://rustlabs.com/img/items40/weapon.mod.8x.scope.png",
-         "id": "174866732",
-         "stack_size": "1",
-         "despawn_time": "40 mins"
-      },
-      {
          "name": "8x Zoom Scope",
          "image": "https://rustlabs.com/img/items40/weapon.mod.small.scope.png",
          "id": "567235583",
@@ -454,6 +447,13 @@
          "id": "-885833256",
          "stack_size": "1",
          "despawn_time": "5 mins"
+      },
+      {
+         "name": "Variable Zoom Scope",
+         "image": "https://rustlabs.com/img/items40/weapon.mod.8x.scope.png",
+         "id": "174866732",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
       },
       {
          "name": "Water Gun",
@@ -1083,6 +1083,13 @@
          "despawn_time": "5 mins"
       },
       {
+         "name": "Hazmat Plushy",
+         "image": "https://rustlabs.com/img/items40/hazmat.plushy.png",
+         "id": "1578317134",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
          "name": "Hazmat Youtooz",
          "image": "https://rustlabs.com/img/items40/hazmatyoutooz.png",
          "id": "-1696379844",
@@ -1123,6 +1130,13 @@
          "id": "-143132326",
          "stack_size": "1",
          "despawn_time": "20 mins"
+      },
+      {
+         "name": "Ice Sculpture",
+         "image": "https://rustlabs.com/img/items40/sculpture.ice.png",
+         "id": "504109620",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
       },
       {
          "name": "Jack O Lantern Angry",
@@ -2709,6 +2723,13 @@
          "id": "709206314",
          "stack_size": "1",
          "despawn_time": "5 mins"
+      },
+      {
+         "name": "Twitch Rivals Flag",
+         "image": "https://rustlabs.com/img/items40/twitchrivalsflag.png",
+         "id": "-739993590",
+         "stack_size": "1",
+         "despawn_time": "40 mins"
       },
       {
          "name": "Waterwell NPC Jumpsuit",
@@ -4422,7 +4443,7 @@
          "name": "Empty Propane Tank",
          "image": "https://rustlabs.com/img/items40/propanetank.png",
          "id": "-1673693549",
-         "stack_size": "5",
+         "stack_size": "20",
          "despawn_time": "20 mins"
       },
       {
@@ -5280,6 +5301,13 @@
          "name": "Canbourine",
          "image": "https://rustlabs.com/img/items40/fun.tambourine.png",
          "id": "-1379036069",
+         "stack_size": "1",
+         "despawn_time": "5 mins"
+      },
+      {
+         "name": "Car Radio",
+         "image": "https://rustlabs.com/img/items40/vehicle.car_radio.png",
+         "id": "721798950",
          "stack_size": "1",
          "despawn_time": "5 mins"
       },

@@ -1,6 +1,5 @@
 |Name|Image|ID|Stack Size|Despawn Time|
 |:-:|:-:|:-:|:-:|:-:|
-|16x Zoom Scope|![](https://rustlabs.com/img/items40/weapon.mod.8x.scope.png)|174866732|1|40 mins|
 |8x Zoom Scope|![](https://rustlabs.com/img/items40/weapon.mod.small.scope.png)|567235583|1|40 mins|
 |Assault Rifle|![](https://rustlabs.com/img/items40/rifle.ak.png)|1545779598|1|1 hour|
 |Beancan Grenade|![](https://rustlabs.com/img/items40/grenade.beancan.png)|1840822026|5|40 mins|
@@ -65,6 +64,7 @@
 |Stone Spear|![](https://rustlabs.com/img/items40/spear.stone.png)|1602646136|1|5 mins|
 |Thompson|![](https://rustlabs.com/img/items40/smg.thompson.png)|-1758372725|1|40 mins|
 |Vampire Stake|![](https://rustlabs.com/img/items40/vampire.stake.png)|-885833256|1|5 mins|
+|Variable Zoom Scope|![](https://rustlabs.com/img/items40/weapon.mod.8x.scope.png)|174866732|1|40 mins|
 |Water Gun|![](https://rustlabs.com/img/items40/gun.water.png)|722955039|1|5 mins|
 |Water Pistol|![](https://rustlabs.com/img/items40/pistol.water.png)|-1815301988|1|5 mins|
 |Waterpipe Shotgun|![](https://rustlabs.com/img/items40/shotgun.waterpipe.png)|-1367281941|1|20 mins|
@@ -154,12 +154,14 @@
 |Frontier Horns Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.3.horizontal.png)|-52398594|10|5 mins|
 |Frontier Horseshoe Single Item Rack|![](https://rustlabs.com/img/items40/gunrack.single.2.horizontal.png)|-849373693|10|5 mins|
 |Furnace|![](https://rustlabs.com/img/items40/furnace.png)|-1999722522|1|5 mins|
+|Hazmat Plushy|![](https://rustlabs.com/img/items40/hazmat.plushy.png)|1578317134|1|5 mins|
 |Hazmat Youtooz|![](https://rustlabs.com/img/items40/hazmatyoutooz.png)|-1696379844|1|5 mins|
 |Heavy Scientist Youtooz|![](https://rustlabs.com/img/items40/heavyscientistyoutooz.png)|-722629980|1|5 mins|
 |Hitch & Trough|![](https://rustlabs.com/img/items40/hitchtroughcombo.png)|1160881421|1|5 mins|
 |Hobo Barrel|![](https://rustlabs.com/img/items40/hobobarrel.png)|-1442559428|1|5 mins|
 |Horizontal Weapon Rack|![](https://rustlabs.com/img/items40/gunrack.horizontal.png)|-246672609|10|5 mins|
 |Huge Wooden Sign|![](https://rustlabs.com/img/items40/sign.wooden.huge.png)|-143132326|1|20 mins|
+|Ice Sculpture|![](https://rustlabs.com/img/items40/sculpture.ice.png)|504109620|1|5 mins|
 |Jack O Lantern Angry|![](https://rustlabs.com/img/items40/jackolantern.angry.png)|1242482355|1|5 mins|
 |Jack O Lantern Happy|![](https://rustlabs.com/img/items40/jackolantern.happy.png)|-1824943010|1|5 mins|
 |Kayak|![](https://rustlabs.com/img/items40/kayak.png)|190184021|1|5 mins|
@@ -386,6 +388,7 @@
 |Tactical Gloves|![](https://rustlabs.com/img/items40/tactical.gloves.png)|-1108136649|1|40 mins|
 |Tank Top|![](https://rustlabs.com/img/items40/shirt.tanktop.png)|1608640313|1|5 mins|
 |Tiger Mask|![](https://rustlabs.com/img/items40/hat.tigermask.png)|709206314|1|5 mins|
+|Twitch Rivals Flag|![](https://rustlabs.com/img/items40/twitchrivalsflag.png)|-739993590|1|40 mins|
 |Waterwell NPC Jumpsuit|![](https://rustlabs.com/img/items40/jumpsuit.waterwellnpc.png)|-874908751|1|5 mins|
 |Wetsuit|![](https://rustlabs.com/img/items40/diving.wetsuit.png)|-1101924344|1|40 mins|
 |Wolf Headdress|![](https://rustlabs.com/img/items40/hat.wolf.png)|-1478212975|1|40 mins|
@@ -628,7 +631,7 @@
 |Cockpit With Engine Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.cockpit.with.engine.png)|170758448|1|40 mins|
 |Duct Tape|![](https://rustlabs.com/img/items40/ducttape.png)|1401987718|20|20 mins|
 |Electric Fuse|![](https://rustlabs.com/img/items40/fuse.png)|-629028935|10|40 mins|
-|Empty Propane Tank|![](https://rustlabs.com/img/items40/propanetank.png)|-1673693549|5|20 mins|
+|Empty Propane Tank|![](https://rustlabs.com/img/items40/propanetank.png)|-1673693549|20|20 mins|
 |Engine Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.engine.png)|1559779253|1|40 mins|
 |Flatbed Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.1mod.flatbed.png)|-1880231361|1|40 mins|
 |Fuel Tank Vehicle Module|![](https://rustlabs.com/img/items40/vehicle.2mod.fuel.tank.png)|1186655046|1|40 mins|
@@ -751,6 +754,7 @@
 |Boogie Board|![](https://rustlabs.com/img/items40/boogieboard.png)|-1478094705|1|5 mins|
 |Boom Box|![](https://rustlabs.com/img/items40/boombox.png)|-1113501606|1|5 mins|
 |Canbourine|![](https://rustlabs.com/img/items40/fun.tambourine.png)|-1379036069|1|5 mins|
+|Car Radio|![](https://rustlabs.com/img/items40/vehicle.car_radio.png)|721798950|1|5 mins|
 |Cassette - Long|![](https://rustlabs.com/img/items40/cassette.png)|476066818|1|5 mins|
 |Cassette - Medium|![](https://rustlabs.com/img/items40/cassette.medium.png)|-912398867|1|5 mins|
 |Cassette - Short|![](https://rustlabs.com/img/items40/cassette.short.png)|1523403414|1|5 mins|
